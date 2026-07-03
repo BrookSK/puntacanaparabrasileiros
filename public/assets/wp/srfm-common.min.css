@@ -6,10 +6,12 @@
 .srfm-form-container * {
     box-sizing: border-box;
 }
-.srfm-form-container .srfm-form {
+.srfm-form-container .srfm-form,
+form.srfm-form {
     display: flex;
     flex-wrap: wrap;
     gap: var(--srfm-column-gap-between-blocks, 16px);
+    row-gap: var(--srfm-row-gap-between-blocks, 18px);
 }
 .srfm-form-container .srfm-block-width-25 {
     flex: 0 1 calc(25% - 0.75 * var(--srfm-column-gap-between-blocks, 16px));
