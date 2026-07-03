@@ -6,9 +6,7 @@ class AffiliateController extends Controller
 {
     public function index()
     {
-        $this->wpView('site/affiliate/index', [
-            'pageTitle' => 'Programa de Afiliados - Punta Cana para Brasileiros',
-        ]);
+        require_once VIEWS_PATH . '/site/programa-afiliados-wp.php';
     }
 
     public function dashboard()
