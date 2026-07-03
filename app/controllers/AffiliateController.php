@@ -6,8 +6,9 @@ class AffiliateController extends Controller
 {
     public function index()
     {
-        // Usar página estática WP para a landing page de afiliados (conta-afiliado tem o conteúdo do programa)
-        require_once VIEWS_PATH . '/site/conta-afiliado-wp.php';
+        $this->wpView('site/affiliate/index', [
+            'pageTitle' => 'Programa de Afiliados - Punta Cana para Brasileiros',
+        ]);
     }
 
     public function dashboard()

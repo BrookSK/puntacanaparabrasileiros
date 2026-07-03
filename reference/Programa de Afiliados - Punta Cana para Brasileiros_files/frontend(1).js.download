@@ -1,0 +1,669 @@
+/**
+ * WTE Transfer Frontend JavaScript
+ */
+
+(function($) {
+    'use strict';
+
+    var transferIndex = 2;
+    var currentType = 'roundtrip';
+
+    $(document).ready(function() {
+        initSelect2();
+        initTransferSearch();
+        initPassengerControls();
+        initCartActions();
+    });
+
+    function initSelect2() {
+        // Initialize Select2 on origin and destination selects
+        $('.transfer-location-select').each(function() {
+            if (!$(this).hasClass('select2-hidden-accessible')) {
+                $(this).select2({
+                    placeholder: 'Digite para buscar...',
+                    allowClear: true,
+                    width: '100%',
+                    language: {
+                        noResults: function() {
+                            return 'Nenhum resultado encontrado';
+                        },
+                        searching: function() {
+                            return 'Buscando...';
+                        }
+                    }
+                });
+            }
+        });
+    }
+
+    // Save the original roundtrip HTML on page load
+    var roundtripHTML = $('.roundtrip-row').length > 0 ? $('.roundtrip-row')[0].outerHTML : '';
+
+    function initTransferSearch() {
+        // Transfer mode selection
+        $('.wte-transfer-type-btn').on('click', function() {
+            $('.wte-transfer-type-btn').removeClass('active');
+            $(this).addClass('active');
+            
+            var type = $(this).data('type');
+            $('#transfer-rows-container').empty();
+            $('.multi-transfer-actions').hide();
+            
+            if (type === 'roundtrip') {
+                // Restore the original roundtrip HTML
+                $('#transfer-rows-container').html(roundtripHTML);
+                initSelect2();
+                initPassengerControls();
+                // Copy initial passenger values to return trip
+                setTimeout(function() {
+                    var adults = $('input[name="transfers[0][adults]"]').val() || 1;
+                    var children = $('input[name="transfers[0][children]"]').val() || 0;
+                    var infants = $('input[name="transfers[0][infants]"]').val() || 0;
+                    $('.return-adults').val(adults);
+                    $('.return-children').val(children);
+                    $('.return-infants').val(infants);
+                }, 100);
+            } else if (type === 'oneway') {
+                addOnewayRow();
+            } else if (type === 'multi') {
+                $('.multi-transfer-actions').show();
+                addMultiRow();
+            }
+        });
+
+        // Add transfer row (multi-transfer)
+        $('#add-transfer-btn').on('click', function() {
+            var template = $('#transfer-row-template').html();
+            template = template.replace(/{{INDEX}}/g, transferIndex);
+            $('#transfer-rows-container').append(template);
+            transferIndex++;
+            initSelect2(); // Re-initialize Select2 for new fields
+            initPassengerControls();
+        });
+
+        // Remove transfer row
+        $(document).on('click', '.remove-transfer-btn', function() {
+            $(this).closest('.transfer-row').remove();
+        });
+
+        // Form submission
+        $('#wte-transfer-search-form').on('submit', function(e) {
+            e.preventDefault();
+            searchTransfers();
+        });
+
+        // Sync return trip data for roundtrip
+        $(document).on('change', '.roundtrip-row select[name="transfers[0][origin]"]', function() {
+            $('.return-destination').val($(this).val());
+        });
+
+        $(document).on('change', '.roundtrip-row select[name="transfers[0][destination]"]', function() {
+            $('.return-origin').val($(this).val());
+        });
+
+        $(document).on('change input', '.roundtrip-row input[name="transfers[0][adults]"], .roundtrip-row input[name="transfers[0][children]"], .roundtrip-row input[name="transfers[0][infants]"]', function() {
+            var field = $(this).attr('name').split('[').pop().replace(']', '');
+            $('.return-' + field).val($(this).val());
+        });
+
+        // Sync service type to return trip
+        $(document).on('change', '.roundtrip-row select[name="transfers[0][service]"]', function() {
+            $('.return-service').val($(this).val());
+        });
+    }
+
+    function updateFormByType(type) {
+        $('#transfer-rows-container').empty();
+        transferIndex = 2;
+
+        if (type === 'roundtrip') {
+            $('.roundtrip-row').show();
+            $('.multi-transfer-actions').hide();
+            $('#transfer-rows-container').append($('.roundtrip-row'));
+        } else if (type === 'oneway') {
+            $('.roundtrip-row').hide();
+            $('.multi-transfer-actions').hide();
+            addOnewayRow();
+        } else if (type === 'multi') {
+            $('.roundtrip-row').hide();
+            $('.multi-transfer-actions').show();
+            addMultiRow();
+        }
+    }
+
+    function addRoundtripRows() {
+        // Roundtrip template is already in the HTML by default
+        // Just need to show it and initialize
+        $('.roundtrip-row').show();
+        initSelect2();
+        initPassengerControls();
+    }
+
+    function addOnewayRow() {
+        var template = $('#transfer-row-template').html();
+        template = template.replace(/{{INDEX}}/g, 0);
+        template = template.replace('class="transfer-row multi-row"', 'class="transfer-row oneway-row"');
+        template = $(template);
+        template.find('.transfer-field-remove').remove();
+        $('#transfer-rows-container').append(template);
+        initSelect2();
+        initPassengerControls();
+    }
+
+    function addMultiRow() {
+        var template = $('#transfer-row-template').html();
+        template = template.replace(/{{INDEX}}/g, 0);
+        $('#transfer-rows-container').append(template);
+        initSelect2();
+        initPassengerControls();
+    }
+
+    function initPassengerControls() {
+        // Passengers toggle
+        $('.passengers-toggle').off('click').on('click', function(e) {
+            e.preventDefault();
+            $(this).siblings('.passengers-dropdown').toggle();
+        });
+
+        // Close dropdown when clicking outside
+        $(document).on('click', function(e) {
+            if (!$(e.target).closest('.passengers-field').length) {
+                $('.passengers-dropdown').hide();
+            }
+        });
+
+        // Passenger controls
+        $('.passenger-plus').off('click').on('click', function() {
+            var input = $(this).siblings('input');
+            var currentVal = parseInt(input.val()) || 0;
+            var maxVal = parseInt(input.attr('max')) || 20;
+            if (currentVal < maxVal) {
+                input.val(currentVal + 1);
+                updatePassengerCount($(this).closest('.passengers-field'));
+            }
+        });
+
+        $('.passenger-minus').off('click').on('click', function() {
+            var input = $(this).siblings('input');
+            var currentVal = parseInt(input.val()) || 0;
+            var minVal = parseInt(input.attr('min')) || 0;
+            if (currentVal > minVal) {
+                input.val(currentVal - 1);
+                updatePassengerCount($(this).closest('.passengers-field'));
+            }
+        });
+    }
+
+    function updatePassengerCount(field) {
+        var adults = parseInt(field.find('input[name*="[adults]"]').val()) || 0;
+        var children = parseInt(field.find('input[name*="[children]"]').val()) || 0;
+        var infants = parseInt(field.find('input[name*="[infants]"]').val()) || 0;
+        var total = adults + children + infants;
+        field.find('.passenger-count').text(total);
+        
+        // If roundtrip mode, copy passengers to return trip
+        var transferMode = $('.wte-transfer-type-btn.active').data('type');
+        if (transferMode === 'roundtrip') {
+            $('.return-adults').val(adults);
+            $('.return-children').val(children);
+            $('.return-infants').val(infants);
+        }
+    }
+
+    function searchTransfers() {
+        var formData = $('#wte-transfer-search-form').serializeArray();
+        var searchData = { transfers: [] };
+
+        // Group data by transfer index
+        var transfers = {};
+        $.each(formData, function(i, field) {
+            var match = field.name.match(/transfers\[(\d+)\]\[(\w+)\]/);
+            if (match) {
+                var index = match[1];
+                var key = match[2];
+                if (!transfers[index]) {
+                    transfers[index] = {};
+                }
+                transfers[index][key] = field.value;
+            }
+        });
+        
+        // Get active transfer mode from button
+        var transferMode = $('.wte-transfer-type-btn.active').data('type');
+        
+        // If roundtrip mode, copy passengers and time from transfer 0 to transfer 1
+        if (transferMode === 'roundtrip' && transfers[0] && transfers[1]) {
+            transfers[1].adults = transfers[0].adults || '1';
+            transfers[1].children = transfers[0].children || '0';
+            transfers[1].infants = transfers[0].infants || '0';
+            transfers[1].service = transfers[0].service || 'private';
+            // Don't copy time - each transfer has its own time
+        }
+        console.log(transfers);
+        console.log(transferMode);
+
+        // Convert to array
+        $.each(transfers, function(index, transfer) {
+            if (transfer.origin && transfer.destination && transfer.date) {
+                console.log('Transfer ' + index + ' time:', transfer.time);
+                searchData.transfers.push(transfer);
+            }
+        });
+
+        if (searchData.transfers.length === 0) {
+            alert('Por favor, preencha todos os campos obrigatórios');
+            return;
+        }
+
+        // Show loading
+        $('#transfer-results-container').show();
+        $('#transfer-results').html('');
+        $('.transfer-results-loading').show();
+
+        // AJAX search
+        $.ajax({
+            url: wteTransfer.ajax_url,
+            type: 'POST',
+            data: {
+                action: 'search_transfers',
+                nonce: wteTransfer.nonce,
+                search_data: searchData
+            },
+            success: function(response) {
+                $('.transfer-results-loading').hide();
+                if (response.success) {
+                    displayResults(response.data);
+                } else {
+                    $('#transfer-results').html('<p>Erro ao buscar transfers.</p>');
+                }
+            },
+            error: function() {
+                $('.transfer-results-loading').hide();
+                $('#transfer-results').html('<p>Erro ao buscar transfers.</p>');
+            }
+        });
+    }
+
+    function displayResults(results) {
+        var html = '';
+
+        if (results.length === 0) {
+            html = '<div class="no-results-message">';
+            html += '<div class="no-results-icon">';
+            html += '<span class="dashicons dashicons-search"></span>';
+            html += '</div>';
+            html += '<h3>Nenhum transfer disponível</h3>';
+            html += '<p>Não encontramos veículos disponíveis para os critérios selecionados.</p>';
+            html += '<div class="no-results-suggestions">';
+            html += '<p><strong>Sugestões:</strong></p>';
+            html += '<ul>';
+            html += '<li>Verifique se as datas estão corretas</li>';
+            html += '<li>Tente reduzir o número de passageiros</li>';
+            html += '<li>Escolha outras origens ou destinos</li>';
+            html += '</ul>';
+            html += '</div>';
+            html += '</div>';
+        } else {
+            // Group results by vehicle for roundtrip/multi transfers
+            var groupedResults = groupTransfersByVehicle(results);
+            
+            if (groupedResults.length === 0) {
+                html = '<div class="no-results-message">';
+                html += '<div class="no-results-icon">';
+                html += '<span class="dashicons dashicons-car"></span>';
+                html += '</div>';
+                html += '<h3>Nenhum veículo disponível para todas as rotas</h3>';
+                html += '<p>Não encontramos um veículo que atenda todas as rotas selecionadas.</p>';
+                html += '<div class="no-results-suggestions">';
+                html += '<p><strong>Sugestões:</strong></p>';
+                html += '<ul>';
+                html += '<li>Tente buscar cada transfer separadamente (Somente Ida)</li>';
+                html += '<li>Reduza o número de passageiros</li>';
+                html += '<li>Entre em contato conosco para opções personalizadas</li>';
+                html += '</ul>';
+                html += '</div>';
+                html += '</div>';
+            } else {
+                $.each(groupedResults, function(i, group) {
+                    html += renderTransferGroup(group);
+                });
+            }
+        }
+
+        $('#transfer-results').html(html);
+    }
+
+    function groupTransfersByVehicle(results) {
+        if (results.length === 1) {
+            // Single transfer (oneway)
+            return results.map(function(result) {
+                return {
+                    transfers: [result],
+                    type: 'oneway'
+                };
+            });
+        }
+
+        // For roundtrip/multi, find vehicles that exist in ALL transfers
+        var commonVehicles = {};
+        
+        // Get vehicles from first transfer
+        if (results.length > 0 && results[0].vehicles) {
+            $.each(results[0].vehicles, function(i, vehicle) {
+                commonVehicles[vehicle.vehicle_id] = {
+                    vehicle: vehicle,
+                    transfers: [],
+                    transfersData: [],
+                    totalPrice: 0,
+                    count: 1
+                };
+            });
+        }
+        
+        // Check if these vehicles exist in all other transfers
+        for (var i = 1; i < results.length; i++) {
+            var currentVehicleIds = results[i].vehicles.map(function(v) { return v.vehicle_id; });
+            
+            // Remove vehicles that don't exist in this transfer
+            for (var vehicleId in commonVehicles) {
+                if (currentVehicleIds.indexOf(parseInt(vehicleId)) === -1) {
+                    delete commonVehicles[vehicleId];
+                } else {
+                    commonVehicles[vehicleId].count++;
+                }
+            }
+        }
+        
+        // Now build the grouped data for vehicles that appear in all transfers
+        var groupedResults = [];
+        
+        for (var vehicleId in commonVehicles) {
+            if (commonVehicles[vehicleId].count === results.length) {
+                var group = {
+                    vehicle: commonVehicles[vehicleId].vehicle,
+                    transfers: [],
+                    transfersData: [],
+                    totalPrice: 0
+                };
+                
+                // Add each transfer with its specific vehicle data
+                $.each(results, function(i, result) {
+                    var vehicleForThisRoute = null;
+                    $.each(result.vehicles, function(j, v) {
+                        if (v.vehicle_id == vehicleId) {
+                            vehicleForThisRoute = v;
+                            return false;
+                        }
+                    });
+                    
+                    if (vehicleForThisRoute) {
+                        console.log('Result object with time:', result);
+                        group.transfers.push(result);
+                        group.transfersData.push({
+                            transfer: result,
+                            vehicleData: vehicleForThisRoute
+                        });
+                        group.totalPrice += parseFloat(vehicleForThisRoute.price);
+                    }
+                });
+                
+                groupedResults.push(group);
+            }
+        }
+        
+        return groupedResults;
+    }
+
+    function renderTransferGroup(group) {
+        var html = '<div class="transfer-result-item">';
+        
+        if (group.transfers.length === 1) {
+            // Single transfer
+            var result = group.transfers[0];
+            html += '<div class="transfer-result-header">';
+            html += '<div class="transfer-result-type">';
+            var typeLabels = {
+                'arrival': 'Traslado de Entrada',
+                'departure': 'Traslado de Saída',
+                'oneway': 'Somente Ida',
+                'custom': 'Traslado Personalizado'
+            };
+            html += typeLabels[result.transfer_type] || result.transfer_type;
+            html += '</div>';
+            html += '<div class="transfer-result-route">';
+            html += result.origin_name + ' → ' + result.destination_name;
+            html += '<br><small>' + formatDate(result.date) + '</small>';
+            html += '</div>';
+            html += '</div>';
+
+            if (result.vehicles.length === 0) {
+                html += '<p>Nenhum veículo disponível para esta rota.</p>';
+            } else {
+                $.each(result.vehicles, function(j, vehicle) {
+                    html += renderVehicleCard(vehicle, [result], vehicle.price, true);
+                });
+            }
+        } else {
+            // Multiple transfers (roundtrip/multi)
+            html += '<div class="transfer-result-header">';
+            html += '<div class="transfer-result-type">Pacote de Transfers</div>';
+            html += '</div>';
+            
+            // Show each transfer separately with correct price and duration
+            $.each(group.transfersData, function(i, transferData) {
+                var transfer = transferData.transfer;
+                var vehicleData = transferData.vehicleData;
+                
+                var typeLabels = {
+                    'arrival': 'Entrada',
+                    'departure': 'Saída',
+                    'custom': 'Transfer ' + (i + 1)
+                };
+                
+                html += '<div class="transfer-item-header">';
+                html += '<strong>' + (typeLabels[transfer.transfer_type] || 'Transfer ' + (i + 1)) + ':</strong> ';
+                html += transfer.origin_name + ' → ' + transfer.destination_name;
+                html += ' <small>(' + formatDate(transfer.date) + ')</small>';
+                html += '</div>';
+                
+                // Show vehicle card with correct price and duration for this specific route
+                html += renderVehicleCard(vehicleData, [transfer], vehicleData.price, false, vehicleData.duration);
+            });
+
+            // Show total and single button
+            html += '<div class="transfer-package-footer">';
+            html += '<div class="package-total">';
+            html += '<span class="total-label">Total:</span>';
+            html += '<span class="total-amount">$' + parseFloat(group.totalPrice).toFixed(2) + ' USD</span>';
+            html += '</div>';
+            
+            // Prepare transfer data for cart with correct prices
+            var transfersData = group.transfersData.map(function(transferData) {
+            var transfer = transferData.transfer;
+            var vehicleData = transferData.vehicleData;
+                
+                // Get passengers from transfer object
+                var passengers = transfer.passengers || {};
+                var adults = passengers.adults || 1;
+                var children = passengers.children || 0;
+                var infants = passengers.infants || 0;
+                var service = transfer.service || 'private';
+            
+             return {
+                vehicle_id: vehicleData.vehicle_id,
+                origin: transfer.origin,
+                destination: transfer.destination,
+                date: transfer.date,
+                time: transfer.time || '',
+                adults: adults,
+                children: children,
+                infants: infants,
+                price: vehicleData.price,
+                type: transfer.transfer_type,
+                service: transfer.service || 'private'
+            };
+        });
+        
+            html += '<div class="transfer-button-footer"><button class="add-to-cart-btn add-package-btn" data-transfers="' + encodeURIComponent(JSON.stringify(transfersData)) + '">Adicionar ao Carrinho</button></div>';
+            html += '</div>';
+        }
+
+        html += '</div>';
+        return html;
+    }
+
+    function renderVehicleCard(vehicle, transfers, price, showButton, duration) {
+    var html = '<div class="vehicle-card">';
+    
+    if (vehicle.image) {
+        html += '<img src="' + vehicle.image + '" alt="' + vehicle.vehicle_name + '" class="vehicle-image">';
+    }
+    
+    html += '<div class="vehicle-details">';
+    html += '<h4>' + vehicle.vehicle_name + '</h4>';
+    if (vehicle.description) {
+        html += '<p>' + vehicle.description + '</p>';
+    }
+    html += '<div class="vehicle-info">';
+    html += '<span><i class="dashicons dashicons-groups"></i> ' + vehicle.max_passengers + ' passageiros</span>';
+    html += '<span><i class="dashicons dashicons-portfolio"></i> ' + vehicle.max_luggage + ' malas</span>';
+    var displayDuration = duration !== undefined ? duration : vehicle.duration;
+    if (displayDuration) {
+        html += '<span><i class="dashicons dashicons-clock"></i> ' + displayDuration + ' min</span>';
+    }
+    html += '</div>';
+    html += '</div>';
+    
+    html += '<div class="vehicle-price">';
+    html += '<div class="price-amount">$' + parseFloat(price).toFixed(2) + '</div>';
+    html += '<div class="price-label">USD</div>';
+    html += '</div>';
+    
+    if (showButton) {
+        html += '<div class="vehicle-actions">';
+        
+        // Prepare transfer data for cart
+        var transfersData = transfers.map(function(transfer) {
+            // Get passengers from transfer object
+            var passengers = transfer.passengers || {};
+            var adults = passengers.adults || 1;
+            var children = passengers.children || 0;
+            var infants = passengers.infants || 0;
+            var service = transfer.service || 'private';
+            
+            var transferData = {
+                vehicle_id: vehicle.vehicle_id,
+                origin: transfer.origin,
+                destination: transfer.destination,
+                date: transfer.date,
+                time: transfer.time || '',
+                adults: adults,
+                children: children,
+                infants: infants,
+                price: price,
+                type: transfer.transfer_type,
+                service: service
+            };
+            console.log('Preparing transfer for cart button:', transferData);
+            return transferData;
+        });
+        
+        html += '<button class="add-to-cart-btn" data-transfers="' + encodeURIComponent(JSON.stringify(transfersData)) + '">Adicionar ao Carrinho</button>';
+        html += '</div>';
+    }
+    
+    html += '</div>';
+        return html;
+    }
+
+    function formatDate(dateStr) {
+        var date = new Date(dateStr);
+        return date.toLocaleDateString('pt-BR');
+    }
+
+    // Add to cart
+    $(document).on('click', '.add-to-cart-btn', function() {
+        var $btn = $(this);
+        var transfersData = JSON.parse(decodeURIComponent($btn.data('transfers')));
+        
+        console.log('Adding to cart - transfers data:', JSON.stringify(transfersData, null, 2));
+        
+        // Disable button
+        $btn.prop('disabled', true).text('Adicionando...');
+        
+        // Use a shared group_id so all transfers in this package are grouped together
+        var groupId = 'grp_' + Date.now();
+        
+        // Add transfers sequentially to ensure order and get redirect from last one
+        var addNext = function(index) {
+            if (index >= transfersData.length) {
+                // Should not reach here, redirect happens in success of last call
+                $btn.prop('disabled', false).text('Adicionar ao Carrinho');
+                return;
+            }
+            
+            var transferData = transfersData[index];
+            transferData.group_id = groupId;
+            var isLast = (index === transfersData.length - 1);
+            
+            $.ajax({
+                url: wteTransfer.ajax_url,
+                type: 'POST',
+                data: {
+                    action: 'add_transfer_to_cart',
+                    nonce: wteTransfer.nonce,
+                    transfer_data: transferData
+                },
+                success: function(response) {
+                    if (isLast) {
+                        // Last transfer added, redirect
+                        if (response && response.success && response.data && response.data.redirect_url) {
+                            window.location.href = response.data.redirect_url;
+                        } else {
+                            // Fallback redirect
+                            window.location.href = '/checkout/?wte_id=' + Date.now();
+                        }
+                    } else {
+                        // Add next transfer
+                        addNext(index + 1);
+                    }
+                },
+                error: function() {
+                    alert('Erro ao adicionar transfer ao carrinho');
+                    $btn.prop('disabled', false).text('Adicionar ao Carrinho');
+                }
+            });
+        };
+        
+        addNext(0);
+    });
+
+    function initCartActions() {
+        // Remove from cart
+        $(document).on('click', '.remove-transfer', function() {
+            var index = $(this).data('index');
+            
+            if (!confirm('Deseja remover este transfer do carrinho?')) {
+                return;
+            }
+            
+            $.ajax({
+                url: wteTransfer.ajax_url,
+                type: 'POST',
+                data: {
+                    action: 'remove_transfer_from_cart',
+                    nonce: wteTransfer.nonce,
+                    index: index
+                },
+                success: function(response) {
+                    if (response.success) {
+                        location.reload();
+                    } else {
+                        alert(response.data.message);
+                    }
+                }
+            });
+        });
+    }
+
+})(jQuery);
