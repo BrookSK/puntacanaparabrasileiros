@@ -1336,7 +1336,7 @@ div#nb-4-configurations {
 				/* Need to check and remove the input variables related to the Style Tab. */
 				.srfm-form-container-600-elementor-b769eca {
 					/* New test variables */
-					--srfm-color-scheme-primary: rgba(15,91,191,0.9);
+					--srfm-color-scheme-primary: #1b6f00;
 					--srfm-color-scheme-text-on-primary: #f9fafb;
 					--srfm-color-scheme-text: #1E1E1E;
 					--srfm-quill-editor-color: rgba(15,91,191,0.9);
