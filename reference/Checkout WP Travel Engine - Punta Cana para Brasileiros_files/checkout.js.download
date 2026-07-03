@@ -1,0 +1,156 @@
+jQuery(document).ready(function($) {
+    
+    // Enhanced cart display for multiple items
+    function enhanceCartDisplay() {
+        var $cartItems = $('.wte-bf-checkout-wrap .wte-bf-summary');
+        
+        if ($cartItems.length > 1) {
+            // Add multi-item styling
+            $cartItems.addClass('wte-multi-item');
+            
+            // Add item counter
+            $cartItems.each(function(index) {
+                $(this).prepend('<div class="wte-item-counter">Item ' + (index + 1) + '</div>');
+            });
+            
+            // Calculate and display totals
+            updateMultiItemTotals();
+        }
+    }
+    
+    // Update totals for multiple items
+    function updateMultiItemTotals() {
+        var totalAmount = 0;
+        var partialAmount = 0;
+        
+        $('.wte-bf-summary').each(function() {
+            var $summary = $(this);
+            var $totalElement = $summary.find('.wte-bf-total-cost .amount');
+            var $partialElement = $summary.find('.wte-bf-partial-cost .amount');
+            
+            if ($totalElement.length) {
+                var itemTotal = parseFloat($totalElement.text().replace(/[^\d.-]/g, '')) || 0;
+                totalAmount += itemTotal;
+            }
+            
+            if ($partialElement.length) {
+                var itemPartial = parseFloat($partialElement.text().replace(/[^\d.-]/g, '')) || 0;
+                partialAmount += itemPartial;
+            } else if ($totalElement.length) {
+                // If no partial payment, use full amount
+                partialAmount += parseFloat($totalElement.text().replace(/[^\d.-]/g, '')) || 0;
+            }
+        });
+        
+        // Update or create totals display
+        updateTotalsDisplay(totalAmount, partialAmount);
+    }
+    
+    // Update totals display
+    function updateTotalsDisplay(totalAmount, partialAmount) {
+        var $existingTotals = $('.wte-multi-cart-totals');
+        
+        if ($existingTotals.length) {
+            $existingTotals.remove();
+        }
+        
+        var totalsHtml = '<div class="wte-multi-cart-totals">' +
+            '<h4>Cart Totals</h4>' +
+            '<div class="wte-total-row">' +
+                '<span class="label">Full Total:</span>' +
+                '<span class="amount">' + formatCurrency(totalAmount) + '</span>' +
+            '</div>';
+        
+        if (partialAmount !== totalAmount) {
+            totalsHtml += '<div class="wte-total-row wte-partial-row">' +
+                '<span class="label">Partial Payment:</span>' +
+                '<span class="amount">' + formatCurrency(partialAmount) + '</span>' +
+            '</div>';
+        }
+        
+        totalsHtml += '</div>';
+        
+        $('.wte-bf-checkout-wrap').append(totalsHtml);
+    }
+    
+    // Format currency (basic implementation)
+    function formatCurrency(amount) {
+        return '$' + amount.toFixed(2);
+    }
+    
+    // Handle add to cart with redirect
+    function handleAddToCartRedirect() {
+        $(document).on('submit', '.wte-bf-book-now', function(e) {
+            var $form = $(this);
+            var $submitBtn = $form.find('input[type="submit"]');
+            
+            // Check if this is add to cart (not direct booking)
+            if ($form.find('input[name="add_to_cart"]').length) {
+                e.preventDefault();
+                
+                $submitBtn.prop('disabled', true).val('Adding to Cart...');
+                
+                $.ajax({
+                    url: wte_multi_cart.ajax_url,
+                    type: 'POST',
+                    data: $form.serialize() + '&action=wte_add_to_cart_redirect&nonce=' + wte_multi_cart.nonce,
+                    success: function(response) {
+                        if (response.success && response.data.redirect_url) {
+                            window.location.href = response.data.redirect_url;
+                        } else {
+                            alert(response.data.message || 'Error adding to cart');
+                            $submitBtn.prop('disabled', false).val('Add to Cart');
+                        }
+                    },
+                    error: function() {
+                        alert('Error adding to cart');
+                        $submitBtn.prop('disabled', false).val('Add to Cart');
+                    }
+                });
+            }
+        });
+    }
+    
+    // Handle payment type selection for multiple items
+    function handlePaymentTypeSelection() {
+        $(document).on('change', 'input[name="wp_travel_engine_booking_setting[payment_mode]"]', function() {
+            var paymentType = $(this).val();
+            
+            if (paymentType === 'partial') {
+                $('.wte-partial-row').show();
+                updateBookingTotals('partial');
+            } else {
+                $('.wte-partial-row').hide();
+                updateBookingTotals('full');
+            }
+        });
+    }
+    
+    // Update booking totals based on payment type
+    function updateBookingTotals(paymentType) {
+        var $totalsContainer = $('.wte-multi-cart-totals');
+        
+        if (paymentType === 'partial') {
+            $totalsContainer.addClass('partial-payment-selected');
+        } else {
+            $totalsContainer.removeClass('partial-payment-selected');
+        }
+    }
+    
+    // Initialize enhancements
+    function init() {
+        enhanceCartDisplay();
+        handleAddToCartRedirect();
+        handlePaymentTypeSelection();
+        
+        // Re-run enhancements if cart is updated via AJAX
+        $(document).ajaxComplete(function(event, xhr, settings) {
+            if (settings.url && settings.url.indexOf('wp_travel_engine_add_to_cart') !== -1) {
+                setTimeout(enhanceCartDisplay, 500);
+            }
+        });
+    }
+    
+    // Run initialization
+    init();
+});

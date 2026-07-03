@@ -1,31 +1,32 @@
 <?php
 /**
  * Controller de Páginas estáticas (políticas, termos, etc)
+ * Serve o HTML original do WordPress
  */
 class PageController extends Controller
 {
     public function privacidade()
     {
-        $this->view('site.pages.privacidade', ['pageTitle' => 'Políticas de Privacidade']);
+        require_once VIEWS_PATH . '/site/privacidade-wp.php';
     }
 
     public function cancelamento()
     {
-        $this->view('site.pages.cancelamento', ['pageTitle' => 'Políticas de Cancelamento']);
+        require_once VIEWS_PATH . '/site/cancelamento-wp.php';
     }
 
     public function termos()
     {
-        $this->view('site.pages.termos', ['pageTitle' => 'Termos e Condições']);
+        require_once VIEWS_PATH . '/site/termos-wp.php';
     }
 
     public function termosAfiliados()
     {
-        $this->view('site.pages.termos-afiliados', ['pageTitle' => 'Termos do Programa de Afiliados']);
+        require_once VIEWS_PATH . '/site/termos-afiliados-wp.php';
     }
 
     public function cancelamentos()
     {
-        $this->view('site.pages.cancelamentos', ['pageTitle' => 'Cancelamentos']);
+        require_once VIEWS_PATH . '/site/cancelamentos-wp.php';
     }
 }

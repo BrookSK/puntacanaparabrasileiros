@@ -1,0 +1,85 @@
+/**
+ * LRV Transfer Direct Checkout v1.4.0
+ * Injeta botão "Ir Direto ao Checkout" ao lado do "Adicionar ao Carrinho" dos transfers.
+ * Usa o mesmo fluxo AJAX do wte-transfer mas redireciona direto ao checkout.
+ */
+(function ($) {
+  'use strict';
+
+  if (typeof lrvTransferCheckout === 'undefined') return;
+
+  var C = lrvTransferCheckout;
+
+  /* ── INJEÇÃO DO BOTÃO ── */
+  function inject() {
+    $('.add-to-cart-btn, .add-package-btn').each(function () {
+      var $btn = $(this);
+      if ($btn.parent('.lrv-transfer-buttons-wrap').length) return;
+      if ($btn.siblings('.lrv-transfer-direct-checkout-btn').length) return;
+
+      var $w = $('<div class="lrv-transfer-buttons-wrap"></div>');
+      $btn.before($w);
+      $w.append($btn).append(
+        '<button type="button" class="lrv-transfer-direct-checkout-btn">' + C.btn_text + '</button>'
+      );
+    });
+  }
+
+  $(document).on('ajaxComplete', function () {
+    setTimeout(inject, 400);
+    setTimeout(inject, 1200);
+  });
+  $(document).ready(function () {
+    inject();
+    var n = 0, iv = setInterval(function () { inject(); if (++n > 20) clearInterval(iv); }, 1500);
+  });
+  if (window.MutationObserver) {
+    var _t;
+    new MutationObserver(function () { clearTimeout(_t); _t = setTimeout(inject, 300); })
+      .observe(document.body, { childList: true, subtree: true });
+  }
+
+  /* ── HANDLER DO BOTÃO "IR DIRETO AO CHECKOUT" ── */
+  $(document).on('click', '.lrv-transfer-direct-checkout-btn', function (e) {
+    e.preventDefault();
+    e.stopPropagation();
+    var $btn = $(this);
+    $btn.prop('disabled', true).text(C.btn_loading).css('opacity', '0.7');
+
+    // Pega os dados do botão irmão "Adicionar ao Carrinho"
+    var $addBtn = $btn.siblings('.add-to-cart-btn, .add-package-btn').first();
+    if (!$addBtn.length) {
+      $addBtn = $btn.parent().find('.add-to-cart-btn, .add-package-btn').first();
+    }
+
+    if (!$addBtn.length || !$addBtn.data('transfers')) {
+      alert('Dados do transfer não encontrados.');
+      $btn.prop('disabled', false).text(C.btn_text).css('opacity', '1');
+      return;
+    }
+
+    var transfersData;
+    try {
+      transfersData = JSON.parse(decodeURIComponent($addBtn.data('transfers')));
+    } catch (ex) {
+      alert('Erro ao ler dados do transfer.');
+      $btn.prop('disabled', false).text(C.btn_text).css('opacity', '1');
+      return;
+    }
+
+    if (!transfersData || !transfersData.length) {
+      alert('Nenhum transfer selecionado.');
+      $btn.prop('disabled', false).text(C.btn_text).css('opacity', '1');
+      return;
+    }
+
+    // Salva os transfers na sessão via POST e redireciona ao checkout
+    var $form = $('<form>', { method: 'POST', action: C.post_url, style: 'display:none' });
+    $form.append($('<input>', { type: 'hidden', name: 'lrv_transfer_direct_checkout', value: '1' }));
+    $form.append($('<input>', { type: 'hidden', name: '_lrv_nonce', value: C.nonce }));
+    $form.append($('<input>', { type: 'hidden', name: 'transfers_data', value: JSON.stringify(transfersData) }));
+    $('body').append($form);
+    $form.submit();
+  });
+
+})(jQuery);

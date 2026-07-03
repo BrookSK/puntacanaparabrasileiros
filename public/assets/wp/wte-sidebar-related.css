@@ -1,0 +1,214 @@
+/**
+ * Estilos para Passeios Relacionados na Sidebar - Estilo igual ao widget Viagens em Destaque
+ */
+.wte-related-trips-sidebar {
+    margin-bottom: 30px !important;
+    background: #fff !important;
+    padding: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+
+.wte-related-trips-sidebar .widget-title {
+    font-size: 24px !important;
+    font-weight: 700 !important;
+    margin: 0 0 25px 0 !important;
+    padding: 0 !important;
+    border-bottom: none !important;
+    color: #1a1a1a !important;
+    line-height: 1.2 !important;
+}
+
+.wte-related-trips-list {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0 !important;
+}
+
+.wte-related-trip-item {
+    display: flex !important;
+    gap: 15px !important;
+    padding: 0 0 20px 0 !important;
+    margin-bottom: 20px !important;
+    border: none !important;
+    border-bottom: 1px solid #e5e5e5 !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    overflow: visible !important;
+}
+
+.wte-related-trip-item:last-child {
+    border-bottom: none !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.wte-related-trip-thumb {
+    flex-shrink: 0 !important;
+    width: 120px !important;
+    height: 90px !important;
+    overflow: hidden !important;
+    position: relative !important;
+    border-radius: 8px !important;
+}
+
+.wte-related-trip-thumb a {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.wte-related-trip-thumb img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    display: block !important;
+    transition: transform 0.3s ease !important;
+}
+
+.wte-related-trip-item:hover .wte-related-trip-thumb img {
+    transform: scale(1.05) !important;
+}
+
+.wte-related-trip-content {
+    flex: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+    padding: 0 !important;
+}
+
+.wte-related-trip-title {
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    margin: 0 0 8px 0 !important;
+    line-height: 1.4 !important;
+}
+
+.wte-related-trip-title a {
+    color: #1a1a1a !important;
+    text-decoration: none !important;
+    transition: color 0.3s ease !important;
+    display: block !important;
+}
+
+.wte-related-trip-title a:hover {
+    color: #147dfe !important;
+}
+
+.wte-related-trip-price {
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    color: #1a1a1a !important;
+    margin: 0 !important;
+}
+
+/* Estilos para Viagens em Destaque no final da página */
+.wte-featured-trips-bottom-wrapper {
+    margin: 60px 0 40px;
+    padding: 40px 0;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    border-radius: 16px;
+}
+
+.wte-featured-trips-bottom-wrapper .wte-featured-trips__heading {
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0 0 40px 0;
+    text-align: center;
+    color: #1a1a1a;
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.wte-featured-trips-bottom-wrapper .wte-featured-trips__heading::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 4px;
+    background: linear-gradient(90deg, #147dfe, #0d5fc7);
+    border-radius: 2px;
+}
+
+.wte-featured-trips-bottom-wrapper .wte-featured-trips {
+    padding: 0 30px;
+}
+
+/* Botão Ir Direto ao Checkout */
+.wte-process-btn-group {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+.wte-direct-checkout-btn {
+    display: block !important;
+    visibility: visible !important;
+    width: 100% !important;
+    margin-top: 15px !important;
+    background: #147dfe !important;
+    color: #fff !important;
+    padding: 14px 20px !important;
+    border: none !important;
+    border-radius: 6px !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    cursor: pointer !important;
+    transition: all 0.3s ease !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.5px !important;
+}
+
+.wte-direct-checkout-btn:hover {
+    background: #0d5fc7 !important;
+    transform: translateY(-2px) !important;
+    box-shadow: 0 4px 12px rgba(20, 125, 254, 0.3) !important;
+}
+
+.wte-direct-checkout-btn:disabled {
+    background: #ccc !important;
+    cursor: not-allowed !important;
+    transform: none !important;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .wte-related-trips-sidebar .widget-title {
+        font-size: 18px;
+    }
+    
+    .wte-related-trip-title {
+        font-size: 15px;
+    }
+    
+    .wte-related-trip-price {
+        font-size: 15px;
+    }
+    
+    .wte-featured-trips-bottom-wrapper {
+        margin: 40px 0 30px;
+        padding: 30px 0;
+    }
+    
+    .wte-featured-trips-bottom-wrapper .wte-featured-trips__heading {
+        font-size: 26px;
+        margin-bottom: 30px;
+    }
+    
+    .wte-featured-trips-bottom-wrapper .wte-featured-trips {
+        padding: 0 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .wte-related-trip-title {
+        font-size: 14px;
+    }
+    
+    .wte-related-trip-price {
+        font-size: 14px;
+    }
+}

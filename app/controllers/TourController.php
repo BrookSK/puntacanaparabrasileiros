@@ -6,34 +6,8 @@ class TourController extends Controller
 {
     public function index()
     {
-        $tourModel = new TourModel($this->db);
-
-        $page = (int)($this->input('page', 1));
-        $filters = [
-            'category' => $this->input('category'),
-            'activity_type' => $this->input('activity'),
-            'duration_days' => $this->input('days'),
-            'price_min' => $this->input('price_min'),
-            'price_max' => $this->input('price_max'),
-            'search' => $this->input('q'),
-        ];
-
-        $tours = $tourModel->getAll($page, 12, $filters);
-        $totalTours = $tourModel->count($filters);
-        $totalPages = ceil($totalTours / 12);
-
-        // Buscar categorias para filtros
-        $stmt = $this->db->query("SELECT * FROM tour_categories WHERE status = 'active' ORDER BY sort_order");
-        $categories = $stmt->fetchAll();
-
-        $this->view('site.tours.index', [
-            'pageTitle' => 'Passeios e Experiências - Punta Cana para Brasileiros',
-            'tours' => $tours,
-            'categories' => $categories,
-            'currentPage' => $page,
-            'totalPages' => $totalPages,
-            'filters' => $filters,
-        ]);
+        // Servir o HTML original do WordPress para a listagem
+        require_once VIEWS_PATH . '/site/experiencias-wp.php';
     }
 
     public function show($slug = '')

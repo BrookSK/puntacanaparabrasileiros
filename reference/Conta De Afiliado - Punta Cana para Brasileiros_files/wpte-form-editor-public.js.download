@@ -1,0 +1,6 @@
+/**
+ * Grecaptcha callback.
+ */
+function wte_add_grecaptcha_token( response ) {
+    
+}

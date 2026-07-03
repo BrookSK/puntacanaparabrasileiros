@@ -1,0 +1,33 @@
+.wp-travel-engine-billing-details-wrapper .payu-title{
+	clear: both;
+    padding: 0 15px;
+    margin: 0 0 30px;
+    font-weight: 700;
+    font-size: 18px;
+    color: #111;
+}
+.wte-hbl-row {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+}
+
+.wte-hbl-row input, .wte-hbl-row select, .wte-hbl-row textarea {
+    width: 100%;
+    min-height: 50px;
+}
+
+#wte-hbl-payment button.btn.btn-primary {
+    color: #fff !important;
+}
+
+#wte-hbl-payment button.btn.btn-primary:hover {
+    color: var(--primary-color) !important;
+    background: white;
+}
+
+@media only screen and (max-width: 767px) {
+   #wte-hbl-payment .wte-hbl-row{
+       grid-template-columns: repeat(1, 1fr);
+   }
+}

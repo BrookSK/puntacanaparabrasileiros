@@ -6,23 +6,8 @@ class BlogController extends Controller
 {
     public function index()
     {
-        $blogModel = new BlogModel($this->db);
-        $page = (int)($this->input('page', 1));
-        $category = $this->input('category');
-
-        $posts = $blogModel->getAll($page, 9, $category);
-        $totalPosts = $blogModel->count($category);
-        $totalPages = ceil($totalPosts / 9);
-        $categories = $blogModel->getCategories();
-
-        $this->view('site.blog.index', [
-            'pageTitle' => 'Blog - Punta Cana para Brasileiros',
-            'posts' => $posts,
-            'categories' => $categories,
-            'currentPage' => $page,
-            'totalPages' => $totalPages,
-            'currentCategory' => $category,
-        ]);
+        // Servir o HTML original do WordPress para o blog
+        require_once VIEWS_PATH . '/site/blog-wp.php';
     }
 
     public function show($slug = '')

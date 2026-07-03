@@ -1,0 +1,1 @@
+!function(window,document,$,undefined){var WTE_UH={init:function(){WTE_UH.trackHistory()},trackHistory:function(){$.ajax({type:"POST",url:wteuh.ajaxUrl,data:{action:"wteuh_track_history",page_url:wteuh.currentUrl,referrer:document.referrer},success:function(response){}}).fail(function(response){})}};WTE_UH.init()}(window,document,jQuery);

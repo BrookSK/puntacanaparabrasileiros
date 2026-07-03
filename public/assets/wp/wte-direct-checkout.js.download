@@ -1,0 +1,181 @@
+// /**
+//  * WTE Direct Checkout - Adiciona produto ao carrinho e vai direto para checkout
+//  */
+(function ($) {
+  'use strict';
+
+  function injectDirectCheckoutButton() {
+    const $summary = $('.wte-booking-summary');
+    const $total = $summary.find('.total-amount');
+    if ($summary.length && $total.length && $('#wteDirectCheckoutBtn').length === 0) {
+      const html = [
+        '<div class="wte-process-btn-group" style="margin-top: 14px">',
+        '  <button type="button" id="wteDirectCheckoutBtn" class="wte-process-btn wte-direct-checkout-btn" style="width:100%">',
+        '    Ir Direto ao Checkout',
+        '  </button>',
+        '</div>'
+      ].join('');
+      $total.after(html);
+      updateButtonState();
+    }
+  }
+
+  function updateButtonState() {
+    const $button = $('#wteDirectCheckoutBtn');
+    const $addToCartBtn = $('.wte-process-tab-controller .wte-process-btn-next').not('#wteProcessNext');
+
+    if ($button.length && $addToCartBtn.length) {
+      const isDisabled = $addToCartBtn.prop('disabled');
+      $button.prop('disabled', !!isDisabled).css({
+        opacity: isDisabled ? '0.5' : '1',
+        cursor: isDisabled ? 'not-allowed' : 'pointer'
+      });
+    }
+  }
+
+  function collectBookingData() {
+    // Tenta obter dados do React booking store (fonte confiável)
+    var bookingStore = window.wptravelengineBooking && window.wptravelengineBooking.store;
+    var state = bookingStore && bookingStore.state ? bookingStore.state : null;
+    var summary = state && state.summary ? state.summary : {};
+
+    // Trip ID
+    let tripId = null;
+    if (state && (state.tripID || state.tripId)) {
+      tripId = parseInt(state.tripID || state.tripId, 10);
+    }
+    if (!tripId && typeof wtePreFetch !== 'undefined' && wtePreFetch.tripID) {
+      tripId = parseInt(wtePreFetch.tripID, 10);
+    }
+    if (!tripId) {
+      const $bookNowBtn = $('.wte-book-now, .wpte-bf-btn');
+      if ($bookNowBtn.length) {
+        const bookingData = $bookNowBtn.data('trip-booking');
+        if (bookingData && bookingData.tripID) tripId = parseInt(bookingData.tripID, 10);
+      }
+    }
+
+    // Data selecionada - prioriza store
+    let selectedDate = summary.selectedTripDate || summary.selectedDate || (state && state.selectedTripDate) || '';
+    if (!selectedDate) {
+      selectedDate = $('.wte-booking-starting-date strong').text().trim();
+    }
+
+    // Package ID - prioriza store
+    let packageId = null;
+    if (summary.selectedTripPackageID || summary.selectedTripPackageId || summary.selectedPackageId) {
+      packageId = parseInt(summary.selectedTripPackageID || summary.selectedTripPackageId || summary.selectedPackageId, 10);
+    }
+    if (!packageId && state && (state.selectedTripPackageID || state.selectedTripPackageId)) {
+      packageId = parseInt(state.selectedTripPackageID || state.selectedTripPackageId, 10);
+    }
+    if (!packageId) {
+      const selectedPackage = $('.wte-booking-packages input[name="package_id"]:checked').val();
+      if (selectedPackage) packageId = parseInt(selectedPackage, 10);
+    }
+    if (!packageId) packageId = tripId;
+
+    // Travelers - prioriza store (summary.travelers é array de {id, qty, ...})
+    const travelers = {};
+    var storeTravelers = summary.travelers;
+    var usedStore = false;
+
+    if (Array.isArray(storeTravelers) && storeTravelers.length > 0) {
+      for (var i = 0; i < storeTravelers.length; i++) {
+        var t = storeTravelers[i];
+        var qty = parseInt(t && t.qty ? t.qty : 0, 10);
+        if (qty > 0 && t && t.id) {
+          travelers[t.id] = (travelers[t.id] || 0) + qty;
+          usedStore = true;
+        }
+      }
+    }
+
+    // Fallback: lê do DOM se o store não tinha dados
+    if (!usedStore) {
+      $('.wte-booking-pc-counter').each(function () {
+        const $counter = $(this);
+        const info = $counter.data('info');
+        const count = parseInt($counter.find('input[type="text"]').val(), 10) || 0;
+        if (count > 0 && info && info.catID) {
+          travelers[info.catID] = (travelers[info.catID] || 0) + count;
+        }
+      });
+    }
+
+    return { tripId, selectedDate, packageId, travelers };
+  }
+
+  $(document).ready(function () {
+    injectDirectCheckoutButton();
+    updateButtonState();
+
+    const sidebar = document.querySelector('.wte-popup-sidebar');
+    if (sidebar) {
+      let timer;
+      const observer = new MutationObserver(function () {
+        clearTimeout(timer);
+        timer = setTimeout(function(){
+          injectDirectCheckoutButton();
+          updateButtonState();
+        }, 120);
+      });
+      observer.observe(sidebar, { childList: true, subtree: true, attributes: true });
+    }
+
+    $(document).on('click', '.wte-booking-pc-counter button', function () {
+      setTimeout(updateButtonState, 200);
+    });
+
+    // Quando o modal abrir, tentar injetar novamente (o HTML do resumo é dinâmico)
+    $(document).on('click', '.wte-book-now, .wpte-bf-btn', function(){
+      setTimeout(injectDirectCheckoutButton, 300);
+      setTimeout(injectDirectCheckoutButton, 800);
+      setTimeout(function(){ injectDirectCheckoutButton(); updateButtonState(); }, 1500);
+    });
+
+    $(document).on('click', '#wteDirectCheckoutBtn', function (e) {
+      e.preventDefault();
+      const $btn = $(this);
+      const originalText = $btn.text();
+      $btn.prop('disabled', true).text('Processando...').css('opacity', '0.6');
+
+      const { tripId, selectedDate, packageId, travelers } = collectBookingData();
+      if (!tripId || !selectedDate || !packageId || !travelers || Object.keys(travelers).length === 0) {
+        alert('Erro: Dados de reserva incompletos. Por favor, verifique data e viajantes.');
+        $btn.prop('disabled', false).text(originalText).css('opacity', '1');
+        return;
+      }
+
+      const payload = {
+        tripID: tripId,
+        packageID: packageId,
+        datetime: selectedDate,
+        travelers: travelers
+      };
+
+      $.ajax({
+        url: ((window.wteL10n && window.wteL10n.wpxhr && window.wteL10n.wpxhr.root) ? window.wteL10n.wpxhr.root : (window.wte_account_page && window.wte_account_page.ajax_url ? window.wte_account_page.ajax_url : '/wp-admin/admin-ajax.php')) + '?action=wte_direct_checkout',
+        type: 'POST',
+        contentType: 'application/json',
+        dataType: 'json',
+        data: JSON.stringify(payload),
+        success: function (response) {
+          if (response && response.success) {
+            const checkoutUrl = (window.wteL10n && window.wteL10n.home_url ? window.wteL10n.home_url : '') + '/checkout/';
+            window.location.href = (response.data && response.data.redirect) ? response.data.redirect : checkoutUrl;
+          } else {
+            alert('Erro: ' + ((response && response.data && response.data.message) || 'Erro desconhecido'));
+            $btn.prop('disabled', false).text(originalText).css('opacity', '1');
+          }
+        },
+        error: function (xhr) {
+          var msg = (xhr && xhr.responseText) ? xhr.responseText : 'Sem detalhes';
+          console.error('Direct checkout AJAX error', msg);
+          alert('Erro ao processar a solicitação. Por favor, tente novamente.\n\nDetalhes: ' + msg);
+          $btn.prop('disabled', false).text(originalText).css('opacity', '1');
+        }
+      });
+    });
+  });
+})(jQuery);

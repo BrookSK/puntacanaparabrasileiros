@@ -1,0 +1,120 @@
+/* Transfer Cart Styles - WP Travel Engine Compatible */
+.wpte-bf-cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin-bottom: 15px;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+}
+
+.wpte-bf-cart-item-content {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.wpte-bf-cart-item-img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-right: 15px;
+}
+
+.wpte-bf-cart-item-details {
+    flex: 1;
+}
+
+.wpte-bf-cart-item-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 5px 0;
+    color: #333;
+}
+
+.wpte-bf-cart-item-meta {
+    font-size: 12px;
+    color: #999;
+    margin: 0 0 8px 0;
+}
+
+.wpte-bf-cart-item-route {
+    font-size: 14px;
+    color: #666;
+    margin: 0;
+}
+
+.wpte-bf-cart-item-info {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.wpte-bf-cart-item-passengers {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+}
+
+.wpte-bf-cart-item-price {
+    font-size: 20px;
+    font-weight: 700;
+    color: #0d7f3f;
+    min-width: 100px;
+    text-align: right;
+}
+
+.wpte-bf-cart-item-remove {
+    margin: 0;
+}
+
+.wpte-bf-remove-btn {
+    background: #dc3545;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s ease;
+}
+
+.wpte-bf-remove-btn:hover {
+    background: #c82333;
+}
+
+.wpte-bf-remove-btn svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .wpte-bf-cart-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .wpte-bf-cart-item-content {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    
+    .wpte-bf-cart-item-info {
+        width: 100%;
+        justify-content: space-between;
+    }
+    
+    .wpte-bf-cart-item-passengers {
+        font-size: 12px;
+    }
+    
+    .wpte-bf-cart-item-price {
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,76 @@
+var slicewp_custom_affiliate_slug_front_end = function() {
+
+	/**
+	 * Event handler for dynamically added elements.
+	 *
+	 * @param {string}   event_types
+	 * @param {string}   selector
+	 * @param {function} callback
+	 *
+	 */
+	function on( event_types, selector, callback ) {
+
+		var event_types = event_types.split( ' ' );
+
+		for ( var i = 0; i < event_types.length; i++ ) {
+
+			document.body.addEventListener( event_types[i], function( event ) {
+
+				for ( var target = event.target; target && target != this; target = target.parentNode ) {
+
+					if ( target.matches( selector ) ) {
+
+						callback.call( target, event );
+						break;
+
+					}
+
+				}
+
+			}, false );
+
+		}
+
+	}
+
+	var custom_slug = ( document.querySelector( '.slicewp-field-wrapper [name="custom_slug"]' ) ? document.querySelector( '.slicewp-field-wrapper [name="custom_slug"]' ).value : '' );
+
+	/**
+	 * Move the custom affiliate slug warning message in the field's inner element.
+	 *
+	 */
+	if ( document.querySelector( '.slicewp-field-wrapper [name="custom_slug"]' ) ) {
+
+		if ( document.querySelector( '.slicewp-field-warning-message[data-field="custom_slug"]' ) ) {
+
+			document.querySelector( '.slicewp-field-wrapper [name="custom_slug"]' ).closest( '.slicewp-field-wrapper' ).querySelector( '.slicewp-field-inner' ).appendChild( document.querySelector( '.slicewp-field-warning-message[data-field="custom_slug"]' ) );
+
+		}
+
+	}
+
+	/**
+	 * Show the custom affiliate slug warning message when the user changes the value.
+	 *
+	 */
+	on( 'keyup', '.slicewp-field-wrapper [name="custom_slug"]', function() {
+
+		if ( typeof custom_slug != 'undefined' && custom_slug != '' ) {
+
+			document.querySelector( '.slicewp-field-warning-message[data-field="custom_slug"]' ).style.display = '';
+
+		}
+
+	});
+
+}
+
+if ( document.readyState === "complete" || ( document.readyState !== "loading" && ! document.documentElement.doScroll ) ) {
+
+	slicewp_custom_affiliate_slug_front_end();
+
+} else {
+
+	document.addEventListener( "DOMContentLoaded", slicewp_custom_affiliate_slug_front_end );
+
+}

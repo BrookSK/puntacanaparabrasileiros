@@ -1,0 +1,127 @@
+jQuery(document).ready(function($){ 
+  $(".wp-travel-engine-submit").on('click', function(e){
+    var val = $('#wte_payment_options :selected').val();
+    if( val != 'Himalayan-Bank' ){
+      return;
+    }
+
+    e.preventDefault();
+    
+    if( $("#wp-travel-engine-order-form").valid()){
+      var email     = $('#email').val();
+      var firstname = $('#fname').val();
+      var lastname  = $('#lname').val();
+      var country   = $('#country').val();
+      var city      = $('#city').val();
+      var address1  = $('#address').val();
+      var postcode  = $('#postcode').val();
+      
+      var traveler  = $('#traveler').val();
+      var cost      = $('#cost').val();
+      var tid       = $('#tid').val();
+      var tname     = $('#tname').val();
+      var datetime  = $('#datetime').val();
+
+      jQuery.ajax({
+        type: 'post',
+        url: WTEAjaxData.ajaxurl,
+        data : {action: 'hbl_checkout_form',traveler:traveler,cost:cost,tid:tid,tname:tname,email:email,postcode:postcode,firstname:firstname,lastname:lastname,city:city,country:country,datetime:datetime,address1:address1},
+        beforeSend: function(){
+          $("#submit-loader").fadeIn(500);
+        },
+        success: function (response) {
+          $('#wp-travel-engine-order-form').attr('action','https://hblpgw.2c2p.com/HBLPGW/Payment/Payment/Payment');
+          $( '.stripe-button:visible' ).remove();  
+          $( '.stripe-button-el' ).remove();
+          $( '.wp-travel-engine-submit' ).show();
+          $( '.wp-travel-engine-billing-details-wrapper' ).html( response.data );     
+        },
+        complete: function(){
+          $("#submit-loader").fadeOut(500);
+          $("#wp-travel-engine-order-form .successful").text(hbl.success);
+          $("#wp-travel-engine-order-form .successful").fadeIn();
+          $("#wp-travel-engine-order-form").submit();             
+        }
+      });
+    }
+  });
+
+  $( '#wte-hbl-payment .btn-primary' ).on( "click", function(e) {
+    console.log('yes');
+      e.preventDefault();
+      name         = $('#fullname').val();
+      email        = $('#email').val();
+      phone        = $('#phone').val();
+      countries    = $('#countries').val();
+      trip         = $('#trip').val();
+      notravellers = $('#notravellers').val();
+      amount       = $('#amount1').val();
+      message      = $('#message').val();
+      date         = $('#date').val();
+
+    jQuery.ajax({
+        dataType : 'json',   
+          type: 'post',
+          url: WTEAjaxData.ajaxurl,
+          data: { action: 'hbl_custom_form_action', name:name, email:email, phone:phone, countries:countries, trip:trip, notravellers:notravellers, amount1:amount, message:message, date:date },
+          beforeSend: function() {
+              $("#loader").fadeIn(500);
+          },
+          success: function(response) {
+            if(response.type == 'error')
+            {
+                $('.response-holder').html('Please fill all the fields.').css('color','red');
+                return;
+              }
+        $('#wte-hbl-payment').html(response.data);
+        $('#wte-hbl-payment').attr('action','https://hblpgw.2c2p.com/HBLPGW/Payment/Payment/Payment');
+        $('#wte-hbl-payment').submit();
+          },
+          complete: function() {
+              $("#loader").fadeOut(500);
+          }
+      });
+  });
+
+  // $("#wte_payment_options").on('change', function(e){
+  //   e.preventDefault();
+  //   var val = $('#wte_payment_options :selected').val();
+  //   if( val != 'Himalayan-Bank' ){
+  //     return;
+  //   }
+    
+  //   var email     = $('#email').val();
+  //   var firstname = $('#fname').val();
+  //   var lastname  = $('#lname').val();
+  //   var country   = $('#country').val();
+  //   var city      = $('#city').val();
+  //   var address1  = $('#address').val();
+  //   var postcode  = $('#postcode').val();
+    
+  //   var traveler  = $('#traveler').val();
+  //   var cost      = $('#cost').val();
+  //   var tid       = $('#tid').val();
+  //   var tname     = $('#tname').val();
+  //   var datetime  = $('#datetime').val();
+
+
+  //   jQuery.ajax({
+  //     type: 'post',
+  //     url: WTEAjaxData.ajaxurl,
+  //     data : {action: 'hbl_checkout_form',traveler:traveler,cost:cost,tid:tid,tname:tname,email:email,postcode:postcode,firstname:firstname,lastname:lastname,city:city,country:country,datetime:datetime,address1:address1},
+  //     beforeSend: function(){
+  //       $("#submit-loader").fadeIn(500);
+  //     },
+  //     success: function (response) {
+  //       $('#wp-travel-engine-order-form').attr('action','https://hblpgw.2c2p.com/HBLPGW/Payment/Payment/Payment');
+  //       $( '.stripe-button:visible' ).remove();  
+  //       $( '.stripe-button-el' ).remove();
+  //       $( '.wp-travel-engine-submit' ).show();
+  //       $( '.wp-travel-engine-billing-details-wrapper' ).html( response.data );         
+  //     },
+  //     complete: function(){
+  //       $("#submit-loader").fadeOut(500);
+  //     }
+  //   });
+  // });
+});

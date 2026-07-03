@@ -1,0 +1,68 @@
+/*.stripe-form-wrap{display: none;}*/
+#wte-stripe-payment-form:before,
+#wte-stripe-payment-form:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+#wte-stripe-payment-form .StripeElement {
+  width: 100%;
+  background: #fff;
+  padding: 10px 15px;
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+#wte-stripe-payment-form #wte-stripe-payment-button {
+  display: inline-block;
+  width: 100%;
+  margin-left: 0;
+  text-align: center;
+  padding: 8px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  font-size: 16px;
+  text-transform: none;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+}
+@media screen and (min-width: 1024px) {
+  #wte-stripe-payment-form .StripeElement {
+    float: left;
+    width: calc(100% - 100px);
+    width: -webkit-calc(100% - 100px);
+    width: -moz-calc(100% - 100px);
+  }
+  #wte-stripe-payment-form #wte-stripe-payment-button {
+    width: 90px;
+    margin-left: 10px;
+  }
+}
+#wte-stripe-payment-form {
+  position: relative;
+}
+#card-errors {
+  display: block;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 5px;
+  font-size: 16px;
+  color: rgba(35, 35, 35, 0.9);
+  font-weight: 400;
+}
+.wp-travel-engine-terms .wpte-bf-checkbox-wrap input[type="checkbox"] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: 10px;
+}
+.wp-travel-engine-terms .wpte-bf-checkbox-wrap {
+  position: relative;
+  padding-left: 25px;
+  margin-bottom: 20px;
+}

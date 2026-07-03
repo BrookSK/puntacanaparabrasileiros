@@ -1,0 +1,102 @@
+var slicewp_affiliate_social_share_script = function() {
+
+	/**
+     * Event handler for dynamically added elements.
+     * 
+     * @param {string}   event_types
+     * @param {string}   selector
+     * @param {function} callback
+     * 
+     */
+	 function on( event_types, selector, callback ) {
+
+        var event_types = event_types.split( ' ' );
+
+        for ( var i = 0; i < event_types.length; i++ ) {
+
+            document.body.addEventListener( event_types[i], function( event ) {
+
+                for ( var target = event.target; target && target != this; target = target.parentNode ) {
+    
+                    if ( target.matches( selector ) ) {
+    
+                        callback.call( target, event );
+                        break;
+    
+                    }
+    
+                }
+    
+            }, false );
+
+        }
+
+    }
+
+
+	/**
+	 * Open share links in a pop-up window.
+	 *
+	 */
+	on( 'click', '.slicewp-asos-platform', function( e ) {
+
+		if ( this.classList.contains( 'slicewp-asos-platform-whatsapp' ) || this.classList.contains( 'slicewp-asos-platform-email' ) )
+			return;
+
+		e.preventDefault();
+
+		this.blur();
+
+		var window_size = {
+			width  : 700,
+			height : 360
+		}
+
+		var url = this.getAttribute( 'href' );
+
+		window.open( url,'targetWindow', "toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=yes,width=" + window_size.width + ",height=" + window_size.height + ",top=200,left=" + ( window.innerWidth - window_size.width ) / 2 );
+
+	});
+
+
+	/**
+	 * Update the share link each time a new link is generated
+	 *
+	 */
+	var old_url = document.querySelector( '#slicewp-affiliate-link' ).value;
+
+	on( 'click', '.slicewp-generate-affiliate-link', function( e ) {
+
+		// Get the generated link
+		var generated_url = document.querySelector( '#slicewp-affiliate-custom-link-output' ).value;
+
+		// Check that a new link is generated.
+		if ( generated_url == '' )
+			return;
+
+		// Replace the current link with the newly generated one.
+		var links = document.querySelectorAll( '.slicewp-affiliate-custom-link-output .slicewp-asos-wrapper a' );
+
+        for ( var i = 0; i < links.length; i++ ) {
+
+			var share_url = links[i].getAttribute( 'href' ).replace( encodeURIComponent( old_url ), encodeURIComponent( generated_url ) );
+
+			links[i].setAttribute( 'href', share_url );
+
+        }
+
+		old_url = generated_url;
+
+	});
+
+}
+
+if ( document.readyState === "complete" || ( document.readyState !== "loading" && ! document.documentElement.doScroll ) ) {
+
+	slicewp_affiliate_social_share_script();
+
+} else {
+
+  document.addEventListener( "DOMContentLoaded", slicewp_affiliate_social_share_script );
+
+}

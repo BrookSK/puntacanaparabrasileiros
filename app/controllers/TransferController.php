@@ -6,14 +6,8 @@ class TransferController extends Controller
 {
     public function index()
     {
-        // Buscar origens e destinos para o formulário
-        $stmt = $this->db->query("SELECT * FROM transfer_locations WHERE status = 'active' ORDER BY name");
-        $locations = $stmt->fetchAll();
-
-        $this->view('site.transfer.index', [
-            'pageTitle' => 'Transfer - Punta Cana para Brasileiros',
-            'locations' => $locations,
-        ]);
+        // Servir o HTML original do WordPress para transfer
+        require_once VIEWS_PATH . '/site/transfer-wp.php';
     }
 
     public function search()
