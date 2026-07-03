@@ -64,7 +64,7 @@ class TransferController extends Controller
         $stmt = $this->db->query("SELECT * FROM transfer_locations WHERE status = 'active' ORDER BY name");
         $locations = $stmt->fetchAll();
 
-        $this->view('site.transfer.results', [
+        $this->wpView('site/transfer/results', [
             'pageTitle' => 'Resultados de Transfer - Punta Cana para Brasileiros',
             'results' => $results,
             'locations' => $locations,

@@ -8,7 +8,7 @@ class CartController extends Controller
     {
         $cart = $_SESSION['cart'] ?? [];
 
-        $this->view('site.cart.index', [
+        $this->wpView('site/cart/index', [
             'pageTitle' => 'Carrinho - Punta Cana para Brasileiros',
             'cart' => $cart,
         ]);

@@ -27,7 +27,7 @@ class BlogController extends Controller
 
         $recentPosts = $blogModel->getRecent(5);
 
-        $this->view('site.blog.show', [
+        $this->wpView('site/blog/show', [
             'pageTitle' => $post['title'] . ' - Blog',
             'post' => $post,
             'recentPosts' => $recentPosts,

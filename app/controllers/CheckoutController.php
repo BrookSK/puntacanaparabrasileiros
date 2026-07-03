@@ -23,7 +23,7 @@ class CheckoutController extends Controller
 
         $subtotal = array_sum(array_column($cart, 'total_price'));
 
-        $this->view('site.checkout.index', [
+        $this->wpView('site/checkout/index', [
             'pageTitle' => 'Checkout - Punta Cana para Brasileiros',
             'cart' => $cart,
             'subtotal' => $subtotal,

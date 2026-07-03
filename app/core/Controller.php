@@ -24,6 +24,22 @@ class Controller
         }
     }
 
+    protected function wpView($viewFile, $data = [])
+    {
+        extract($data);
+        $viewPath = VIEWS_PATH . '/' . str_replace('.', '/', $viewFile) . '.php';
+
+        if (!file_exists($viewPath)) {
+            die("View não encontrada: " . $viewFile);
+        }
+
+        ob_start();
+        require $viewPath;
+        $content = ob_get_clean();
+
+        require_once VIEWS_PATH . '/layouts/wp-layout.php';
+    }
+
     protected function redirect($url)
     {
         header("Location: /" . ltrim($url, '/'));

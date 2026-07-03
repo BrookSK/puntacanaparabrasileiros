@@ -11,7 +11,7 @@ class AuthController extends Controller
             return;
         }
 
-        $this->view('site.auth.login', [
+        $this->wpView('site/auth/login', [
             'pageTitle' => 'Login - Punta Cana para Brasileiros',
         ]);
     }
@@ -74,7 +74,7 @@ class AuthController extends Controller
             return;
         }
 
-        $this->view('site.auth.register', [
+        $this->wpView('site/auth/register', [
             'pageTitle' => 'Criar Conta - Punta Cana para Brasileiros',
         ]);
     }

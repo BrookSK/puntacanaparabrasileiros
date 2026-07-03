@@ -31,7 +31,7 @@ class SearchController extends Controller
             $results = array_merge($results, $stmt->fetchAll());
         }
 
-        $this->view('site.search', [
+        $this->wpView('site/search', [
             'pageTitle' => 'Busca - Punta Cana para Brasileiros',
             'query' => $query,
             'results' => $results,

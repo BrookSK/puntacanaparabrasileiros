@@ -17,7 +17,7 @@ class WishlistController extends Controller
         $stmt->execute([':user_id' => $_SESSION['user_id']]);
         $tours = $stmt->fetchAll();
 
-        $this->view('site.wishlist', [
+        $this->wpView('site/wishlist', [
             'pageTitle' => 'Lista de Desejos',
             'tours' => $tours,
         ]);

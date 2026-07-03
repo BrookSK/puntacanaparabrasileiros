@@ -6,7 +6,7 @@ class AffiliateController extends Controller
 {
     public function index()
     {
-        $this->view('site.affiliate.index', [
+        $this->wpView('site/affiliate/index', [
             'pageTitle' => 'Programa de Afiliados - Punta Cana para Brasileiros',
         ]);
     }
@@ -24,7 +24,7 @@ class AffiliateController extends Controller
 
         if (!$affiliate) {
             // Redirecionar para página de cadastro de afiliado
-            $this->view('site.affiliate.register', [
+            $this->wpView('site/affiliate/register', [
                 'pageTitle' => 'Tornar-se Afiliado',
             ]);
             return;
@@ -43,7 +43,7 @@ class AffiliateController extends Controller
 
         $affiliateLink = base_url('?ref=' . $affiliate['affiliate_code']);
 
-        $this->view('site.affiliate.dashboard', [
+        $this->wpView('site/affiliate/dashboard', [
             'pageTitle' => 'Painel de Afiliado',
             'affiliate' => $affiliate,
             'commissions' => $commissions,

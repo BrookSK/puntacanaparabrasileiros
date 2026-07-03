@@ -11,7 +11,7 @@ class AccountController extends Controller
         $userModel = new UserModel($this->db);
         $user = $userModel->findById($_SESSION['user_id']);
 
-        $this->view('site.account.index', [
+        $this->wpView('site/account/index', [
             'pageTitle' => 'Minha Conta',
             'user' => $user,
         ]);
@@ -27,7 +27,7 @@ class AccountController extends Controller
         $stmt->execute([':user_id' => $_SESSION['user_id']]);
         $orders = $stmt->fetchAll();
 
-        $this->view('site.account.orders', [
+        $this->wpView('site/account/orders', [
             'pageTitle' => 'Meus Pedidos',
             'orders' => $orders,
         ]);
@@ -63,7 +63,7 @@ class AccountController extends Controller
         $stmt->execute([':order_id' => $voucher['order_id']]);
         $passengers = $stmt->fetchAll();
 
-        $this->view('site.account.voucher', [
+        $this->wpView('site/account/voucher', [
             'pageTitle' => 'Voucher - ' . $voucher['voucher_code'],
             'voucher' => $voucher,
             'passengers' => $passengers,

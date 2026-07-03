@@ -37,7 +37,7 @@ class TourController extends Controller
             $package['age_groups'] = $tourModel->getAgeGroups($package['id']);
         }
 
-        $this->view('site.tours.show', [
+        $this->wpView('site/tours/show', [
             'pageTitle' => $tour['name'] . ' - Punta Cana para Brasileiros',
             'tour' => $tour,
             'packages' => $packages,
