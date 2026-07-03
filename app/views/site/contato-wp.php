@@ -1384,7 +1384,7 @@ div#nb-4-configurations {
 						<p id="srfm-error-message" class="srfm-common-error-message srfm-error-message srfm-head-error" hidden="">		<span class="srfm-icon" aria-hidden="true">
 			<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none"><path d="M9.99935 18.3327C14.6017 18.3327 18.3327 14.6017 18.3327 9.99935C18.3327 5.39698 14.6017 1.66602 9.99935 1.66602C5.39698 1.66602 1.66602 5.39698 1.66602 9.99935C1.66602 14.6017 5.39698 18.3327 9.99935 18.3327Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10 6.66602V9.99935" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10 13.334H10.0083" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>		</span>
 		<span class="srfm-error-content">There was an error trying to submit your form. Please try again.</span></p>
-					<div data-block-id="6827dd7b" class="srfm-block-single srfm-block srfm-input-block srf-input-6827dd7b-block  srfm-block-width-100 srfm-slug-name 600">
+					<div data-block-id="6827dd7b" class="srfm-block-single srfm-block srfm-input-block srf-input-6827dd7b-block  srfm-block-width-33-33 srfm-slug-name 600">
 										<div class="srfm-block-wrap">
 				<input class="srfm-input-common srfm-input-input" type="text" name="srfm-input-6827dd7b-lbl-Tm9tZSBDb21wbGV0bw-name" id="srfm-input-6827dd7b-lbl-Tm9tZSBDb21wbGV0bw" aria-describedby="srfm-error-6827dd7b" data-required="true" aria-required="true" data-unique="false" maxlength="100" value="" placeholder="Nome Completo *" data-srfm-mask="none">
 				</div>
@@ -1395,7 +1395,7 @@ div#nb-4-configurations {
 			</div>
 		
 
-			<div data-block-id="08b0863c" class="srfm-block-single srfm-block srfm-email-block srf-email-08b0863c-block  srfm-block-width-100 srfm-slug-email 600 srfm-email-block-wrap">
+			<div data-block-id="08b0863c" class="srfm-block-single srfm-block srfm-email-block srf-email-08b0863c-block  srfm-block-width-33-33 srfm-slug-email 600 srfm-email-block-wrap">
 				<div class="srfm-email-block srf-email-08b0863c-block">
 															<div class="srfm-block-wrap">
 						<input class="srfm-input-common srfm-input-email" type="email" name="srfm-email-08b0863c-lbl-U2V1IE1lbGhvciBFLW1haWw-email" id="srfm-email-08b0863c-lbl-U2V1IE1lbGhvciBFLW1haWw" aria-describedby="srfm-error-08b0863c" data-required="true" aria-required="true" data-unique="false" value="" placeholder="Seu Melhor E-mail *">
@@ -1408,7 +1408,7 @@ div#nb-4-configurations {
 							</div>
 		
 
-			<div data-block-id="b5c8373d" class="srfm-block-single srfm-block srfm-dropdown-block srf-dropdown-b5c8373d-block  srfm-block-width-100 srfm-slug-selecione-o-assunto 600">
+			<div data-block-id="b5c8373d" class="srfm-block-single srfm-block srfm-dropdown-block srf-dropdown-b5c8373d-block  srfm-block-width-33-33 srfm-slug-selecione-o-assunto 600">
 				<fieldset>
 					<input class="srfm-input-dropdown-hidden" data-required="true" aria-required="true" name="srfm-dropdown-1-b5c8373d-lbl-U2VsZWNpb25lIG8gQXNzdW50bw-selecione-o-assunto" type="hidden" value="">
 					<legend class="srfm-block-legend">
@@ -1955,6 +1955,7 @@ Punta Cana para Brasileiros Oliveira &amp; Ramos SRL RNC: 133287765
 			
 			<link rel="stylesheet" id="srfm-frontend-default-css" href="/assets/wp/frontend.min.css" media="all">
 <link rel="stylesheet" id="srfm-common-css" href="/assets/wp/common.min.css" media="all">
+<link rel="stylesheet" id="srfm-grid-css" href="/assets/wp/srfm-common.min.css" media="all">
 <link rel="stylesheet" id="srfm-form-css" href="/assets/wp/form.min.css" media="all">
 <link rel="stylesheet" id="srfm-tom-select-css" href="/assets/wp/tom-select.css" media="all">
 <link rel="stylesheet" id="srfm-intl-tel-input-css" href="/assets/wp/intlTelInput.min.css" media="all">

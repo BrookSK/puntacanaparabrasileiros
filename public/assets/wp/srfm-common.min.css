@@ -1,0 +1,41 @@
+/* SureForm grid layout - extracted from WordPress */
+.srfm-form-container {
+    position: relative;
+    z-index: 1;
+}
+.srfm-form-container * {
+    box-sizing: border-box;
+}
+.srfm-form-container .srfm-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--srfm-column-gap-between-blocks, 16px);
+}
+.srfm-form-container .srfm-block-width-25 {
+    flex: 0 1 calc(25% - 0.75 * var(--srfm-column-gap-between-blocks, 16px));
+}
+.srfm-form-container .srfm-block-width-33-33 {
+    flex: 0 1 calc(33.33% - 0.6666666667 * var(--srfm-column-gap-between-blocks, 16px));
+}
+.srfm-form-container .srfm-block-width-50 {
+    flex: 0 1 calc(50% - var(--srfm-column-gap-between-blocks, 16px) / 2);
+}
+.srfm-form-container .srfm-block-width-66-66 {
+    flex: 0 1 calc(66.66% - 0.3333333333 * var(--srfm-column-gap-between-blocks, 16px));
+}
+.srfm-form-container .srfm-block-width-75 {
+    flex: 0 1 calc(75% - var(--srfm-column-gap-between-blocks, 16px) / 4);
+}
+.srfm-form-container .srfm-block-width-100 {
+    flex: 0 1 100%;
+}
+@media (max-width: 576px) {
+    .srfm-form-container .srfm-block-width-25,
+    .srfm-form-container .srfm-block-width-33-33,
+    .srfm-form-container .srfm-block-width-50,
+    .srfm-form-container .srfm-block-width-66-66,
+    .srfm-form-container .srfm-block-width-75 {
+        min-width: 100%;
+        width: 100%;
+    }
+}
