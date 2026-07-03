@@ -2,86 +2,122 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title><?= e($pageTitle ?? 'Punta Cana para Brasileiros') ?></title>
-    <meta name="description" content="<?= e(site_config('site_description', 'Descubra o paraíso caribenho com os melhores pacotes exclusivos para brasileiros.')) ?>">
-    <meta name="keywords" content="<?= e(site_config('site_keywords')) ?>">
-    
-    <!-- Favicon -->
-    <link rel="icon" href="https://puntacanaparabrasileiros.com/wp-content/uploads/2025/04/cropped-zipwp-image-5876-32x32.png" sizes="32x32">
-    <link rel="apple-touch-icon" href="https://puntacanaparabrasileiros.com/wp-content/uploads/2025/04/cropped-zipwp-image-5876-180x180.png">
-
-    <!-- Google Fonts - Poppins -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-    <!-- Bootstrap Icons -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css" rel="stylesheet">
-    <!-- Swiper CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" rel="stylesheet">
-    <!-- AOS Animations -->
-    <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
-    <!-- Custom CSS -->
-    <link href="<?= asset('css/style.css') ?>" rel="stylesheet">
-
-    <?php if (site_config('google_analytics_id')): ?>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=<?= e(site_config('google_analytics_id')) ?>"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '<?= e(site_config('google_analytics_id')) ?>');
-    </script>
-    <?php endif; ?>
-
-    <?php if (site_config('custom_css')): ?>
-    <style><?= site_config('custom_css') ?></style>
-    <?php endif; ?>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><?= $pageTitle ?? 'Punta Cana para Brasileiros' ?></title>
+    <meta name="description" content="Descubra o paraíso caribenho com os melhores pacotes exclusivos para brasileiros.">
+    <link rel="icon" href="/assets/wp/zipwp-image-5876.png" sizes="32x32">
+    <link rel="apple-touch-icon" href="/assets/wp/zipwp-image-5876.png">
+    <!-- Fonts & Icons via CDN -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <!-- App CSS -->
+    <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
-    <!-- Cookie Banner -->
-    <div id="cookieBanner" class="cookie-banner" style="display:none;">
+    <!-- Header -->
+    <header class="site-header">
+        <div class="header-inner">
+            <a href="/" class="header-logo">
+                <img src="/assets/wp/PUNTA-CANA-1.png" alt="Punta Cana para Brasileiros">
+            </a>
+            <ul class="header-nav">
+                <li><a href="/" class="<?= ($_GET['url'] ?? '') === '' ? 'active' : '' ?>">Home</a></li>
+                <li><a href="/experiencias">Passeios</a></li>
+                <li><a href="/transfer">Transfer</a></li>
+                <li><a href="/blog">Blog</a></li>
+                <li><a href="/sobre-nos">Sobre Nós</a></li>
+                <li><a href="/contato">Contato</a></li>
+            </ul>
+            <div class="header-actions">
+                <div class="header-flags">
+                    <img src="/assets/wp/en-us.svg" alt="EN">
+                    <img src="/assets/wp/pt-br.svg" alt="PT" class="active">
+                    <img src="/assets/wp/es.svg" alt="ES">
+                </div>
+                <a href="/busca" class="icon"><i class="fa-solid fa-magnifying-glass"></i></a>
+                <a href="https://www.instagram.com/puntacanaparabrasileiros" target="_blank" class="icon"><i class="fa-brands fa-instagram"></i></a>
+                <a href="/carrinho" class="icon"><i class="fa-solid fa-cart-shopping"></i></a>
+                <a href="https://api.whatsapp.com/send?phone=18294582170" target="_blank" class="icon"><i class="fa-brands fa-whatsapp"></i></a>
+                <a href="/minha-conta" class="icon"><i class="fa-solid fa-user"></i></a>
+                <a href="/lista-de-desejos" class="icon"><i class="fa-regular fa-heart"></i></a>
+                <a href="/experiencias" class="btn-gold">Agendar Agora</a>
+            </div>
+            <button class="mobile-toggle" onclick="document.querySelector('.header-nav').classList.toggle('show')">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+        </div>
+    </header>
+
+    <!-- Content -->
+    <main><?= $content ?? '' ?></main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
         <div class="container">
-            <p>Utilizamos ferramentas e serviços de terceiros que utilizam cookies. Essas ferramentas nos ajudam a oferecer uma melhor experiência de navegação no site. 
-            <a href="<?= base_url('politicas-de-privacidade') ?>">Políticas de Privacidade</a></p>
-            <button class="btn-cookie" onclick="acceptCookies()">Concordo</button>
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <img src="/assets/wp/PUNTA-CANA-1.png" alt="Logo" style="height:40px;margin-bottom:14px;">
+                    <p>A melhor agência especializada em viagens para Punta Cana com atendimento personalizado para brasileiros.</p>
+                    <div class="footer-social">
+                        <a href="https://www.instagram.com/puntacanaparabrasileiros" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.threads.com/@puntacanaparabrasileiros" target="_blank"><i class="fa-brands fa-threads"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=18294582170" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+                    </div>
+                </div>
+                <div class="footer-col">
+                    <h4>Mapa do Site</h4>
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/experiencias">Experiências</a></li>
+                        <li><a href="/programa-de-afiliados">Afiliados</a></li>
+                        <li><a href="/blog">Blog</a></li>
+                        <li><a href="/sobre-nos">Sobre Nós</a></li>
+                        <li><a href="/contato">Contato</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Sobre Punta Cana</h4>
+                    <ul>
+                        <li><a href="/passeios">Passeios</a></li>
+                        <li><a href="/busca">Busca</a></li>
+                        <li><a href="/minha-conta">Minha Conta</a></li>
+                        <li><a href="/conta-de-afiliado">Conta de Afiliado</a></li>
+                        <li><a href="/lista-de-desejos">Lista de Desejos</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Termos & Políticas</h4>
+                    <ul>
+                        <li><a href="/politicas-de-privacidade">Políticas de Privacidade</a></li>
+                        <li><a href="/politicas-de-cancelamento">Políticas de Cancelamento</a></li>
+                        <li><a href="/termos-e-condicoes-do-programa-de-afiliados">Políticas de Afiliados</a></li>
+                        <li><a href="/termos-e-condicoes">Termos e Condições</a></li>
+                        <li><a href="/cancelamentos">Cancelamentos</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© Copyright 2025 | Desenvolvido por LRV Web · Punta Cana para Brasileiros Oliveira & Ramos SRL · RNC: 133287765</p>
+                <p>Pagamento seguro <i class="fa-brands fa-paypal"></i> <i class="fa-solid fa-credit-card"></i></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- WhatsApp Float -->
+    <a href="https://api.whatsapp.com/send?phone=18294582170&text=Oi%2C%20tudo%20bem%3F" target="_blank" class="whatsapp-float">
+        <i class="fa-brands fa-whatsapp"></i>
+    </a>
+
+    <!-- Cookie Banner -->
+    <div class="cookie-banner" id="cookieBanner">
+        <div class="container">
+            <p>Utilizamos cookies para oferecer uma melhor experiência. <a href="/politicas-de-privacidade">Políticas de Privacidade</a></p>
+            <button class="btn-cookie" onclick="localStorage.setItem('cookies_ok','1');document.getElementById('cookieBanner').style.display='none'">Concordo</button>
         </div>
     </div>
 
-    <!-- Header/Navbar -->
-    <?php include VIEWS_PATH . '/partials/header.php'; ?>
-
-    <!-- Flash Messages -->
-    <?php if (has_flash('success')): ?>
-    <div class="flash-message flash-success" style="position:fixed;top:80px;right:20px;z-index:9999;background:#2ecc71;color:#fff;padding:15px 25px;border-radius:10px;font-size:0.9rem;box-shadow:0 5px 20px rgba(0,0,0,0.3);">
-        <?= flash('success') ?>
-    </div>
-    <?php endif; ?>
-    <?php if (has_flash('error')): ?>
-    <div class="flash-message flash-error" style="position:fixed;top:80px;right:20px;z-index:9999;background:#e74c3c;color:#fff;padding:15px 25px;border-radius:10px;font-size:0.9rem;box-shadow:0 5px 20px rgba(0,0,0,0.3);">
-        <?= flash('error') ?>
-    </div>
-    <?php endif; ?>
-
-    <!-- Main Content -->
-    <main>
-        <?= $content ?? '' ?>
-    </main>
-
-    <!-- Footer -->
-    <?php include VIEWS_PATH . '/partials/footer.php'; ?>
-
-    <!-- WhatsApp Float Button -->
-    <a href="https://api.whatsapp.com/send?phone=<?= e(site_config('phone_whatsapp', '18294582170')) ?>&text=Oi%2C%20tudo%20bem%3F" 
-       class="whatsapp-float" target="_blank" title="Fale conosco no WhatsApp">
-        <i class="bi bi-whatsapp"></i>
-    </a>
-
-    <!-- Scripts -->
-    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
-    <script src="<?= asset('js/main.js') ?>"></script>
-
-    <?php if (site_config('custom_js')): ?>
-    <script><?= site_config('custom_js') ?></script>
-    <?php endif; ?>
+    <script>
+        if(!localStorage.getItem('cookies_ok')) document.getElementById('cookieBanner').style.display='block';
+    </script>
 </body>
 </html>
