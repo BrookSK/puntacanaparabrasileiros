@@ -1388,14 +1388,22 @@ div#nb-4-configurations {
 				/* Fix: select/dropdown should match input style */
 				.srfm-form-container-600-elementor-b769eca .srfm-dropdown-common-wrap .ts-control,
 				.srfm-form-container-600-elementor-b769eca .srfm-dropdown-common-wrap {
-					border: 1px solid #e3e4e5 !important;
+					border: none !important;
 					border-radius: 6px !important;
 					padding: 10px 12px !important;
-					height: 44px !important;
-					background: #fafafa !important;
+					background: transparent !important;
+					box-shadow: none !important;
 				}
 				.srfm-form-container-600-elementor-b769eca fieldset {
 					border: none !important;
+					padding: 0 !important;
+					margin: 0 !important;
+				}
+				.srfm-form-container-600-elementor-b769eca .srfm-dropdown-block .srfm-block-wrap {
+					border: 1px solid #e3e4e5 !important;
+					border-radius: 6px !important;
+					background: #fafafa !important;
+					padding: 4px 8px !important;
 				}
 			</style>
 							<form method="post" enctype="multipart/form-data" id="srfm-form-600" class="srfm-form " form-id="600" after-submission="reset form" message-type="same page" success-url="" ajaxurl="/wp-admin/admin-ajax.php" data-submit-token="78683a9488cbca26aeeabca9ed4c96c63d6a839531a8e550ba164b96bcb6c650" data-srfm-instance="1">
