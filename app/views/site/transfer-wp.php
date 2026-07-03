@@ -108,6 +108,8 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel="stylesheet" id="wte-transfer-styles-css" href="/assets/wp/frontend(1).css" media="all">
 <link rel="stylesheet" id="wte-transfer-cart-css" href="/assets/wp/cart.css" media="all">
 <link rel="stylesheet" id="lrv-transfer-direct-checkout-css" href="/assets/wp/transfer-direct-checkout.css" media="all">
+<link rel="stylesheet" id="wte-transfer-form-css" href="/assets/wp/wte-transfer-form.css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="/assets/wp/dashicons.min.css" media="all">
 <link rel="stylesheet" id="wtefd-front-design-css" href="/assets/wp/front-2.0.3.css" media="all">
 <link rel="stylesheet" id="Wte-HBL-css" href="/assets/wp/public.css" media="all">
 <link rel="stylesheet" id="wte-itinerary-downloader-css" href="/assets/wp/wte-itinerary-downloader-public-2.1.2.min.css" media="all">
