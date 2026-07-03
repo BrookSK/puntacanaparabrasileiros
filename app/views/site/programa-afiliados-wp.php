@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <!-- saved from url=(0059)https://puntacanaparabrasileiros.com/programa-de-afiliados/ -->
 <html lang="pt-BR" prefix="og: https://ogp.me/ns#" class="" webcrx=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
@@ -25,7 +25,7 @@
 <meta name="twitter:description" content="Transforme sua Influência em Renda Extra">
 <meta name="twitter:label1" content="Tempo para leitura">
 <meta name="twitter:data1" content="2 minutos">
-<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://puntacanaparabrasileiros.com/#organization","name":"LRV Web","url":"https://puntacanaparabrasileiros.com","logo":{"@type":"ImageObject","@id":"https://puntacanaparabrasileiros.com/#logo","url":"https://lrvweb.com.br/wp-content/uploads/2025/04/zipwp-image-7202.png","contentUrl":"https://lrvweb.com.br/wp-content/uploads/2025/04/zipwp-image-7202.png","caption":"LRV Web","inLanguage":"pt-BR"}},{"@type":"WebSite","@id":"https://puntacanaparabrasileiros.com/#website","url":"https://puntacanaparabrasileiros.com","name":"LRV Web","alternateName":"LRV Web","publisher":{"@id":"https://puntacanaparabrasileiros.com/#organization"},"inLanguage":"pt-BR"},{"@type":"WebPage","@id":"https://puntacanaparabrasileiros.com/programa-de-afiliados/#webpage","url":"https://puntacanaparabrasileiros.com/programa-de-afiliados/","name":"Programa de Afiliados - Punta Cana para Brasileiros","datePublished":"2026-01-02T18:48:07-03:00","dateModified":"2026-02-02T17:27:32-03:00","isPartOf":{"@id":"https://puntacanaparabrasileiros.com/#website"},"inLanguage":"pt-BR"},{"@type":"Person","@id":"https://puntacanaparabrasileiros.com/author/lucas/","name":"Lucas Vacari","url":"https://puntacanaparabrasileiros.com/author/lucas/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/80df6a7f09f6cd519506faa401bd8e304572ba98092a3e331a7a18f99aaeb225?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/80df6a7f09f6cd519506faa401bd8e304572ba98092a3e331a7a18f99aaeb225?s=96&amp;d=mm&amp;r=g","caption":"Lucas Vacari","inLanguage":"pt-BR"},"sameAs":["https://lrvweb.com.br/"],"worksFor":{"@id":"https://puntacanaparabrasileiros.com/#organization"}},{"@type":"Article","headline":"Programa de Afiliados - Punta Cana para Brasileiros","datePublished":"2026-01-02T18:48:07-03:00","dateModified":"2026-02-02T17:27:32-03:00","author":{"@id":"https://puntacanaparabrasileiros.com/author/lucas/","name":"Lucas Vacari"},"publisher":{"@id":"https://puntacanaparabrasileiros.com/#organization"},"description":"Transforme sua Influ\u00eancia em Renda Extra","name":"Programa de Afiliados - Punta Cana para Brasileiros","@id":"https://puntacanaparabrasileiros.com/programa-de-afiliados/#richSnippet","isPartOf":{"@id":"https://puntacanaparabrasileiros.com/programa-de-afiliados/#webpage"},"inLanguage":"pt-BR","mainEntityOfPage":{"@id":"https://puntacanaparabrasileiros.com/programa-de-afiliados/#webpage"}}]}</script>
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://puntacanaparabrasileiros.com/#organization","name":"LRV Web","url":"https://puntacanaparabrasileiros.com","logo":{"@type":"ImageObject","@id":"https://puntacanaparabrasileiros.com/#logo","url":"https://lrvweb.com.br/assets/wp/uploads/2025/04/zipwp-image-7202.png","contentUrl":"https://lrvweb.com.br/assets/wp/uploads/2025/04/zipwp-image-7202.png","caption":"LRV Web","inLanguage":"pt-BR"}},{"@type":"WebSite","@id":"https://puntacanaparabrasileiros.com/#website","url":"https://puntacanaparabrasileiros.com","name":"LRV Web","alternateName":"LRV Web","publisher":{"@id":"https://puntacanaparabrasileiros.com/#organization"},"inLanguage":"pt-BR"},{"@type":"WebPage","@id":"https://puntacanaparabrasileiros.com/programa-de-afiliados/#webpage","url":"https://puntacanaparabrasileiros.com/programa-de-afiliados/","name":"Programa de Afiliados - Punta Cana para Brasileiros","datePublished":"2026-01-02T18:48:07-03:00","dateModified":"2026-02-02T17:27:32-03:00","isPartOf":{"@id":"https://puntacanaparabrasileiros.com/#website"},"inLanguage":"pt-BR"},{"@type":"Person","@id":"https://puntacanaparabrasileiros.com/author/lucas/","name":"Lucas Vacari","url":"https://puntacanaparabrasileiros.com/author/lucas/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/80df6a7f09f6cd519506faa401bd8e304572ba98092a3e331a7a18f99aaeb225?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/80df6a7f09f6cd519506faa401bd8e304572ba98092a3e331a7a18f99aaeb225?s=96&amp;d=mm&amp;r=g","caption":"Lucas Vacari","inLanguage":"pt-BR"},"sameAs":["https://lrvweb.com.br/"],"worksFor":{"@id":"https://puntacanaparabrasileiros.com/#organization"}},{"@type":"Article","headline":"Programa de Afiliados - Punta Cana para Brasileiros","datePublished":"2026-01-02T18:48:07-03:00","dateModified":"2026-02-02T17:27:32-03:00","author":{"@id":"https://puntacanaparabrasileiros.com/author/lucas/","name":"Lucas Vacari"},"publisher":{"@id":"https://puntacanaparabrasileiros.com/#organization"},"description":"Transforme sua Influ\u00eancia em Renda Extra","name":"Programa de Afiliados - Punta Cana para Brasileiros","@id":"https://puntacanaparabrasileiros.com/programa-de-afiliados/#richSnippet","isPartOf":{"@id":"https://puntacanaparabrasileiros.com/programa-de-afiliados/#webpage"},"inLanguage":"pt-BR","mainEntityOfPage":{"@id":"https://puntacanaparabrasileiros.com/programa-de-afiliados/#webpage"}}]}</script>
 <!-- /Plugin de SEO Rank Math para WordPress -->
 
 <link rel="dns-prefetch" href="https://cdn.jsdelivr.net/">
@@ -888,10 +888,10 @@ Last edited: 2026-06-29 13:15:12
 					clip: rect(1px, 1px, 1px, 1px);
 				}
 					</style>
-		<link rel="icon" href="/wp-content/uploads/2025/04/cropped-zipwp-image-5876-32x32.png" sizes="32x32">
-<link rel="icon" href="/wp-content/uploads/2025/04/cropped-zipwp-image-5876-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="/wp-content/uploads/2025/04/cropped-zipwp-image-5876-180x180.png">
-<meta name="msapplication-TileImage" content="/wp-content/uploads/2025/04/cropped-zipwp-image-5876-270x270.png">
+		<link rel="icon" href="/assets/wp/uploads/2025/04/cropped-zipwp-image-5876-32x32.png" sizes="32x32">
+<link rel="icon" href="/assets/wp/uploads/2025/04/cropped-zipwp-image-5876-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/assets/wp/uploads/2025/04/cropped-zipwp-image-5876-180x180.png">
+<meta name="msapplication-TileImage" content="/assets/wp/uploads/2025/04/cropped-zipwp-image-5876-270x270.png">
 <style id="travel-monster-dynamic-css" type="text/css" media="all">        .comments-area ol.comment-list li .comment-body .text-holder .reply a:before {
             -webkit-mask-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 11H18C19.1046 11 20 11.8954 20 13V17' stroke='%23E48E45' stroke-width='2' stroke-linecap='round'/%3E%3Cpath d='M8 7L4 11L8 15' stroke='%23E48E45' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
             mask-image: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 11H18C19.1046 11 20 11.8954 20 13V17' stroke='%23E48E45' stroke-width='2' stroke-linecap='round'/%3E%3Cpath d='M8 7L4 11L8 15' stroke='%23E48E45' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
@@ -1193,7 +1193,7 @@ div#nb-4-configurations {
 				<div class="elementor-element elementor-element-3339535 elementor-widget elementor-widget-image" data-id="3339535" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="/">
-							<img fetchpriority="high" width="606" height="219" src="/assets/wp/PUNTA-CANA-1.png" class="attachment-full size-full wp-image-6809" alt="" srcset="/wp-content/uploads/2025/04/PUNTA-CANA-1.png 606w, /wp-content/uploads/2025/04/PUNTA-CANA-1-300x108.png 300w, /wp-content/uploads/2025/04/PUNTA-CANA-1-18x7.png 18w" sizes="(max-width: 606px) 100vw, 606px">								</a>
+							<img fetchpriority="high" width="606" height="219" src="/assets/wp/PUNTA-CANA-1.png" class="attachment-full size-full wp-image-6809" alt="" srcset="/assets/wp/uploads/2025/04/PUNTA-CANA-1.png 606w, /assets/wp/uploads/2025/04/PUNTA-CANA-1-300x108.png 300w, /assets/wp/uploads/2025/04/PUNTA-CANA-1-18x7.png 18w" sizes="(max-width: 606px) 100vw, 606px">								</a>
 															</div>
 				</div>
 				<div class="elementor-element elementor-element-46a24d9 puntacanalog elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-text-editor" data-id="46a24d9" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
@@ -1303,7 +1303,7 @@ div#nb-4-configurations {
 				<div class="elementor-element elementor-element-0d41e4b elementor-widget elementor-widget-image" data-id="0d41e4b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="/">
-							<img fetchpriority="high" width="606" height="219" src="/assets/wp/PUNTA-CANA-1.png" class="attachment-full size-full wp-image-6809" alt="" srcset="/wp-content/uploads/2025/04/PUNTA-CANA-1.png 606w, /wp-content/uploads/2025/04/PUNTA-CANA-1-300x108.png 300w, /wp-content/uploads/2025/04/PUNTA-CANA-1-18x7.png 18w" sizes="(max-width: 606px) 100vw, 606px">								</a>
+							<img fetchpriority="high" width="606" height="219" src="/assets/wp/PUNTA-CANA-1.png" class="attachment-full size-full wp-image-6809" alt="" srcset="/assets/wp/uploads/2025/04/PUNTA-CANA-1.png 606w, /assets/wp/uploads/2025/04/PUNTA-CANA-1-300x108.png 300w, /assets/wp/uploads/2025/04/PUNTA-CANA-1-18x7.png 18w" sizes="(max-width: 606px) 100vw, 606px">								</a>
 															</div>
 				</div>
 				</div>
@@ -2264,7 +2264,7 @@ div#nb-4-configurations {
 				<div class="elementor-element elementor-element-af43415 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="af43415" data-element_type="widget" data-e-type="widget" data-widget_type="theme-site-logo.default">
 				<div class="elementor-widget-container">
 											<a href="/">
-			<img width="273" height="265" data-src="/wp-content/uploads/2025/04/zipwp-image-5876.png" class="attachment-1536x1536 size-1536x1536 wp-image-631 lazyload" alt="Site Logo" data-srcset="/wp-content/uploads/2025/04/zipwp-image-5876.png 273w, /wp-content/uploads/2025/04/zipwp-image-5876-118x115.png 118w" data-sizes="(max-width: 273px) 100vw, 273px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 273px; --smush-placeholder-aspect-ratio: 273/265;">				</a>
+			<img width="273" height="265" data-src="/assets/wp/uploads/2025/04/zipwp-image-5876.png" class="attachment-1536x1536 size-1536x1536 wp-image-631 lazyload" alt="Site Logo" data-srcset="/assets/wp/uploads/2025/04/zipwp-image-5876.png 273w, /assets/wp/uploads/2025/04/zipwp-image-5876-118x115.png 118w" data-sizes="(max-width: 273px) 100vw, 273px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 273px; --smush-placeholder-aspect-ratio: 273/265;">				</a>
 											</div>
 				</div>
 				</div>
@@ -2383,7 +2383,7 @@ div#nb-4-configurations {
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://puntacanaparabrasileiros.com/wp-content/uploads/2025/05/2026-Catalogo-Digital-Punta-Cana-para-Brasileiros.pdf" target="_blank" rel="nofollow">
+											<a href="http://puntacanaparabrasileiros.com/assets/wp/uploads/2025/05/2026-Catalogo-Digital-Punta-Cana-para-Brasileiros.pdf" target="_blank" rel="nofollow">
 
 											<span class="elementor-icon-list-text">Baixe Nosso Catálogo</span>
 											</a>
@@ -2467,7 +2467,7 @@ Punta Cana para Brasileiros Oliveira &amp; Ramos SRL RNC: 133287765
 				</a></div><a>
 				<div class="elementor-element elementor-element-32c4e68 elementor-widget elementor-widget-image" data-id="32c4e68" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="196" height="26" data-src="/wp-content/uploads/2025/04/footer-payment.png" class="attachment-large size-large wp-image-6162 lazyload" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 196px; --smush-placeholder-aspect-ratio: 196/26;">															</div>
+															<img width="196" height="26" data-src="/assets/wp/uploads/2025/04/footer-payment.png" class="attachment-large size-large wp-image-6162 lazyload" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 196px; --smush-placeholder-aspect-ratio: 196/26;">															</div>
 				</div>
 					</a></div><a>
 				</a></div><a>
