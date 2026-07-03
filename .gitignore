@@ -1,0 +1,19 @@
+# Uploads dos usuários
+public/uploads/*
+!public/uploads/.gitkeep
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Vendor (se usar composer no futuro)
+vendor/
