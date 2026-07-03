@@ -1809,4 +1809,16 @@ Punta Cana para Brasileiros Oliveira &amp; Ramos SRL RNC: 133287765
 
 
 
-</body></html>
+<style id="btn-fix">
+.elementor-button,.elementor-button-link,a.elementor-button{
+  font-family:inherit!important;font-size:15px!important;padding:12px 24px!important;
+  border-radius:4px!important;display:inline-flex!important;align-items:center!important;
+  gap:8px!important;line-height:1.4!important;text-align:center!important;
+  cursor:pointer!important;text-decoration:none!important;
+  color:#fff!important;background-color:#1863DC!important;border:none!important;font-weight:500!important;
+}
+.elementor-button:hover,a.elementor-button:hover{background-color:#1352b5!important}
+.elementor-button-content-wrapper{display:inline-flex!important;align-items:center!important;gap:8px!important}
+.elementor-button-icon svg,.elementor-button-icon .e-font-icon-svg{width:14px!important;height:14px!important;fill:#fff!important}
+.elementor-button-text{color:#fff!important}
+</style></body></html>
