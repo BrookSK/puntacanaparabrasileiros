@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <!-- saved from url=(0059)https://puntacanaparabrasileiros.com/programa-de-afiliados/ -->
 <html lang="pt-BR" prefix="og: https://ogp.me/ns#" class="" webcrx=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
@@ -1293,7 +1293,7 @@ div#nb-4-configurations {
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-d0c1680 elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet e-flex e-con-boxed e-con e-parent" data-id="d0c1680" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-d0c1680 elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet e-flex e-con-boxed e-con e-parent e-lazyloaded data-id="d0c1680" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-ca2fccd e-con-full e-flex e-con e-child" data-id="ca2fccd" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-4f7e7d8 puntacanalog elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-text-editor" data-id="4f7e7d8" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
@@ -1761,7 +1761,7 @@ div#nb-4-configurations {
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-808def9 comoFunciona e-flex e-con-boxed e-con e-parent" data-id="808def9" data-element_type="container" data-e-type="container" id="comoFunciona" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-808def9 comoFunciona e-flex e-con-boxed e-con e-parent e-lazyloaded data-id="808def9" data-element_type="container" data-e-type="container" id="comoFunciona" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-5bba500 elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="5bba500" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -1829,7 +1829,7 @@ div#nb-4-configurations {
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-d00e1bb e-flex e-con-boxed e-con e-parent" data-id="d00e1bb" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-d00e1bb e-flex e-con-boxed e-con e-parent e-lazyloaded data-id="d00e1bb" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 					<div class="e-con-inner">
 		<div class="elementor-element elementor-element-8b89337 e-con-full e-flex e-con e-child" data-id="8b89337" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-1400249 elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="1400249" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
@@ -1999,7 +1999,7 @@ div#nb-4-configurations {
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-4f8015d e-flex e-con-boxed e-con e-parent" data-id="4f8015d" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-4f8015d e-flex e-con-boxed e-con e-parent e-lazyloaded data-id="4f8015d" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-4d1f4ac elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="4d1f4ac" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -2103,7 +2103,7 @@ div#nb-4-configurations {
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-7986301 e-flex e-con-boxed e-con e-parent" data-id="7986301" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-7986301 e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="7986301" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-6a1cebe elementor-view-default elementor-widget elementor-widget-icon" data-id="6a1cebe" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
@@ -2147,7 +2147,7 @@ div#nb-4-configurations {
 				</div>
 					</div>
 				</div>
-		<div class="elementor-element elementor-element-09931d8 e-flex e-con-boxed e-con e-parent" data-id="09931d8" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+		<div class="elementor-element elementor-element-09931d8 e-flex e-con-boxed e-con e-parent e-lazyloaded data-id="09931d8" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-932dd52 elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="932dd52" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -2245,7 +2245,7 @@ div#nb-4-configurations {
 				</div>
 				</div>
 				<div data-elementor-type="footer" data-elementor-id="6171" class="elementor elementor-6171 elementor-location-footer" data-elementor-post-type="elementor_library">
-			<div class="elementor-element elementor-element-1100f39 e-con-full e-flex e-con e-parent" data-id="1100f39" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
+			<div class="elementor-element elementor-element-1100f39 e-con-full e-flex e-con e-parent e-lazyloaded data-id="1100f39" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;jet_parallax_layout_list&quot;:[]}">
 		<div class="elementor-element elementor-element-e999449 e-flex e-con-boxed e-con e-child" data-id="e999449" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;,&quot;jet_parallax_layout_list&quot;:[],&quot;shape_divider_top&quot;:&quot;wave-brush&quot;}">
 					<div class="e-con-inner">
 				<div class="elementor-shape elementor-shape-top" aria-hidden="true" data-negative="false">
