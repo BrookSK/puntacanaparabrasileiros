@@ -15,8 +15,8 @@
 <meta property="og:url" content="/experiencias/">
 <meta property="og:site_name" content="LRV Web">
 <meta property="og:updated_time" content="2025-10-24T23:50:55-03:00">
-<meta property="og:image" content="/wp-content/uploads/2025/05/3.png">
-<meta property="og:image:secure_url" content="/wp-content/uploads/2025/05/3.png">
+<meta property="og:image" content="/assets/wp/3.png">
+<meta property="og:image:secure_url" content="/assets/wp/3.png">
 <meta property="og:image:width" content="410">
 <meta property="og:image:height" content="410">
 <meta property="og:image:alt" content="Experiências">
@@ -26,10 +26,10 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Experiências - Punta Cana para Brasileiros">
 <meta name="twitter:description" content="Descubra experiências únicas e memoráveis em Punta Cana. Do relaxamento ao aprendizado, crie memórias que durarão para sempre.">
-<meta name="twitter:image" content="/wp-content/uploads/2025/05/3.png">
+<meta name="twitter:image" content="/assets/wp/3.png">
 <meta name="twitter:label1" content="Tempo para leitura">
 <meta name="twitter:data1" content="4 minutos">
-<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"/#organization","name":"LRV Web","url":"https://puntacanaparabrasileiros.com","logo":{"@type":"ImageObject","@id":"/#logo","url":"https://lrvweb.com.br/wp-content/uploads/2025/04/zipwp-image-7202.png","contentUrl":"https://lrvweb.com.br/wp-content/uploads/2025/04/zipwp-image-7202.png","caption":"LRV Web","inLanguage":"pt-BR"}},{"@type":"WebSite","@id":"/#website","url":"https://puntacanaparabrasileiros.com","name":"LRV Web","alternateName":"LRV Web","publisher":{"@id":"/#organization"},"inLanguage":"pt-BR"},{"@type":"ImageObject","@id":"/wp-content/uploads/2025/05/3.png","url":"/wp-content/uploads/2025/05/3.png","width":"200","height":"200","inLanguage":"pt-BR"},{"@type":"WebPage","@id":"/experiencias/#webpage","url":"/experiencias/","name":"Experi\u00eancias - Punta Cana para Brasileiros","datePublished":"2025-05-02T19:53:57-03:00","dateModified":"2025-10-24T23:50:55-03:00","isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/wp-content/uploads/2025/05/3.png"},"inLanguage":"pt-BR"},{"@type":"Person","@id":"/author/lucas/","name":"Lucas Vacari","url":"/author/lucas/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/80df6a7f09f6cd519506faa401bd8e304572ba98092a3e331a7a18f99aaeb225?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/80df6a7f09f6cd519506faa401bd8e304572ba98092a3e331a7a18f99aaeb225?s=96&amp;d=mm&amp;r=g","caption":"Lucas Vacari","inLanguage":"pt-BR"},"sameAs":["https://lrvweb.com.br/"],"worksFor":{"@id":"/#organization"}},{"@type":"Article","headline":"Experi\u00eancias - Punta Cana para Brasileiros","datePublished":"2025-05-02T19:53:57-03:00","dateModified":"2025-10-24T23:50:55-03:00","author":{"@id":"/author/lucas/","name":"Lucas Vacari"},"publisher":{"@id":"/#organization"},"description":"Descubra experi\u00eancias \u00fanicas e memor\u00e1veis em Punta Cana. Do relaxamento ao aprendizado, crie mem\u00f3rias que durar\u00e3o para sempre.","name":"Experi\u00eancias - Punta Cana para Brasileiros","@id":"/experiencias/#richSnippet","isPartOf":{"@id":"/experiencias/#webpage"},"image":{"@id":"/wp-content/uploads/2025/05/3.png"},"inLanguage":"pt-BR","mainEntityOfPage":{"@id":"/experiencias/#webpage"}}]}</script>
+
 <!-- /Plugin de SEO Rank Math para WordPress -->
 
 <link rel="dns-prefetch" href="https://cdn.jsdelivr.net/">
@@ -501,33 +501,17 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel="stylesheet" id="elementor-post-6171-css" href="/assets/wp/post-6171.css" media="all">
 <link rel="stylesheet" id="srfm-payment-history-css" href="/assets/wp/payment-history.min.css" media="all">
 <link rel="stylesheet" id="elementor-gf-poppins-css" href="/assets/wp/css(1)" media="all">
-<script id="cookie-law-info-js-extra">
-var _ckyConfig = {"_ipData":[],"_assetsURL":"/wp-content/plugins/cookie-law-info/lite/frontend/images/","_publicURL":"https://puntacanaparabrasileiros.com","_expiry":"365","_categories":[{"name":"Necessary","slug":"necessary","isNecessary":true,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":true,"ccpa":true}},{"name":"Functional","slug":"functional","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Analytics","slug":"analytics","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Performance","slug":"performance","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Advertisement","slug":"advertisement","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}}],"_activeLaw":"gdpr","_rootDomain":"","_block":"1","_showBanner":"1","_bannerConfig":{"settings":{"type":"banner","preferenceCenterType":"popup","position":"bottom","applicableLaw":"gdpr"},"behaviours":{"reloadBannerOnAccept":false,"loadAnalyticsByDefault":false,"animations":{"onLoad":"animate","onHide":"sticky"}},"config":{"revisitConsent":{"status":false,"tag":"revisit-consent","position":"bottom-left","meta":{"url":"#"},"styles":{"background-color":"#0056A7"},"elements":{"title":{"type":"text","tag":"revisit-consent-title","status":true,"styles":{"color":"#0056a7"}}}},"preferenceCenter":{"toggle":{"status":true,"tag":"detail-category-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"categoryPreview":{"status":false,"toggle":{"status":true,"tag":"detail-category-preview-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"videoPlaceholder":{"status":true,"styles":{"background-color":"#000000","border-color":"#000000","color":"#ffffff"}},"readMore":{"status":true,"tag":"readmore-button","type":"link","meta":{"noFollow":true,"newTab":true},"styles":{"color":"#1863DC","background-color":"transparent","border-color":"transparent"}},"showMore":{"status":true,"tag":"show-desc-button","type":"button","styles":{"color":"#1863DC"}},"showLess":{"status":true,"tag":"hide-desc-button","type":"button","styles":{"color":"#1863DC"}},"alwaysActive":{"status":true,"tag":"always-active","styles":{"color":"#008000"}},"manualLinks":{"status":true,"tag":"manual-links","type":"link","styles":{"color":"#1863DC"}},"auditTable":{"status":true},"optOption":{"status":true,"toggle":{"status":true,"tag":"optout-option-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863dc"}},"inactive":{"styles":{"background-color":"#FFFFFF"}}}}}}},"_version":"3.4.0","_logConsent":"","_tags":[{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#1863DC","border-color":"#1863DC"}},{"tag":"reject-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"#1863DC"}},{"tag":"settings-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"#1863DC"}},{"tag":"readmore-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"transparent"}},{"tag":"donotsell-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"transparent"}},{"tag":"show-desc-button","styles":{"color":"#1863DC"}},{"tag":"hide-desc-button","styles":{"color":"#1863DC"}},{"tag":"cky-always-active","styles":[]},{"tag":"cky-link","styles":[]},{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#1863DC","border-color":"#1863DC"}},{"tag":"revisit-consent","styles":{"background-color":"#0056A7"}}],"_shortCodes":[{"key":"cky_readmore","content":"\u003Ca href=\"/politicas-de-privacidade\" class=\"cky-policy\" aria-label=\"Pol\u00edticas de Privacidade\" target=\"_blank\" rel=\"noopener\" data-cky-tag=\"readmore-button\"\u003EPol\u00edticas de Privacidade\u003C/a\u003E","tag":"readmore-button","status":true,"attributes":{"rel":"nofollow","target":"_blank"}},{"key":"cky_show_desc","content":"\u003Cbutton class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-label=\"Show more\"\u003EShow more\u003C/button\u003E","tag":"show-desc-button","status":true,"attributes":[]},{"key":"cky_hide_desc","content":"\u003Cbutton class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-label=\"Show less\"\u003EShow less\u003C/button\u003E","tag":"hide-desc-button","status":true,"attributes":[]},{"key":"cky_optout_show_desc","content":"[cky_optout_show_desc]","tag":"optout-show-desc-button","status":true,"attributes":[]},{"key":"cky_optout_hide_desc","content":"[cky_optout_hide_desc]","tag":"optout-hide-desc-button","status":true,"attributes":[]},{"key":"cky_category_toggle_label","content":"[cky_{{status}}_category_label] [cky_preference_{{category_slug}}_title]","tag":"","status":true,"attributes":[]},{"key":"cky_enable_category_label","content":"Enable","tag":"","status":true,"attributes":[]},{"key":"cky_disable_category_label","content":"Disable","tag":"","status":true,"attributes":[]},{"key":"cky_video_placeholder","content":"\u003Cdiv class=\"video-placeholder-normal\" data-cky-tag=\"video-placeholder\" id=\"[UNIQUEID]\"\u003E\u003Cp class=\"video-placeholder-text-normal\" data-cky-tag=\"placeholder-title\"\u003EPlease accept cookies to access this content\u003C/p\u003E\u003C/div\u003E","tag":"","status":true,"attributes":[]},{"key":"cky_enable_optout_label","content":"Enable","tag":"","status":true,"attributes":[]},{"key":"cky_disable_optout_label","content":"Disable","tag":"","status":true,"attributes":[]},{"key":"cky_optout_toggle_label","content":"[cky_{{status}}_optout_label] [cky_optout_option_title]","tag":"","status":true,"attributes":[]},{"key":"cky_optout_option_title","content":"Do Not Sell or Share My Personal Information","tag":"","status":true,"attributes":[]},{"key":"cky_optout_close_label","content":"Close","tag":"","status":true,"attributes":[]},{"key":"cky_preference_close_label","content":"Close","tag":"","status":true,"attributes":[]}],"_rtl":"","_language":"en","_providersToBlock":[]};
-var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99999999;}.cky-hide{display: none;}.cky-btn-revisit-wrapper{display: flex; align-items: center; justify-content: center; background: #0056a7; width: 45px; height: 45px; border-radius: 50%; position: fixed; z-index: 999999; cursor: pointer;}.cky-revisit-bottom-left{bottom: 15px; left: 15px;}.cky-revisit-bottom-right{bottom: 15px; right: 15px;}.cky-btn-revisit-wrapper .cky-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width: fit-content; margin: 0; height: 30px; width: 30px;}.cky-revisit-bottom-left:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; left: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-left:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; left: calc(100% + 2px); border-left-width: 0; border-right-color: #4e4b66;}.cky-revisit-bottom-right:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; right: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-right:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; right: calc(100% + 2px); border-right-width: 0; border-left-color: #4e4b66;}.cky-revisit-hide{display: none;}.cky-consent-container{position: fixed; width: 100%; box-sizing: border-box; z-index: 9999999;}.cky-consent-container .cky-consent-bar{background: #ffffff; border: 1px solid; padding: 16.5px 24px; box-shadow: 0 -1px 10px 0 #acabab4d;}.cky-banner-bottom{bottom: 0; left: 0;}.cky-banner-top{top: 0; left: 0;}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width: 100px; height: auto; margin: 0 0 12px 0;}.cky-notice .cky-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 12px 0;}.cky-notice-group{display: flex; justify-content: space-between; align-items: center; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des *,.cky-preference-content-wrapper *,.cky-accordion-header-des *,.cky-gpc-wrapper .cky-gpc-desc *{font-size: 14px;}.cky-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des img{height: 25px; width: 25px;}.cky-consent-bar .cky-notice-des p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.cky-cookie-des-table li div:last-child p{color: inherit; margin-top: 0; overflow-wrap: break-word;}.cky-notice-des P:last-child,.cky-preference-content-wrapper p:last-child,.cky-cookie-des-table li div:last-child p:last-child,.cky-gpc-wrapper .cky-gpc-desc p:last-child{margin-bottom: 0;}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.cky-notice-des button.cky-policy{padding: 0;}.cky-notice-des a.cky-policy:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-preference-header .cky-btn-close:focus-visible,.cky-switch input[type=\"checkbox\"]:focus-visible,.cky-footer-wrapper a:focus-visible,.cky-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-consent-bar .cky-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.cky-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active){background: transparent;}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration: none;}.cky-notice-btn-wrapper{display: flex; justify-content: center; align-items: center; margin-left: 15px;}.cky-notice-btn-wrapper .cky-btn{text-shadow: none; box-shadow: none;}.cky-btn{font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px 27px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; white-space: nowrap; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.cky-btn:hover{opacity: 0.8;}.cky-btn-customize{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.cky-btn:last-child{margin-right: 0;}@media (max-width: 768px){.cky-notice-group{display: block;}.cky-notice-btn-wrapper{margin-left: 0;}.cky-notice-btn-wrapper .cky-btn{flex: auto; max-width: 100%; margin-top: 10px; white-space: unset;}}@media (max-width: 576px){.cky-notice-btn-wrapper{flex-direction: column;}.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 28px;}.cky-consent-container .cky-consent-bar{padding: 16.5px 0;}.cky-notice-des{max-height: 40vh; overflow-y: scroll;}.cky-notice-btn-wrapper .cky-btn{width: 100%; padding: 8px; margin-right: 0;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}}@media (max-height: 480px){.cky-consent-container{max-height: 100vh;overflow-y: scroll}.cky-notice-des{max-height: unset;overflow-y: unset}.cky-preference-center{height: 100vh;overflow: auto !important}.cky-preference-center .cky-preference-body-wrapper{overflow: unset}}@media (max-width: 425px){.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 24px;}.cky-notice-btn-wrapper{flex-direction: column;}.cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1; margin-top: 16px;}}@media (max-width: 352px){.cky-notice .cky-title{font-size: 16px;}.cky-notice-des *{font-size: 12px;}.cky-notice-des, .cky-btn{font-size: 12px;}}.cky-modal.cky-modal-open{display: flex; visibility: visible; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); transform: translate(-50%, -50%); top: 50%; left: 50%; transition: all 1s ease;}.cky-modal{box-shadow: 0 32px 68px rgba(0, 0, 0, 0.3); margin: 0 auto; position: fixed; max-width: 100%; background: #ffffff; top: 50%; box-sizing: border-box; border-radius: 6px; z-index: 999999999; color: #212121; -webkit-transform: translate(-50%, 100%); -moz-transform: translate(-50%, 100%); -ms-transform: translate(-50%, 100%); -o-transform: translate(-50%, 100%); transform: translate(-50%, 100%); visibility: hidden; transition: all 0s ease;}.cky-preference-center{max-height: 79vh; overflow: hidden; width: 845px; overflow: hidden; flex: 1 1 0; display: flex; flex-direction: column; border-radius: 6px;}.cky-preference-header{display: flex; align-items: center; justify-content: space-between; padding: 22px 24px; border-bottom: 1px solid;}.cky-preference-header .cky-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.cky-preference-header .cky-btn-close{margin: 0; cursor: pointer; vertical-align: middle; padding: 0; background: none; border: none; width: 24px; height: 24px; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.cky-preference-header .cky-btn-close img{margin: 0; height: 10px; width: 10px;}.cky-preference-body-wrapper{padding: 0 24px; flex: 1; overflow: auto; box-sizing: border-box;}.cky-preference-content-wrapper,.cky-gpc-wrapper .cky-gpc-desc{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0;}.cky-preference-content-wrapper{border-bottom: 1px solid;}.cky-preference-content-wrapper img{height: 25px; width: 25px;}.cky-preference-content-wrapper .cky-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-wrapper{margin-bottom: 10px;}.cky-accordion{border-bottom: 1px solid;}.cky-accordion:last-child{border-bottom: none;}.cky-accordion .cky-accordion-item{display: flex; margin-top: 10px;}.cky-accordion .cky-accordion-body{display: none;}.cky-accordion.cky-accordion-active .cky-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.cky-accordion-header-wrapper{cursor: pointer; width: 100%;}.cky-accordion-item .cky-accordion-header{display: flex; justify-content: space-between; align-items: center;}.cky-accordion-header .cky-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-header .cky-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.cky-accordion-header-des{font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.cky-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.cky-accordion-chevron-hide{display: none;}.cky-accordion .cky-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.cky-audit-table{background: #f4f4f4; border-radius: 6px;}.cky-audit-table .cky-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.cky-audit-table .cky-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom: none;}.cky-audit-table .cky-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top: 0;}.cky-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.cky-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.cky-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: calc(100% - 1px);}.cky-footer-wrapper{position: relative;}.cky-prefrence-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px; border-top: 1px solid;}.cky-prefrence-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-preference-header,.cky-preference-body-wrapper,.cky-preference-content-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 845px){.cky-modal{max-width: calc(100% - 16px);}}@media (max-width: 576px){.cky-modal{max-width: 100%;}.cky-preference-center{max-height: 100vh;}.cky-prefrence-btn-wrapper{flex-direction: column;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right: 0;}.cky-prefrence-btn-wrapper .cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-prefrence-btn-wrapper .cky-btn-reject{order: 3;}.cky-prefrence-btn-wrapper .cky-btn-accept{order: 1; margin-top: 0;}.cky-prefrence-btn-wrapper .cky-btn-preferences{order: 2;}}@media (max-width: 425px){.cky-accordion-chevron{margin-right: 15px;}.cky-notice-btn-wrapper{margin-top: 0;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.cky-preference-header .cky-preference-title{font-size: 16px;}.cky-preference-header{padding: 16px 24px;}.cky-preference-content-wrapper *, .cky-accordion-header-des *{font-size: 12px;}.cky-preference-content-wrapper, .cky-preference-content-wrapper .cky-show-more, .cky-accordion-header .cky-always-active, .cky-accordion-header-des, .cky-preference-content-wrapper .cky-show-desc-btn, .cky-notice-des a.cky-policy{font-size: 12px;}.cky-accordion-header .cky-accordion-btn{font-size: 14px;}}.cky-switch{display: flex;}.cky-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.cky-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.cky-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.cky-switch input[type=\"checkbox\"]:after{display: none;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.cky-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.cky-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.cky-consent-bar .cky-banner-btn-close{position: absolute; right: 9px; top: 5px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; min-height: 0; line-height: 0; height: 24px; width: 24px; text-shadow: none; box-shadow: none;}.cky-consent-bar .cky-banner-btn-close img{height: 9px; width: 9px; margin: 0;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 14px; line-height: 24px; padding: 6px 0; margin: 0; font-weight: 500; background: none; border-radius: 2px; border: none; cursor: pointer; text-align: left; color: #1863dc; background: transparent; border-color: transparent; box-shadow: none; text-shadow: none;}.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-btn-wrapper .cky-btn-do-not-sell:focus-visible,.cky-opt-out-btn-wrapper .cky-btn:focus-visible,.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}@media (max-width: 768px){.cky-notice-btn-wrapper{margin-left: 0; margin-top: 10px; justify-content: left;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{padding: 0;}}@media (max-width: 352px){.cky-notice-btn-wrapper .cky-btn-do-not-sell, .cky-notice-des a.cky-policy{font-size: 12px;}}.cky-opt-out-wrapper{padding: 12px 0;}.cky-opt-out-wrapper .cky-opt-out-checkbox-wrapper{display: flex; align-items: center;}.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 16px; font-weight: 700; line-height: 24px; margin: 0 0 0 12px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{background-color: #ffffff; border: 1px solid black; width: 20px; height: 18.5px; margin: 0; -webkit-appearance: none; position: relative; display: flex; align-items: center; justify-content: center; border-radius: 2px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked{background-color: #1863dc; border: none;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 6px; bottom: 4px; width: 7px; height: 13px; border: solid #ffffff; border-width: 0 3px 3px 0; border-radius: 2px; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); content: \"\"; position: absolute; box-sizing: border-box;}.cky-opt-out-checkbox-wrapper.cky-disabled .cky-opt-out-checkbox-label,.cky-opt-out-checkbox-wrapper.cky-disabled input[type=\"checkbox\"].cky-opt-out-checkbox{cursor: no-drop;}.cky-gpc-wrapper{margin: 0 0 0 32px;}.cky-footer-wrapper .cky-opt-out-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px;}.cky-opt-out-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-opt-out-btn-wrapper .cky-btn-cancel{border: 1px solid #dedfe0; background: transparent; color: #858585;}.cky-opt-out-btn-wrapper .cky-btn-confirm{background: #1863dc; color: #ffffff; border: 1px solid #1863dc;}@media (max-width: 352px){.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 14px;}.cky-gpc-wrapper .cky-gpc-desc, .cky-gpc-wrapper .cky-gpc-desc *{font-size: 12px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{width: 16px; height: 16px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 5px; bottom: 4px; width: 3px; height: 9px;}.cky-gpc-wrapper{margin: 0 0 0 28px;}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-normal{background-image: url(\"/wp-content/plugins/cookie-law-info/lite/frontend/images/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.cky-rtl{direction: rtl; text-align: right;}.cky-rtl .cky-banner-btn-close{left: 9px; right: auto;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 8px;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 8px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}@media (max-width: 768px){.cky-rtl .cky-notice-btn-wrapper{margin-right: 0;}}@media (max-width: 576px){.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 0;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 0;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px 0 0;}}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn{margin-right: 12px;}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{margin: 0 12px 0 0;}"};
-//# sourceURL=cookie-law-info-js-extra
-</script>
-<script id="cookie-law-info-js" src="/assets/wp/script.min.js.download"></script>
-<script id="jquery-core-js" src="/assets/wp/jquery.min.js.download"></script>
-<script id="jquery-migrate-js" src="/assets/wp/jquery-migrate.min.js.download"></script>
-<script id="slicewp-script-tracking-js-before">
-var slicewp_ajaxurl = "https:\/\/puntacanaparabrasileiros.com\/wp-admin\/admin-ajax.php";
-var slicewp = {"ajaxurl":"https:\/\/puntacanaparabrasileiros.com\/wp-admin\/admin-ajax.php","cookie_duration":30,"affiliate_credit":"first","affiliate_keyword":"aff","predefined_date_ranges":{"past_7_days":"\u00daltimos 7 dias","past_30_days":"\u00daltimos 30 dias","week_to_date":"Semana at\u00e9 a data","month_to_date":"M\u00eas at\u00e9 a data","year_to_date":"Year to date","last_week":"Semana passada","last_month":"\u00daltimo m\u00eas","last_year":"Ano passado"},"settings":{"active_currency":"USD","currency_symbol_position":"before","currency_thousands_separator":",","currency_decimal_separator":"."}};
-//# sourceURL=slicewp-script-tracking-js-before
-</script>
+
+
+
+
+
 
 
 <!-- Snippet da etiqueta do Google (gtag.js) adicionado pelo Site Kit -->
 <!-- Snippet do Google Análises adicionado pelo Site Kit -->
-<script id="google_gtagjs-js" src="/assets/wp/js" async=""></script>
-<script id="google_gtagjs-js-after">
-window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
-gtag("set","linker",{"domains":["puntacanaparabrasileiros.com"]});
-gtag("js", new Date());
-gtag("set", "developer_id.dZTNiMT", true);
-gtag("config", "GT-T9452TG9");
- window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
-//# sourceURL=google_gtagjs-js-after
-</script>
+
+
 <style>.single-trip #wte_enquiry_contact_form input[type=checkbox]+label { display: inline;}</style><link rel="https://api.w.org/" href="/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/6541"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <meta name="generator" content="WordPress 7.0">
 <link rel="shortlink" href="/?p=6541">
@@ -780,9 +764,7 @@ gtag("config", "GT-T9452TG9");
         }
     }
     </style>
-    		<script>
-			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
-		</script>
+    		
 				<style>
 			.no-js img.lazyload {
 				display: none;
@@ -847,10 +829,10 @@ gtag("config", "GT-T9452TG9");
 					clip: rect(1px, 1px, 1px, 1px);
 				}
 					</style>
-		<link rel="icon" href="/wp-content/uploads/2025/04/cropped-zipwp-image-5876-32x32.png" sizes="32x32">
-<link rel="icon" href="/wp-content/uploads/2025/04/cropped-zipwp-image-5876-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="/wp-content/uploads/2025/04/cropped-zipwp-image-5876-180x180.png">
-<meta name="msapplication-TileImage" content="/wp-content/uploads/2025/04/cropped-zipwp-image-5876-270x270.png">
+		
+
+
+<meta name="msapplication-TileImage" content="/assets/wp/cropped-zipwp-image-5876-270x270.png">
 <style id="travel-monster-dynamic-css" type="text/css" media="all">        .comments-area ol.comment-list li .comment-body .text-holder .reply a:before {
             -webkit-mask-image: url("data:image/svg+xml,%3Csvg width='20' height='20' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 11H18C19.1046 11 20 11.8954 20 13V17' stroke='%23E48E45' stroke-width='2' stroke-linecap='round'/%3E%3Cpath d='M8 7L4 11L8 15' stroke='%23E48E45' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
             mask-image: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M4 11H18C19.1046 11 20 11.8954 20 13V17' stroke='%23E48E45' stroke-width='2' stroke-linecap='round'/%3E%3Cpath d='M8 7L4 11L8 15' stroke='%23E48E45' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
@@ -1111,7 +1093,7 @@ div#nb-4-configurations {
 				<div class="elementor-element elementor-element-3339535 elementor-widget elementor-widget-image" data-id="3339535" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="/">
-							<img fetchpriority="high" width="606" height="219" src="/assets/wp/PUNTA-CANA-1.png" class="attachment-full size-full wp-image-6809" alt="" srcset="/wp-content/uploads/2025/04/PUNTA-CANA-1.png 606w, /wp-content/uploads/2025/04/PUNTA-CANA-1-300x108.png 300w, /wp-content/uploads/2025/04/PUNTA-CANA-1-18x7.png 18w" sizes="(max-width: 606px) 100vw, 606px">								</a>
+							<img fetchpriority="high" width="606" height="219" src="/assets/wp/PUNTA-CANA-1.png" class="attachment-full size-full wp-image-6809" alt="" srcset="/assets/wp/PUNTA-CANA-1.png 606w, /assets/wp/PUNTA-CANA-1-300x108.png 300w, /assets/wp/PUNTA-CANA-1-18x7.png 18w" sizes="(max-width: 606px) 100vw, 606px">								</a>
 															</div>
 				</div>
 				<div class="elementor-element elementor-element-46a24d9 puntacanalog elementor-hidden-desktop elementor-hidden-laptop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-text-editor" data-id="46a24d9" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
@@ -1221,7 +1203,7 @@ div#nb-4-configurations {
 				<div class="elementor-element elementor-element-0d41e4b elementor-widget elementor-widget-image" data-id="0d41e4b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 																<a href="/">
-							<img fetchpriority="high" width="606" height="219" src="/assets/wp/PUNTA-CANA-1.png" class="attachment-full size-full wp-image-6809" alt="" srcset="/wp-content/uploads/2025/04/PUNTA-CANA-1.png 606w, /wp-content/uploads/2025/04/PUNTA-CANA-1-300x108.png 300w, /wp-content/uploads/2025/04/PUNTA-CANA-1-18x7.png 18w" sizes="(max-width: 606px) 100vw, 606px">								</a>
+							<img fetchpriority="high" width="606" height="219" src="/assets/wp/PUNTA-CANA-1.png" class="attachment-full size-full wp-image-6809" alt="" srcset="/assets/wp/PUNTA-CANA-1.png 606w, /assets/wp/PUNTA-CANA-1-300x108.png 300w, /assets/wp/PUNTA-CANA-1-18x7.png 18w" sizes="(max-width: 606px) 100vw, 606px">								</a>
 															</div>
 				</div>
 				</div>
@@ -1293,7 +1275,7 @@ div#nb-4-configurations {
 		<div class="wpte-trip-category-img-wrap">
 			<figure class="thumbnail">
 								<a href="/trip-types/praia-e-barco/">
-					<img decoding="async" data-src="/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-14-at-08.50.25-990x490.jpeg" alt="WhatsApp Image 2025-11-14 at 08.50.25" title="Experiências 26" src="/assets/wp/WhatsApp-Image-2025-11-14-at-08.50.25-990x490.jpeg" class=" lazyloaded" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">
+					<img decoding="async" src="/assets/wp/WhatsApp-Image-2025-11-14-at-08.50.25-990x490.jpeg"" class="ed">
 				</a>
 							</figure>
 		</div>
@@ -1311,7 +1293,7 @@ div#nb-4-configurations {
 		<div class="wpte-trip-category-img-wrap">
 			<figure class="thumbnail">
 								<a href="/trip-types/adequado-para-criancas/">
-					<img decoding="async" data-src="/wp-content/uploads/2025/05/972359ab-cc9a-4b24-847a-01fbf11ff36b-990x490.jpeg" alt="972359ab-cc9a-4b24-847a-01fbf11ff36b" title="Experiências 27" src="/assets/wp/972359ab-cc9a-4b24-847a-01fbf11ff36b-990x490.jpeg" class=" lazyloaded" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">
+					<img decoding="async" src="/assets/wp/972359ab-cc9a-4b24-847a-01fbf11ff36b-990x490.jpeg"" class="ed">
 				</a>
 							</figure>
 		</div>
@@ -1329,7 +1311,7 @@ div#nb-4-configurations {
 		<div class="wpte-trip-category-img-wrap">
 			<figure class="thumbnail">
 								<a href="/trip-types/passeio-pela-cidade/">
-					<img decoding="async" data-src="/wp-content/uploads/2025/05/FullSizeRender-1-990x490.jpeg" alt="FullSizeRender" title="Experiências 28" src="/assets/wp/FullSizeRender-1-990x490.jpeg" class=" lazyloaded" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">
+					<img decoding="async" src="/assets/wp/FullSizeRender-1-990x490.jpeg"" class="ed">
 				</a>
 							</figure>
 		</div>
@@ -1380,7 +1362,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/buggies-cenote-domitai/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0101-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image ls-is-cached lazyloaded" alt="IMG 20250527 WA0101" title="Buggies + Cenote Domitai 1" src="/assets/wp/IMG-20250527-WA0101-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG-20250527-WA0101-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -1443,7 +1425,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/quadriciclos-cenote/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/09/IMG_6370-1-990x490.jpeg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 6370 1" title="Quadriciclos + Cenote 2" src="/assets/wp/IMG_6370-1-990x490.jpeg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG_6370-1-990x490.jpeg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -1506,7 +1488,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/nado-e-interacao-com-golfinho/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0138-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250527 WA0138" title="Nado e interação com 1 Golfinho 3" src="/assets/wp/IMG-20250527-WA0138-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG-20250527-WA0138-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -1595,7 +1577,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/saona-premium-brasil-lancha-ida-e-volta/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/70edfaca-8405-44a3-be02-2ae5c68249d6-990x490.jpeg" class="attachment-trip-single-size size-trip-single-size wp-post-image ls-is-cached lazyloaded" alt="70edfaca 8405 44a3 be02 2ae5c68249d6" title="Saona Premium Brasil - Lancha 4" src="/assets/wp/70edfaca-8405-44a3-be02-2ae5c68249d6-990x490.jpeg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/70edfaca-8405-44a3-be02-2ae5c68249d6-990x490.jpeg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -1643,7 +1625,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/saona-vip-mano-juan-lancha/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/10/21f72a17-03d9-43a8-99f7-39c03d664ff2-990x490.jpeg" class="attachment-trip-single-size size-trip-single-size wp-post-image ls-is-cached lazyloaded" alt="21f72a17 03d9 43a8 99f7 39c03d664ff2" title="Saona VIP Mano Juan  - Lancha 5" src="/assets/wp/21f72a17-03d9-43a8-99f7-39c03d664ff2-990x490.jpeg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/21f72a17-03d9-43a8-99f7-39c03d664ff2-990x490.jpeg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -1691,7 +1673,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/saona-classica/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG_0948-990x490.jpeg" class="attachment-trip-single-size size-trip-single-size wp-post-image ls-is-cached lazyloaded" alt="IMG 0948" title="Saona Clássica – Catamarã 6" src="/assets/wp/IMG_0948-990x490.jpeg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG_0948-990x490.jpeg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -1739,7 +1721,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/nado-e-interacao-com-2-golfinhos/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0135-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250527 WA0135" title="Nado e interação com 2 Golfinhos 7" src="/assets/wp/IMG-20250527-WA0135-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG-20250527-WA0135-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -1802,7 +1784,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/nado-e-interacao-com-golfinho/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0138-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image ls-is-cached lazyloaded" alt="IMG 20250527 WA0138" title="Nado e interação com 1 Golfinho 8" src="/assets/wp/IMG-20250527-WA0138-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG-20250527-WA0138-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -1850,7 +1832,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/interacao-com-golfinhos-em-punta-cana/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0148-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250527 WA0148" title="Interação com Golfinho 9" src="/assets/wp/IMG-20250527-WA0148-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG-20250527-WA0148-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -1901,7 +1883,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/chic-cabaret-restaurant/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/09/b4a7ee99-71aa-4181-a0f9-9e457cd218da-990x490.jpeg" class="attachment-trip-single-size size-trip-single-size wp-post-image ls-is-cached lazyloaded" alt="b4a7ee99 71aa 4181 a0f9 9e457cd218da" title="Chic Cabaret &amp; Restaurant 10" src="/assets/wp/b4a7ee99-71aa-4181-a0f9-9e457cd218da-990x490.jpeg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/b4a7ee99-71aa-4181-a0f9-9e457cd218da-990x490.jpeg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -1950,7 +1932,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/coco-bongo-4/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG_5378-990x490.jpeg" class="attachment-trip-single-size size-trip-single-size wp-post-image ls-is-cached lazyloaded" alt="IMG 5378" title="Coco Bongo - Front Row 11" src="/assets/wp/IMG_5378-990x490.jpeg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG_5378-990x490.jpeg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -1998,7 +1980,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/coco-bongo-3/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG_5378-990x490.jpeg" class="attachment-trip-single-size size-trip-single-size wp-post-image ls-is-cached lazyloaded" alt="IMG 5378" title="Coco Bongo - Gold Member 12" src="/assets/wp/IMG_5378-990x490.jpeg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG_5378-990x490.jpeg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2046,7 +2028,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/coco-bongo-2/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG_5378-990x490.jpeg" class="attachment-trip-single-size size-trip-single-size wp-post-image ls-is-cached lazyloaded" alt="IMG 5378" title="Coco Bongo - Open Bar 13" src="/assets/wp/IMG_5378-990x490.jpeg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG_5378-990x490.jpeg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2094,7 +2076,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/isla-catalina-e-altos-de-chavon/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0091-1-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250527 WA0091 1" title="Isla Catalina com Snorkel + Altos de Chavón 14" src="/assets/wp/IMG-20250527-WA0091-1-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG-20250527-WA0091-1-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2142,7 +2124,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/isla-catalina-com-snorkel/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/06/IMG-20250530-WA0079-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250530 WA0079" title="Isla Catalina com Snorkel 15" src="/assets/wp/IMG-20250530-WA0079-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/wp-content/uploads/2025/06/IMG-20250530-WA0079-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2190,7 +2172,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/samana-playa-rincon-city-tour-panoramico-cayo-levantado/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0086-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250527 WA0086" title="Samaná (Playa Rincon + City Tour Panorâmico + Cayo Levantado) 16" src="/assets/wp/IMG-20250527-WA0086-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG-20250527-WA0086-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2238,7 +2220,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/santo-domingo-capital-historica/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0052-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image ls-is-cached lazyloaded" alt="IMG 20250527 WA0052" title="Santo Domingo 17" src="/assets/wp/IMG-20250527-WA0052-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG-20250527-WA0052-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2286,7 +2268,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/supreme-safari/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/08/IMG_5872-scaled-1-990x490.jpeg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 5872 scaled 1" title="Supreme Safari 18" src="/assets/wp/IMG_5872-scaled-1-990x490.jpeg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/wp-content/uploads/2025/08/IMG_5872-scaled-1-990x490.jpeg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2334,7 +2316,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/scape-park-com-cenote-e-aventuras/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG_9698-990x490.jpeg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 9698" title="Scape Park + Cenote 19" src="/assets/wp/IMG_9698-990x490.jpeg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG_9698-990x490.jpeg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2382,7 +2364,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/la-hacienda-park/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/10/IMG_9039-990x490.jpeg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 9039" data-srcset="/wp-content/uploads/2025/10/IMG_9039-990x490.jpeg 990w, /wp-content/uploads/2025/10/IMG_9039-18x9.jpeg 18w" data-sizes="(max-width: 990px) 100vw, 990px" title="La Hacienda Park (Fazenda) 20" src="/assets/wp/IMG_9039-990x490.jpeg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;" sizes="(max-width: 990px) 100vw, 990px" srcset="/wp-content/uploads/2025/10/IMG_9039-990x490.jpeg 990w, /wp-content/uploads/2025/10/IMG_9039-18x9.jpeg 18w">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG_9039-990x490.jpeg"" sizes="(max-width: 990px) 100vw, 990px" srcset="/assets/wp/IMG_9039-990x490.jpeg 990w, /assets/wp/IMG_9039-18x9.jpeg 18w">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2430,7 +2412,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/party-boat-festa-no-catamara-com-piscina-natural/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/06/IMG-20250530-WA0081-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="teste" title="Festa no Catamarã (Party Boat) 21" src="/assets/wp/IMG-20250530-WA0081-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/wp-content/uploads/2025/06/IMG-20250530-WA0081-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2478,7 +2460,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/seaquarium-caminhada-subaquatica-e-festa-no-mar/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/06/IMG-20250524-WA0191-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250524 WA0191" data-srcset="/wp-content/uploads/2025/06/IMG-20250524-WA0191-990x490.jpg 990w, /wp-content/uploads/2025/06/IMG-20250524-WA0191-18x10.jpg 18w" data-sizes="(max-width: 990px) 100vw, 990px" title="Seaquarium 22" src="/assets/wp/IMG-20250524-WA0191-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;" sizes="(max-width: 990px) 100vw, 990px" srcset="/wp-content/uploads/2025/06/IMG-20250524-WA0191-990x490.jpg 990w, /wp-content/uploads/2025/06/IMG-20250524-WA0191-18x10.jpg 18w">					</a>
+						<img decoding="async" width="990" height="490" src="/wp-content/uploads/2025/06/IMG-20250524-WA0191-990x490.jpg"" sizes="(max-width: 990px) 100vw, 990px" srcset="/wp-content/uploads/2025/06/IMG-20250524-WA0191-990x490.jpg 990w, /wp-content/uploads/2025/06/IMG-20250524-WA0191-18x10.jpg 18w">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2529,7 +2511,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/scuba-doo-mergulho-com-scooter-subaquatica-2/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0031-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250527 WA0031" title="Scuba Doo – Aventura Submarina 3 em 1 23" src="/assets/wp/IMG-20250527-WA0031-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG-20250527-WA0031-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2578,7 +2560,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/parasailing-voo-panoramico-em-punta-cana/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0035-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250527 WA0035" title="Parasailing 24" src="/assets/wp/IMG-20250527-WA0035-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/assets/wp/IMG-20250527-WA0035-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2626,7 +2608,7 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/pesca-em-alto-mar-aventura-no-caribe/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/06/IMG-20250530-WA0088-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250530 WA0088" title="Pesca em Alto Mar 25" src="/assets/wp/IMG-20250530-WA0088-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" src="/wp-content/uploads/2025/06/IMG-20250530-WA0088-990x490.jpg"">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
@@ -2697,7 +2679,7 @@ div#nb-4-configurations {
 									<div class="elementor-testimonial elementor-repeater-item-0f399b1">
 							<div class="elementor-testimonial__header">
 											<div class="elementor-testimonial__image">
-							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Ana Beatriz" title="Experiências 29" class="">
+							<img decoding="async" src="/assets/wp/placeholder.png" alt="Ana Beatriz" title="Experiências 29" class="">
 													</div>
 										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ana Beatriz</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">São Paulo, SP</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
@@ -2709,7 +2691,7 @@ div#nb-4-configurations {
 									<div class="elementor-testimonial elementor-repeater-item-b8df6ff">
 							<div class="elementor-testimonial__header">
 											<div class="elementor-testimonial__image">
-							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Carlos Eduardo" title="Experiências 30" class="">
+							<img decoding="async" src="/assets/wp/placeholder.png" alt="Carlos Eduardo" title="Experiências 30" class="">
 													</div>
 										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Carlos Eduardo</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">Rio de Janeiro, RJ</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
@@ -2721,7 +2703,7 @@ div#nb-4-configurations {
 									<div class="elementor-testimonial elementor-repeater-item-fb2ba09">
 							<div class="elementor-testimonial__header">
 											<div class="elementor-testimonial__image">
-							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Mariana Silva" title="Experiências 31" src="/assets/wp/placeholder.png" class=" lazyloaded">
+							<img decoding="async" src="/assets/wp/placeholder.png"" class="ed">
 													</div>
 										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Mariana Silva</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-empty"></i></div><span class="elementor-testimonial__title">Belo Horizonte, MG</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
@@ -2734,7 +2716,7 @@ div#nb-4-configurations {
 									<div class="elementor-testimonial elementor-repeater-item-0f399b1">
 							<div class="elementor-testimonial__header">
 											<div class="elementor-testimonial__image">
-							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Ana Beatriz" title="Experiências 29" src="/assets/wp/placeholder.png" class=" lazyloaded">
+							<img decoding="async" src="/assets/wp/placeholder.png"" class="ed">
 													</div>
 										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ana Beatriz</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">São Paulo, SP</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
@@ -2747,7 +2729,7 @@ div#nb-4-configurations {
 									<div class="elementor-testimonial elementor-repeater-item-b8df6ff">
 							<div class="elementor-testimonial__header">
 											<div class="elementor-testimonial__image">
-							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Carlos Eduardo" title="Experiências 30" src="/assets/wp/placeholder.png" class=" lazyloaded">
+							<img decoding="async" src="/assets/wp/placeholder.png"" class="ed">
 													</div>
 										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Carlos Eduardo</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">Rio de Janeiro, RJ</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
@@ -2760,7 +2742,7 @@ div#nb-4-configurations {
 									<div class="elementor-testimonial elementor-repeater-item-fb2ba09">
 							<div class="elementor-testimonial__header">
 											<div class="elementor-testimonial__image">
-							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Mariana Silva" title="Experiências 31" src="/assets/wp/placeholder.png" class=" lazyloaded">
+							<img decoding="async" src="/assets/wp/placeholder.png"" class="ed">
 													</div>
 										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Mariana Silva</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-empty"></i></div><span class="elementor-testimonial__title">Belo Horizonte, MG</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
@@ -2773,7 +2755,7 @@ div#nb-4-configurations {
 									<div class="elementor-testimonial elementor-repeater-item-0f399b1">
 							<div class="elementor-testimonial__header">
 											<div class="elementor-testimonial__image">
-							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Ana Beatriz" title="Experiências 29" src="/assets/wp/placeholder.png" class=" lazyloaded">
+							<img decoding="async" src="/assets/wp/placeholder.png"" class="ed">
 													</div>
 										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ana Beatriz</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">São Paulo, SP</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
@@ -2785,7 +2767,7 @@ div#nb-4-configurations {
 									<div class="elementor-testimonial elementor-repeater-item-b8df6ff">
 							<div class="elementor-testimonial__header">
 											<div class="elementor-testimonial__image">
-							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Carlos Eduardo" title="Experiências 30" src="/assets/wp/placeholder.png" class=" lazyloaded">
+							<img decoding="async" src="/assets/wp/placeholder.png"" class="ed">
 													</div>
 										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Carlos Eduardo</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">Rio de Janeiro, RJ</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
@@ -2797,7 +2779,7 @@ div#nb-4-configurations {
 									<div class="elementor-testimonial elementor-repeater-item-fb2ba09">
 							<div class="elementor-testimonial__header">
 											<div class="elementor-testimonial__image">
-							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Mariana Silva" title="Experiências 31" src="/assets/wp/placeholder.png" class=" lazyloaded">
+							<img decoding="async" src="/assets/wp/placeholder.png"" class="ed">
 													</div>
 										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Mariana Silva</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-empty"></i></div><span class="elementor-testimonial__title">Belo Horizonte, MG</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
@@ -2834,7 +2816,7 @@ div#nb-4-configurations {
 				<div class="elementor-element elementor-element-af43415 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="af43415" data-element_type="widget" data-e-type="widget" data-widget_type="theme-site-logo.default">
 				<div class="elementor-widget-container">
 											<a href="/">
-			<img width="273" height="265" data-src="/wp-content/uploads/2025/04/zipwp-image-5876.png" class="attachment-1536x1536 size-1536x1536 wp-image-631 lazyloaded" alt="Site Logo" data-srcset="/wp-content/uploads/2025/04/zipwp-image-5876.png 273w, /wp-content/uploads/2025/04/zipwp-image-5876-118x115.png 118w" data-sizes="(max-width: 273px) 100vw, 273px" src="/assets/wp/zipwp-image-5876.png" style="--smush-placeholder-width: 273px; --smush-placeholder-aspect-ratio: 273/265;" sizes="(max-width: 273px) 100vw, 273px" srcset="/wp-content/uploads/2025/04/zipwp-image-5876.png 273w, /wp-content/uploads/2025/04/zipwp-image-5876-118x115.png 118w">				</a>
+			<img width="273" height="265" src="/assets/wp/zipwp-image-5876.png"" sizes="(max-width: 273px) 100vw, 273px" srcset="/assets/wp/zipwp-image-5876.png 273w, /assets/wp/zipwp-image-5876-118x115.png 118w">				</a>
 											</div>
 				</div>
 				</div>
@@ -3037,22 +3019,17 @@ Punta Cana para Brasileiros Oliveira &amp; Ramos SRL RNC: 133287765
 				</a></div><a>
 				<div class="elementor-element elementor-element-32c4e68 elementor-widget elementor-widget-image" data-id="32c4e68" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="196" height="26" data-src="/wp-content/uploads/2025/04/footer-payment.png" class="attachment-large size-large wp-image-6162 lazyloaded" alt="" src="/assets/wp/footer-payment.png" style="--smush-placeholder-width: 196px; --smush-placeholder-aspect-ratio: 196/26;">															</div>
+															<img width="196" height="26" src="/assets/wp/footer-payment.png"">															</div>
 				</div>
 					</a></div><a>
 				</a></div><a>
 				</a></div><a>
 				</a></div><a>
 		
-<script type="speculationrules">
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/travel-monster/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
-</script>
-		<div id="wptravelengine-trip-booking-modal" data-trip-booking="{&quot;tripID&quot;:null,&quot;nonce&quot;:&quot;90eae87f68&quot;,&quot;wpXHR&quot;:&quot;https:\/\/puntacanaparabrasileiros.com\/wp-admin\/admin-ajax.php&quot;,&quot;cartVersion&quot;:&quot;2.0&quot;,&quot;buttonLabel&quot;:&quot;Verificar Disponibilidade&quot;}"></div>
-		<script id="ckyBannerTemplate" type="text/template"><div class="cky-overlay cky-hide"></div><div class="cky-consent-container cky-hide" tabindex="0"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#F4F4F4">  <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#212121"></p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <p>Utilizamos ferramentas e serviços de terceiros que utilizam cookies. Essas ferramentas nos ajudam a oferecer uma melhor experiência de navegação no site. Ao clicar no botão “Concordo” ou continuar a visualizar nosso site, você concorda com o uso de cookies em nosso site.</p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons">   <button class="cky-btn cky-btn-accept" aria-label="Concordo" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#1863DC;border-color:#1863DC">Concordo</button>  </div></div></div></div></div><div class="cky-modal" tabindex="0"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#F4F4F4"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#212121">Customise Consent Preferences</span> <button class="cky-btn-close" aria-label="Close" data-cky-tag="detail-close"> <img src="/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"> <p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. </p><p>We also use third-party cookies that help us analyse how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. These cookies will only be stored in your browser with your prior consent.</p><p>You can choose to enable or disable some or all of these cookies but disabling some of them may affect your browsing experience.</p> </div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Necessary" data-cky-tag="detail-category-title" style="color:#212121">Necessary</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchnecessary"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Functional" data-cky-tag="detail-category-title" style="color:#212121">Functional</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchfunctional"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analytics" data-cky-tag="detail-category-title" style="color:#212121">Analytics</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchanalytics"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Performance" data-cky-tag="detail-category-title" style="color:#212121">Performance</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchperformance"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Advertisement" data-cky-tag="detail-category-title" style="color:#212121">Advertisement</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchadvertisement"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons">  <button class="cky-btn cky-btn-preferences" aria-label="Save My Preferences" data-cky-tag="detail-save-button" style="color:#1863DC;background-color:transparent;border-color:#1863DC"> Save My Preferences </button> <button class="cky-btn cky-btn-accept" aria-label="Concordo" data-cky-tag="detail-accept-button" style="color:#FFFFFF;background-color:#1863DC;border-color:#1863DC"> Concordo </button> </div></div></div></div></script><!-- Custom Feeds for Instagram JS -->
-<script type="text/javascript">
-var sbiajaxurl = "/wp-admin/admin-ajax.php";
 
-</script>
+		<div id="wptravelengine-trip-booking-modal" data-trip-booking="{&quot;tripID&quot;:null,&quot;nonce&quot;:&quot;90eae87f68&quot;,&quot;wpXHR&quot;:&quot;https:\/\/puntacanaparabrasileiros.com\/wp-admin\/admin-ajax.php&quot;,&quot;cartVersion&quot;:&quot;2.0&quot;,&quot;buttonLabel&quot;:&quot;Verificar Disponibilidade&quot;}"></div>
+		<!-- Custom Feeds for Instagram JS -->
+
 <div id="wte-sp-notification"></div>
 
 <div class="joinchat joinchat--right joinchat--show" data-settings="{&quot;telephone&quot;:&quot;18294582170&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:3,&quot;whatsapp_web&quot;:false,&quot;qr&quot;:false,&quot;message_views&quot;:2,&quot;message_delay&quot;:5,&quot;message_badge&quot;:true,&quot;message_send&quot;:&quot;Olá, eu estava no site de Punta Cana para Brasileiros e gostaria de mais informações.&quot;,&quot;message_hash&quot;:&quot;323486a4&quot;}" aria-hidden="false">
@@ -3081,200 +3058,89 @@ var sbiajaxurl = "/wp-admin/admin-ajax.php";
 			</div>
 		</div>
 	</div>
-			<script>
-				const lazyloadRunObserver = () => {
-					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
-					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
-						entries.forEach( ( entry ) => {
-							if ( entry.isIntersecting ) {
-								let lazyloadBackground = entry.target;
-								if( lazyloadBackground ) {
-									lazyloadBackground.classList.add( 'e-lazyloaded' );
-								}
-								lazyloadBackgroundObserver.unobserve( entry.target );
-							}
-						});
-					}, { rootMargin: '200px 0px 200px 0px' } );
-					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
-						lazyloadBackgroundObserver.observe( lazyloadBackground );
-					} );
-				};
-				const events = [
-					'DOMContentLoaded',
-					'elementor/lazyload/observe',
-				];
-				events.forEach( ( event ) => {
-					document.addEventListener( event, lazyloadRunObserver );
-				} );
-			</script>
+			
 			<style id="global-styles-inline-css">
 :root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 /*# sourceURL=global-styles-inline-css */
 </style>
 <link rel="stylesheet" id="social-proof-frontend-css" href="/assets/wp/style-public.dist.css" media="all">
 <link rel="stylesheet" id="joinchat-css" href="/assets/wp/joinchat.min.css" media="all">
-<script id="fluentform-elementor-js-extra">
-var fluentformElementor = {"adminUrl":"/wp-admin/admin.php"};
-//# sourceURL=fluentform-elementor-js-extra
-</script>
-<script id="fluentform-elementor-js" src="/assets/wp/fluent-forms-elementor-widget.js.download"></script>
-<script id="owl-carousel-js" src="/assets/wp/owl.carousel.js.download"></script>
-<script id="wte-dropzone-js" src="/assets/wp/dropzone.min.js.download"></script>
-<script id="jquery-ui-core-js" src="/assets/wp/core.min.js.download"></script>
-<script id="jquery-ui-datepicker-js" src="/assets/wp/datepicker.min.js.download"></script>
-<script id="jquery-ui-datepicker-js-after">
-jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fechar","currentText":"Hoje","monthNames":["janeiro","fevereiro","mar\u00e7o","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],"monthNamesShort":["jan","fev","mar","abr","maio","jun","jul","ago","set","out","nov","dez"],"nextText":"Next","prevText":"Previous","dayNames":["domingo","segunda-feira","ter\u00e7a-feira","quarta-feira","quinta-feira","sexta-feira","s\u00e1bado"],"dayNamesShort":["dom","seg","ter","qua","qui","sex","s\u00e1b"],"dayNamesMin":["D","S","T","Q","Q","S","S"],"dateFormat":"dd/mm/yy","firstDay":0,"isRTL":false});});
-//# sourceURL=jquery-ui-datepicker-js-after
-</script>
-<script id="jquery-rateyo-js" src="/assets/wp/jquery.rateyo.min.js.download"></script>
-<script id="jquery-appear-js" src="/assets/wp/jquery.appear.js.download"></script>
-<script id="wpte-animation-js" src="/assets/wp/wpte-animation.js.download"></script>
-<script id="wte-fpickr-lib-js" src="/assets/wp/fpickr.js.download"></script>
-<script id="wte-fpickr-js" src="/assets/wp/pt.js.download"></script>
-<script id="wp-travel-engine-js-extra">
-var wte = {"personFormat":"/ pessoa","bookNow":"Reserve Agora","totaltxt":"Total:","currency":{"code":"USD","symbol":"&#36;"},"payments":{"booking_id":null,"locale":"pt_BR","total":0,"total_partial":0,"remaining_payment":0},"single_showtabs":"","pax_labels":[],"booking_cutoff":{"enable":false,"cutoff":0,"unit":"days"}};
-var wte_account_page = {"ajax_url":"/wp-admin/admin-ajax.php","change_user_profile_msg":"Clique aqui ou solte nova imagem para atualizar sua foto de perfil"};
-var rtl = [];
-var wtePreFetch = {"tripID":"6541","wpapi":{"root":"/wp-json/","nonce":"527c27f8f2","versionString":"wp/v2/"},"map_lazy_load":"disable","iframe_url":""};
-var WTEAjaxData = {"ajaxurl":"/wp-admin/admin-ajax.php","nonce":"527c27f8f2"};
-var wteL10n = {"version":"6.5.3","baseCurrency":"USD","baseCurrencySymbol":"$","currency":"USD","currencySymbol":"$","home_url":"https://puntacanaparabrasileiros.com","_nonces":{"addtocart":"90eae87f68","downloadSystemInfo":"c6acde655a"},"wpapi":{"root":"/wp-json/","nonce":"527c27f8f2","versionString":"wp/v2/"},"wpxhr":{"root":"/wp-admin/admin-ajax.php","nonce":"5a6ea2242f"},"format":{"number":{"decimal":0,"decimalSeparator":".","thousandSeparator":""},"price":"%CURRENCY_SYMBOL%%FORMATED_AMOUNT%","date":"d/m/Y","time":"H:i","datetime":{"date":"d/m/Y","time":"H:i","GMTOffset":"-03:00","timezone":"America/Sao_Paulo"}},"extensions":{"wte-extra-services":"2.1.6","wte-trip-reviews":"2.1.5","wte-trip-fixed-starting-dates":"2.3.15","wte-currency-converter":"1.1.6"},"locale":"pt","l10n":{"invalidCartTraveler":"Numero dos viajantes deve ser pelo menos %s","availableSeatsExceed":"O n\u00famero de pax n\u00e3o pode exceder mais de %s","invalidCartExtraReq":"a sele\u00e7\u00e3o %s \u00e9 essencial. Por favor, especifique um n\u00famero.","invalidCartExtra":"Servi\u00e7os extras marcados com * s\u00e3o essenciais. Por favor, especifique um n\u00famero.","extraServicesTitle":"Servi\u00e7os Extras","checkout.submitButtonText":"Reserve Agora","checkout.bookingSummary":"Resumo Da Reserva","checkout.totalPayable":"Total A Pagar Agora"},"layout":{"showFeaturedTripsOnTop":true,"showoptionfilter":true},"rtl":""};
-//# sourceURL=wp-travel-engine-js-extra
-</script>
 
-<script id="wp-hooks-js" src="/assets/wp/hooks.min.js.download"></script>
-<script id="wp-i18n-js" src="/assets/wp/i18n.min.js.download"></script>
-<script id="wp-i18n-js-after">
-wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
-//# sourceURL=wp-i18n-js-after
-</script>
-<script id="swv-js" src="/assets/wp/index.js.download"></script>
-<script id="contact-form-7-js-translations">
-( function( domain, translations ) {
-	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
-	localeData[""].domain = domain;
-	wp.i18n.setLocaleData( localeData, domain );
-} )( "contact-form-7", {"translation-revision-date":"2025-05-19 13:41:20+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"pt_BR"},"Error:":["Erro:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
-//# sourceURL=contact-form-7-js-translations
-</script>
-<script id="contact-form-7-js-before">
-var wpcf7 = {
-    "api": {
-        "root": "https:\/\/puntacanaparabrasileiros.com\/wp-json\/",
-        "namespace": "contact-form-7\/v1"
-    },
-    "cached": 1
-};
-//# sourceURL=contact-form-7-js-before
-</script>
-<script id="contact-form-7-js" src="/assets/wp/index(1).js.download"></script>
-<script id="travel-booking-toolkit-js" src="/assets/wp/travel-booking-toolkit-public.min.js.download"></script>
-<script id="all-js" src="/assets/wp/all.min.js.download"></script>
-<script id="v4-shims-js" src="/assets/wp/v4-shims.min.js.download"></script>
-<script id="wte-trip-weather-forecast-js" src="/assets/wp/wte-trip-weather-forecast-public.js.download"></script>
-<script id="select2-js" src="/assets/wp/select2.min.js.download"></script>
-<script id="wte-transfer-scripts-js-extra">
-var wteTransfer = {"ajax_url":"/wp-admin/admin-ajax.php","nonce":"bd6bb1e8ce"};
-//# sourceURL=wte-transfer-scripts-js-extra
-</script>
-<script id="wte-transfer-scripts-js" src="/assets/wp/frontend.js.download"></script>
-<script id="pll_cookie_script-js-after">
-(function() {
-				var expirationDate = new Date();
-				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
-				document.cookie = "pll_language=pt; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
-			}());
 
-//# sourceURL=pll_cookie_script-js-after
-</script>
-<script id="lrv-transfer-direct-checkout-js-extra">
-var lrvTransferCheckout = {"ajax_url":"/wp-admin/admin-ajax.php","nonce":"88efaba00f","post_url":"/","checkout_url":"/checkout/","cart_url":"/checkout/","btn_text":"Ir Direto ao Checkout","btn_loading":"Processando..."};
-//# sourceURL=lrv-transfer-direct-checkout-js-extra
-</script>
-<script id="lrv-transfer-direct-checkout-js" src="/assets/wp/transfer-direct-checkout.js.download"></script>
-<script id="wte-form-editor-public-js" src="/assets/wp/wpte-form-editor-public.js.download"></script>
-<script id="Wte-HBL-js-extra">
-var hbl = {"success":"Redirecting to Himalayan Bank Payment..."};
-//# sourceURL=Wte-HBL-js-extra
-</script>
-<script id="Wte-HBL-js" src="/assets/wp/public.js.download"></script>
-<script id="wte-itinerary-downloader-js-extra">
-var wteId = {"ajax_url":"/wp-admin/admin-ajax.php","ajax_nonce":"7ac7932685","plugin_url":"/wp-content/plugins/desenvolvimento/wwwroot/puntacanaparabrasileiros.com/wp-content/plugins/wp-travel-engine-itinerary-downloader/public/class-wte-itinerary-downloader-public.php","postID":"6541","request_nonce":"iCJnrDB20MFNsTtjeh94mwly"};
-//# sourceURL=wte-itinerary-downloader-js-extra
-</script>
-<script id="wte-itinerary-downloader-js" src="/assets/wp/wte-itinerary-downloader-public-2.1.2.min.js.download"></script>
-<script id="magnific-popup-js" src="/assets/wp/jquery.magnific-popup.min.js.download"></script>
-<script id="parsley-min-js-js" src="/assets/wp/parsley.min.js.download"></script>
-<script id="Wte-PayPal-Express-Checkout-js" src="/assets/wp/js(1)" data-uid-auto="uid_nemegkgkozbwwpziskmmkldkgkqxxe"></script>
-<script id="Wte-PayPal-Express-js-extra">
-var paypalexpress = {"env":"production","partial":"","client_id":"ATTxZhWPTOQT1UMN1xXugb9khfQFWG_8iBW6XJxA8_izNT3NfBzgnUFiVJmYHXaXb7dnxpOzY2b5CzXW","error":"Sua solicita\u00e7\u00e3o n\u00e3o p\u00f4de ser processada no momento. Obrigada."};
-//# sourceURL=Wte-PayPal-Express-js-extra
-</script>
-<script id="Wte-PayPal-Express-js" src="/assets/wp/public(1).js.download"></script>
-<script id="wte-fixed-starting-dates-countdown-js" src="/assets/wp/wte-fixed-starting-dates-countdown-public.js.download"></script>
-<script id="fontawesome-js" src="/assets/wp/fontawesome.min.js.download"></script>
-<script id="wte_trip_review_public-js-extra">
-var wtetr_public_js_object = {"ajax_url":"/wp-admin/admin-ajax.php","ajax_nonce":"2eeb77db46","plugin_url":"/wp-content/plugins/wp-travel-engine-trip-reviews","home_url":"/"};
-//# sourceURL=wte_trip_review_public-js-extra
-</script>
-<script id="wte_trip_review_public-js" src="/assets/wp/wte-trip-review-public-2.1.5.js.download"></script>
-<script id="jquery-fancy-box-js" src="/assets/wp/jquery.fancybox.min.js.download"></script>
 
-<script id="wteuh-tracking-js-extra">
-var wteuh = {"ajaxUrl":"/wp-admin/admin-ajax.php","currentUrl":"/experiencias/"};
-//# sourceURL=wteuh-tracking-js-extra
-</script>
 
-<script id="travel-monster-custom-js-extra">
-var travel_monster_custom = {"url":"/wp-admin/admin-ajax.php","rtl":"","sticky_widget":"","ed_sticky_header":""};
-//# sourceURL=travel-monster-custom-js-extra
-</script>
-<script id="travel-monster-custom-js" src="/assets/wp/custom.min.js.download"></script>
-<script id="elementor-webpack-runtime-js" src="/assets/wp/webpack.runtime.min.js.download"></script>
-<script id="elementor-frontend-modules-js" src="/assets/wp/frontend-modules.min.js.download"></script>
-<script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar","a11yCarouselPrevSlideMessage":"Slide anterior","a11yCarouselNextSlideMessage":"Pr\u00f3ximo slide","a11yCarouselFirstSlideMessage":"Este \u00e9 o primeiro slide","a11yCarouselLastSlideMessage":"Este \u00e9 o \u00faltimo slide","a11yCarouselPaginationBulletMessage":"Ir para o slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Dispositivos m\u00f3veis no modo retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Dispositivos m\u00f3veis no modo paisagem","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet no modo retrato","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet no modo paisagem","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":true},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":true},"version":"3.35.6","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_editor_one":true,"import-export-customization":true},"urls":{"assets":"https:\/\/puntacanaparabrasileiros.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/puntacanaparabrasileiros.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/puntacanaparabrasileiros.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"7d164a2b98"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet","viewport_laptop"],"lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":6541,"title":"Experi%C3%AAncias%20-%20Punta%20Cana%20para%20Brasileiros","excerpt":"","featuredImage":false}};
-//# sourceURL=elementor-frontend-js-before
-</script>
-<script id="elementor-frontend-js" src="/assets/wp/frontend.min.js.download"></script>
-<script id="smartmenus-js" src="/assets/wp/jquery.smartmenus.min.js.download"></script>
-<script id="wptravelengineeeb-trips-js" src="/assets/wp/frontend(1).js.download"></script>
-<script id="swiper-js" src="/assets/wp/swiper.min.js.download"></script>
-<script data-wp-strategy="defer" defer="" fetchpriority="low" id="joinchat-js" src="/assets/wp/joinchat.min.js.download"></script>
 
-<script id="smush-lazy-load-js-before">
-var smushLazyLoadOptions = {"autoResizingEnabled":false,"autoResizeOptions":{"precision":5,"skipAutoWidth":true}};
-//# sourceURL=smush-lazy-load-js-before
-</script>
 
-<script id="gt_widget_script_45855387-js-before">
-window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['45855387'] = {"default_language":"pt","languages":["en","pt","es"],"url_structure":"none","flag_style":"2d","flag_size":24,"wrapper_selector":"#gt-wrapper-45855387","alt_flags":{"en":"usa","pt":"brazil"},"horizontal_position":"inline","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
-//# sourceURL=gt_widget_script_45855387-js-before
-</script><script src="/assets/wp/flags.js.download" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/experiencias/" data-gt-orig-domain="puntacanaparabrasileiros.com" data-gt-widget-id="45855387" defer=""></script><script id="react-js" src="/assets/wp/react.min.js.download"></script>
-<script id="react-dom-js" src="/assets/wp/react-dom.min.js.download"></script>
-<script id="wp-escape-html-js" src="/assets/wp/escape-html.min.js.download"></script>
-<script id="wp-element-js" src="/assets/wp/element.min.js.download"></script>
-<script id="social-proof-frontend-js" src="/assets/wp/public.dist.js.download"></script>
-<script id="elementor-pro-webpack-runtime-js" src="/assets/wp/webpack-pro.runtime.min.js.download"></script>
-<script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/puntacanaparabrasileiros.com\/wp-admin\/admin-ajax.php","nonce":"1efe22133e","urls":{"assets":"https:\/\/puntacanaparabrasileiros.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/puntacanaparabrasileiros.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/puntacanaparabrasileiros.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
-//# sourceURL=elementor-pro-frontend-js-before
-</script>
-<script id="elementor-pro-frontend-js" src="/assets/wp/frontend.min(1).js.download"></script>
-<script id="pro-elements-handlers-js" src="/assets/wp/elements-handlers.min.js.download"></script>
-<script id="waypoints-js" src="/assets/wp/waypoints.js.download"></script>
-<script id="jet-elements-js-extra">
-var jetElements = {"ajaxUrl":"/wp-admin/admin-ajax.php","isMobile":"false","templateApiUrl":"/wp-json/jet-elements-api/v1/elementor-template","devMode":"false","messages":{"invalidMail":"Please specify a valid e-mail"}};
-//# sourceURL=jet-elements-js-extra
-</script>
-<script id="jet-elements-js" src="/assets/wp/jet-elements.min.js.download"></script>
-<script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min.js?ver=7.0"}}
-</script>
-<script type="module">
-/*! This file is auto-generated */
-const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
-//# sourceURL=/wp-includes/js/wp-emoji-loader.min.js
-</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
