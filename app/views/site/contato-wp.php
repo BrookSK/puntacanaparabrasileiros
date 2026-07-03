@@ -1375,7 +1375,7 @@ div#nb-4-configurations {
 					/* Background Control Variables */
 					--srfm-instant-form-padding-top: 32px;--srfm-instant-form-padding-right: 32px;--srfm-instant-form-padding-bottom: 32px;--srfm-instant-form-padding-left: 32px;--srfm-instant-form-border-radius-top: 12px;--srfm-instant-form-border-radius-right: 12px;--srfm-instant-form-border-radius-bottom: 12px;--srfm-instant-form-border-radius-left: 12px;--srfm-form-padding-top: 0px;--srfm-form-padding-right: 0px;--srfm-form-padding-bottom: 0px;--srfm-form-padding-left: 0px;--srfm-form-border-radius-top: 0px;--srfm-form-border-radius-right: 0px;--srfm-form-border-radius-bottom: 0px;--srfm-form-border-radius-left: 0px;--srfm-bg-color: #f9fafb;--srfm-bg-overlay-opacity: 1;					--srfm-row-gap-between-blocks: 18px;--srfm-address-label-font-size: 16px;--srfm-address-label-line-height: 24px;--srfm-address-description-font-size: 14px;--srfm-address-description-line-height: 20px;--srfm-col-gap-between-fields: 16px;--srfm-row-gap-between-fields: 16px;--srfm-gap-below-address-label: 14px;--srfm-dropdown-font-size: 14px;--srfm-dropdown-gap-between-input-menu: 4px;--srfm-dropdown-badge-padding: 2px 6px;--srfm-dropdown-multiselect-font-size: 12px;--srfm-dropdown-multiselect-line-height: 16px;--srfm-dropdown-padding-right: 12px;--srfm-dropdown-padding-right-icon: calc( var( --srfm-dropdown-padding-right ) + 20px );--srfm-dropdown-multiselect-padding: 8px var( --srfm-dropdown-padding-right-icon ) 8px 8px;--srfm-input-height: 44px;--srfm-input-field-padding: 10px 12px;--srfm-input-field-font-size: 16px;--srfm-input-field-line-height: 24px;--srfm-input-field-margin-top: 6px;--srfm-input-field-margin-bottom: 6px;--srfm-checkbox-label-font-size: 16px;--srfm-checkbox-label-line-height: 24px;--srfm-checkbox-description-font-size: 14px;--srfm-checkbox-description-line-height: 20px;--srfm-check-ctn-width: 16px;--srfm-check-ctn-height: 16px;--srfm-check-svg-size: 10px;--srfm-checkbox-margin-top-frontend: 4px;--srfm-checkbox-margin-top-editor: 6px;--srfm-check-gap: 8px;--srfm-checkbox-description-margin-left: 24px;--srfm-flag-section-padding: 10px 0 10px 12px;--srfm-gap-between-icon-text: 8px;--srfm-label-font-size: 16px;--srfm-label-line-height: 24px;--srfm-description-font-size: 14px;--srfm-description-line-height: 20px;--srfm-btn-padding: 10px 14px;--srfm-btn-font-size: 16px;--srfm-btn-line-height: 24px;--srfm-multi-choice-horizontal-padding: 20px;--srfm-multi-choice-vertical-padding: 20px;--srfm-multi-choice-internal-option-gap: 8px;--srfm-multi-choice-vertical-svg-size: 40px;--srfm-multi-choice-horizontal-image-size: 24px;--srfm-multi-choice-vertical-image-size: 120px;--srfm-multi-choice-outer-padding: 2px;				}
 			</style>
-							<form method="post" enctype="multipart/form-data" id="srfm-form-600" class="srfm-form " form-id="600" after-submission="reset form" message-type="same page" success-url="" ajaxurl="/wp-admin/admin-ajax.php" data-submit-token="78683a9488cbca26aeeabca9ed4c96c63d6a839531a8e550ba164b96bcb6c650" data-srfm-instance="1" style="display:flex;flex-wrap:wrap;gap:16px">
+							<form method="post" enctype="multipart/form-data" id="srfm-form-600" class="srfm-form " form-id="600" after-submission="reset form" message-type="same page" success-url="" ajaxurl="/wp-admin/admin-ajax.php" data-submit-token="78683a9488cbca26aeeabca9ed4c96c63d6a839531a8e550ba164b96bcb6c650" data-srfm-instance="1">
 				
 				<input type="hidden" value="600" name="form-id">
 								<input type="hidden" value="" name="srfm-form-language">
@@ -1384,7 +1384,7 @@ div#nb-4-configurations {
 						<p id="srfm-error-message" class="srfm-common-error-message srfm-error-message srfm-head-error" hidden="">		<span class="srfm-icon" aria-hidden="true">
 			<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none"><path d="M9.99935 18.3327C14.6017 18.3327 18.3327 14.6017 18.3327 9.99935C18.3327 5.39698 14.6017 1.66602 9.99935 1.66602C5.39698 1.66602 1.66602 5.39698 1.66602 9.99935C1.66602 14.6017 5.39698 18.3327 9.99935 18.3327Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10 6.66602V9.99935" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10 13.334H10.0083" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>		</span>
 		<span class="srfm-error-content">There was an error trying to submit your form. Please try again.</span></p>
-					<div data-block-id="6827dd7b" class="srfm-block-single srfm-block srfm-input-block srf-input-6827dd7b-block  srfm-block-width-33-33 srfm-slug-name 600">
+					<div data-block-id="6827dd7b" class="srfm-block-single srfm-block srfm-input-block srf-input-6827dd7b-block  srfm-block-width-100 srfm-slug-name 600">
 										<div class="srfm-block-wrap">
 				<input class="srfm-input-common srfm-input-input" type="text" name="srfm-input-6827dd7b-lbl-Tm9tZSBDb21wbGV0bw-name" id="srfm-input-6827dd7b-lbl-Tm9tZSBDb21wbGV0bw" aria-describedby="srfm-error-6827dd7b" data-required="true" aria-required="true" data-unique="false" maxlength="100" value="" placeholder="Nome Completo *" data-srfm-mask="none">
 				</div>
@@ -1395,7 +1395,7 @@ div#nb-4-configurations {
 			</div>
 		
 
-			<div data-block-id="08b0863c" class="srfm-block-single srfm-block srfm-email-block srf-email-08b0863c-block  srfm-block-width-33-33 srfm-slug-email 600 srfm-email-block-wrap">
+			<div data-block-id="08b0863c" class="srfm-block-single srfm-block srfm-email-block srf-email-08b0863c-block  srfm-block-width-100 srfm-slug-email 600 srfm-email-block-wrap">
 				<div class="srfm-email-block srf-email-08b0863c-block">
 															<div class="srfm-block-wrap">
 						<input class="srfm-input-common srfm-input-email" type="email" name="srfm-email-08b0863c-lbl-U2V1IE1lbGhvciBFLW1haWw-email" id="srfm-email-08b0863c-lbl-U2V1IE1lbGhvciBFLW1haWw" aria-describedby="srfm-error-08b0863c" data-required="true" aria-required="true" data-unique="false" value="" placeholder="Seu Melhor E-mail *">
@@ -1408,7 +1408,7 @@ div#nb-4-configurations {
 							</div>
 		
 
-			<div data-block-id="b5c8373d" class="srfm-block-single srfm-block srfm-dropdown-block srf-dropdown-b5c8373d-block  srfm-block-width-33-33 srfm-slug-selecione-o-assunto 600">
+			<div data-block-id="b5c8373d" class="srfm-block-single srfm-block srfm-dropdown-block srf-dropdown-b5c8373d-block  srfm-block-width-100 srfm-slug-selecione-o-assunto 600">
 				<fieldset>
 					<input class="srfm-input-dropdown-hidden" data-required="true" aria-required="true" name="srfm-dropdown-1-b5c8373d-lbl-U2VsZWNpb25lIG8gQXNzdW50bw-selecione-o-assunto" type="hidden" value="">
 					<legend class="srfm-block-legend">
