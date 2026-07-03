@@ -15,9 +15,7 @@ Sistema de agendamento de passeios e transfers em Punta Cana, com site instituci
 3. Execute os scripts SQL na ordem:
    - `database/001_create_database.sql`
    - `database/002_seed_initial_data.sql`
-4. Acesse o admin: `/admin/login`
-   - Email: `admin@puntacanaparabrasileiros.com`
-   - Senha: `password` (mude após primeiro login!)
+4. Acesse o admin em `/admin/login` com as credenciais definidas no seed
 
 ## Estrutura do Projeto
 

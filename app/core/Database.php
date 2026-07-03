@@ -8,8 +8,8 @@ class Database
 {
     private $host = 'localhost';
     private $db_name = 'puntacana_db';
-    private $username = 'root';
-    private $password = '';
+    private $username = 'puntacana_db';
+    private $password = 'gl6t2VYfQ&ouz!q6';
     private $charset = 'utf8mb4';
     private $conn = null;
 
