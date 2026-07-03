@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <!-- saved from url=(0062)/politicas-de-privacidade/ -->
 <html lang="pt-BR" prefix="og: https://ogp.me/ns#" class="" webcrx=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
@@ -2197,5 +2197,3 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 
 
 </body></html>
-
-

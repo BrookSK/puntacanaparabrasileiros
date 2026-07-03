@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <!-- saved from url=(0037)/ -->
 <html lang="pt-BR" prefix="og: https://ogp.me/ns#" class="fontawesome-i2svg-active fontawesome-i2svg-complete" webcrx=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
@@ -6,15 +6,15 @@
 <link rel="alternate" href="/en/" hreflang="en">
 <link rel="alternate" href="/es/" hreflang="es">
 
-<!-- OtimizaÃ§Ã£o dos mecanismos de pesquisa pelo Rank Math PRO - https://rankmath.com/ -->
+<!-- Otimização dos mecanismos de pesquisa pelo Rank Math PRO - https://rankmath.com/ -->
 <title>Home - Punta Cana para Brasileiros</title>
-<meta name="description" content="Descubra o paraÃ­so caribenho com os melhores pacotes exclusivos para brasileiros. Praias paradisÃ­acas, resorts all-inclusive e uma experiÃªncia inesquecÃ­vel.">
+<meta name="description" content="Descubra o paraíso caribenho com os melhores pacotes exclusivos para brasileiros. Praias paradisíacas, resorts all-inclusive e uma experiência inesquecível.">
 <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
 <link rel="canonical" href="/">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Home - Punta Cana para Brasileiros">
-<meta property="og:description" content="Descubra o paraÃ­so caribenho com os melhores pacotes exclusivos para brasileiros. Praias paradisÃ­acas, resorts all-inclusive e uma experiÃªncia inesquecÃ­vel.">
+<meta property="og:description" content="Descubra o paraíso caribenho com os melhores pacotes exclusivos para brasileiros. Praias paradisíacas, resorts all-inclusive e uma experiência inesquecível.">
 <meta property="og:url" content="/">
 <meta property="og:site_name" content="LRV Web">
 <meta property="og:updated_time" content="2026-03-30T00:19:39-03:00">
@@ -22,7 +22,7 @@
 <meta property="article:modified_time" content="2026-03-30T00:19:39-03:00">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Home - Punta Cana para Brasileiros">
-<meta name="twitter:description" content="Descubra o paraÃ­so caribenho com os melhores pacotes exclusivos para brasileiros. Praias paradisÃ­acas, resorts all-inclusive e uma experiÃªncia inesquecÃ­vel.">
+<meta name="twitter:description" content="Descubra o paraíso caribenho com os melhores pacotes exclusivos para brasileiros. Praias paradisíacas, resorts all-inclusive e uma experiência inesquecível.">
 <meta name="twitter:label1" content="Escrito por">
 <meta name="twitter:data1" content="Lucas Vacari">
 <meta name="twitter:label2" content="Tempo para leitura">
@@ -34,8 +34,8 @@
 <link rel="dns-prefetch" href="https://www.paypal.com/">
 <link rel="dns-prefetch" href="https://www.googletagmanager.com/">
 <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
-<link rel="alternate" type="application/rss+xml" title="Feed para Punta Cana para Brasileiros Â»" href="/feed/">
-<link rel="alternate" type="application/rss+xml" title="Feed de comentÃ¡rios para Punta Cana para Brasileiros Â»" href="/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed para Punta Cana para Brasileiros »" href="/feed/">
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Punta Cana para Brasileiros »" href="/comments/feed/">
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpuntacanaparabrasileiros.com%2F&amp;lang=pt">
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpuntacanaparabrasileiros.com%2F&amp;format=xml&amp;lang=pt">
 		<style>
@@ -521,7 +521,7 @@ var slicewp = {"ajaxurl":"https:\/\/puntacanaparabrasileiros.com\/wp-admin\/admi
 <script id="slicewp-script-tracking-js" src="/assets/wp/script-trk.js.download"></script>
 
 <!-- Snippet da etiqueta do Google (gtag.js) adicionado pelo Site Kit -->
-<!-- Snippet do Google AnÃ¡lises adicionado pelo Site Kit -->
+<!-- Snippet do Google Análises adicionado pelo Site Kit -->
 <script id="google_gtagjs-js" src="/assets/wp/js" async=""></script>
 <script id="google_gtagjs-js-after">
 window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
@@ -726,7 +726,7 @@ gtag("config", "GT-T9452TG9");
     }
     </style>
         <style>
-    /* CSS especÃ­fico para o status "Completo" na tabela */
+    /* CSS específico para o status "Completo" na tabela */
     .booking_status span[title="complete"],
     .booking_status span[title="Completo"],
     .column-booking_status span[title="complete"],
@@ -762,7 +762,7 @@ gtag("config", "GT-T9452TG9");
         outline: none !important;
     }
     
-    /* Estilo especÃ­fico para status "Completo" no admin */
+    /* Estilo específico para status "Completo" no admin */
     .booking-status-complete,
     .wp-list-table span:contains('Completo'),
     .wp-list-table span:contains('complete') {
@@ -1120,7 +1120,7 @@ div#nb-4-configurations {
 }
 </style>
 <style class="gtranslate_css">a.glink{text-decoration:none}a.glink img{vertical-align:middle;display:inline;border:0;padding:0;margin:0;opacity:0.8;margin-right:2px}a.glink:hover img{opacity:1}div.skiptranslate,#google_translate_element2{display:none!important}body{top:0!important}font font{background-color:transparent!important;box-shadow:none!important;position:initial!important}</style> <style id="cky-style">.cky-overlay{background: #000000; opacity: 0.4; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99999999;}.cky-hide{display: none;}.cky-btn-revisit-wrapper{display: flex; align-items: center; justify-content: center; background: #0056a7; width: 45px; height: 45px; border-radius: 50%; position: fixed; z-index: 999999; cursor: pointer;}.cky-revisit-bottom-left{bottom: 15px; left: 15px;}.cky-revisit-bottom-right{bottom: 15px; right: 15px;}.cky-btn-revisit-wrapper .cky-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width: fit-content; margin: 0; height: 30px; width: 30px;}.cky-revisit-bottom-left:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; left: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-left:hover::after{position: absolute; content: ""; border: 5px solid transparent; left: calc(100% + 2px); border-left-width: 0; border-right-color: #4e4b66;}.cky-revisit-bottom-right:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; right: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-right:hover::after{position: absolute; content: ""; border: 5px solid transparent; right: calc(100% + 2px); border-right-width: 0; border-left-color: #4e4b66;}.cky-revisit-hide{display: none;}.cky-consent-container{position: fixed; width: 100%; box-sizing: border-box; z-index: 9999999;}.cky-consent-container .cky-consent-bar{background: #ffffff; border: 1px solid; padding: 16.5px 24px; box-shadow: 0 -1px 10px 0 #acabab4d;}.cky-banner-bottom{bottom: 0; left: 0;}.cky-banner-top{top: 0; left: 0;}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width: 100px; height: auto; margin: 0 0 12px 0;}.cky-notice .cky-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 12px 0;}.cky-notice-group{display: flex; justify-content: space-between; align-items: center; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des *,.cky-preference-content-wrapper *,.cky-accordion-header-des *,.cky-gpc-wrapper .cky-gpc-desc *{font-size: 14px;}.cky-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des img{height: 25px; width: 25px;}.cky-consent-bar .cky-notice-des p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.cky-cookie-des-table li div:last-child p{color: inherit; margin-top: 0; overflow-wrap: break-word;}.cky-notice-des P:last-child,.cky-preference-content-wrapper p:last-child,.cky-cookie-des-table li div:last-child p:last-child,.cky-gpc-wrapper .cky-gpc-desc p:last-child{margin-bottom: 0;}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.cky-notice-des button.cky-policy{padding: 0;}.cky-notice-des a.cky-policy:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-preference-header .cky-btn-close:focus-visible,.cky-switch input[type="checkbox"]:focus-visible,.cky-footer-wrapper a:focus-visible,.cky-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-consent-bar .cky-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.cky-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active){background: transparent;}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration: none;}.cky-notice-btn-wrapper{display: flex; justify-content: center; align-items: center; margin-left: 15px;}.cky-notice-btn-wrapper .cky-btn{text-shadow: none; box-shadow: none;}.cky-btn{font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px 27px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; white-space: nowrap; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.cky-btn:hover{opacity: 0.8;}.cky-btn-customize{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.cky-btn:last-child{margin-right: 0;}@media (max-width: 768px){.cky-notice-group{display: block;}.cky-notice-btn-wrapper{margin-left: 0;}.cky-notice-btn-wrapper .cky-btn{flex: auto; max-width: 100%; margin-top: 10px; white-space: unset;}}@media (max-width: 576px){.cky-notice-btn-wrapper{flex-direction: column;}.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 28px;}.cky-consent-container .cky-consent-bar{padding: 16.5px 0;}.cky-notice-des{max-height: 40vh; overflow-y: scroll;}.cky-notice-btn-wrapper .cky-btn{width: 100%; padding: 8px; margin-right: 0;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}}@media (max-height: 480px){.cky-consent-container{max-height: 100vh;overflow-y: scroll}.cky-notice-des{max-height: unset;overflow-y: unset}.cky-preference-center{height: 100vh;overflow: auto !important}.cky-preference-center .cky-preference-body-wrapper{overflow: unset}}@media (max-width: 425px){.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 24px;}.cky-notice-btn-wrapper{flex-direction: column;}.cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1; margin-top: 16px;}}@media (max-width: 352px){.cky-notice .cky-title{font-size: 16px;}.cky-notice-des *{font-size: 12px;}.cky-notice-des, .cky-btn{font-size: 12px;}}.cky-modal.cky-modal-open{display: flex; visibility: visible; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); transform: translate(-50%, -50%); top: 50%; left: 50%; transition: all 1s ease;}.cky-modal{box-shadow: 0 32px 68px rgba(0, 0, 0, 0.3); margin: 0 auto; position: fixed; max-width: 100%; background: #ffffff; top: 50%; box-sizing: border-box; border-radius: 6px; z-index: 999999999; color: #212121; -webkit-transform: translate(-50%, 100%); -moz-transform: translate(-50%, 100%); -ms-transform: translate(-50%, 100%); -o-transform: translate(-50%, 100%); transform: translate(-50%, 100%); visibility: hidden; transition: all 0s ease;}.cky-preference-center{max-height: 79vh; overflow: hidden; width: 845px; overflow: hidden; flex: 1 1 0; display: flex; flex-direction: column; border-radius: 6px;}.cky-preference-header{display: flex; align-items: center; justify-content: space-between; padding: 22px 24px; border-bottom: 1px solid;}.cky-preference-header .cky-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.cky-preference-header .cky-btn-close{margin: 0; cursor: pointer; vertical-align: middle; padding: 0; background: none; border: none; width: 24px; height: 24px; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.cky-preference-header .cky-btn-close img{margin: 0; height: 10px; width: 10px;}.cky-preference-body-wrapper{padding: 0 24px; flex: 1; overflow: auto; box-sizing: border-box;}.cky-preference-content-wrapper,.cky-gpc-wrapper .cky-gpc-desc{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0;}.cky-preference-content-wrapper{border-bottom: 1px solid;}.cky-preference-content-wrapper img{height: 25px; width: 25px;}.cky-preference-content-wrapper .cky-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-wrapper{margin-bottom: 10px;}.cky-accordion{border-bottom: 1px solid;}.cky-accordion:last-child{border-bottom: none;}.cky-accordion .cky-accordion-item{display: flex; margin-top: 10px;}.cky-accordion .cky-accordion-body{display: none;}.cky-accordion.cky-accordion-active .cky-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.cky-accordion-header-wrapper{cursor: pointer; width: 100%;}.cky-accordion-item .cky-accordion-header{display: flex; justify-content: space-between; align-items: center;}.cky-accordion-header .cky-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-header .cky-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.cky-accordion-header-des{font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.cky-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.cky-accordion-chevron-hide{display: none;}.cky-accordion .cky-accordion-chevron i::before{content: ""; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.cky-audit-table{background: #f4f4f4; border-radius: 6px;}.cky-audit-table .cky-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.cky-audit-table .cky-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom: none;}.cky-audit-table .cky-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top: 0;}.cky-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.cky-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.cky-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: calc(100% - 1px);}.cky-footer-wrapper{position: relative;}.cky-prefrence-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px; border-top: 1px solid;}.cky-prefrence-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-preference-header,.cky-preference-body-wrapper,.cky-preference-content-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 845px){.cky-modal{max-width: calc(100% - 16px);}}@media (max-width: 576px){.cky-modal{max-width: 100%;}.cky-preference-center{max-height: 100vh;}.cky-prefrence-btn-wrapper{flex-direction: column;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right: 0;}.cky-prefrence-btn-wrapper .cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-prefrence-btn-wrapper .cky-btn-reject{order: 3;}.cky-prefrence-btn-wrapper .cky-btn-accept{order: 1; margin-top: 0;}.cky-prefrence-btn-wrapper .cky-btn-preferences{order: 2;}}@media (max-width: 425px){.cky-accordion-chevron{margin-right: 15px;}.cky-notice-btn-wrapper{margin-top: 0;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.cky-preference-header .cky-preference-title{font-size: 16px;}.cky-preference-header{padding: 16px 24px;}.cky-preference-content-wrapper *, .cky-accordion-header-des *{font-size: 12px;}.cky-preference-content-wrapper, .cky-preference-content-wrapper .cky-show-more, .cky-accordion-header .cky-always-active, .cky-accordion-header-des, .cky-preference-content-wrapper .cky-show-desc-btn, .cky-notice-des a.cky-policy{font-size: 12px;}.cky-accordion-header .cky-accordion-btn{font-size: 14px;}}.cky-switch{display: flex;}.cky-switch input[type="checkbox"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.cky-switch input[type="checkbox"]:checked{background: #1863dc;}.cky-switch input[type="checkbox"]:before{position: absolute; content: ""; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.cky-switch input[type="checkbox"]:after{display: none;}.cky-switch input[type="checkbox"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.cky-switch input[type="checkbox"]{width: 38px; height: 21px;}.cky-switch input[type="checkbox"]:before{height: 17px; width: 17px;}.cky-switch input[type="checkbox"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.cky-consent-bar .cky-banner-btn-close{position: absolute; right: 9px; top: 5px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; min-height: 0; line-height: 0; height: 24px; width: 24px; text-shadow: none; box-shadow: none;}.cky-consent-bar .cky-banner-btn-close img{height: 9px; width: 9px; margin: 0;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 14px; line-height: 24px; padding: 6px 0; margin: 0; font-weight: 500; background: none; border-radius: 2px; border: none; cursor: pointer; text-align: left; color: #1863dc; background: transparent; border-color: transparent; box-shadow: none; text-shadow: none;}.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-btn-wrapper .cky-btn-do-not-sell:focus-visible,.cky-opt-out-btn-wrapper .cky-btn:focus-visible,.cky-opt-out-checkbox-wrapper input[type="checkbox"].cky-opt-out-checkbox:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}@media (max-width: 768px){.cky-notice-btn-wrapper{margin-left: 0; margin-top: 10px; justify-content: left;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{padding: 0;}}@media (max-width: 352px){.cky-notice-btn-wrapper .cky-btn-do-not-sell, .cky-notice-des a.cky-policy{font-size: 12px;}}.cky-opt-out-wrapper{padding: 12px 0;}.cky-opt-out-wrapper .cky-opt-out-checkbox-wrapper{display: flex; align-items: center;}.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 16px; font-weight: 700; line-height: 24px; margin: 0 0 0 12px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type="checkbox"].cky-opt-out-checkbox{background-color: #ffffff; border: 1px solid black; width: 20px; height: 18.5px; margin: 0; -webkit-appearance: none; position: relative; display: flex; align-items: center; justify-content: center; border-radius: 2px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type="checkbox"].cky-opt-out-checkbox:checked{background-color: #1863dc; border: none;}.cky-opt-out-checkbox-wrapper input[type="checkbox"].cky-opt-out-checkbox:checked::after{left: 6px; bottom: 4px; width: 7px; height: 13px; border: solid #ffffff; border-width: 0 3px 3px 0; border-radius: 2px; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); content: ""; position: absolute; box-sizing: border-box;}.cky-opt-out-checkbox-wrapper.cky-disabled .cky-opt-out-checkbox-label,.cky-opt-out-checkbox-wrapper.cky-disabled input[type="checkbox"].cky-opt-out-checkbox{cursor: no-drop;}.cky-gpc-wrapper{margin: 0 0 0 32px;}.cky-footer-wrapper .cky-opt-out-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px;}.cky-opt-out-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-opt-out-btn-wrapper .cky-btn-cancel{border: 1px solid #dedfe0; background: transparent; color: #858585;}.cky-opt-out-btn-wrapper .cky-btn-confirm{background: #1863dc; color: #ffffff; border: 1px solid #1863dc;}@media (max-width: 352px){.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 14px;}.cky-gpc-wrapper .cky-gpc-desc, .cky-gpc-wrapper .cky-gpc-desc *{font-size: 12px;}.cky-opt-out-checkbox-wrapper input[type="checkbox"].cky-opt-out-checkbox{width: 16px; height: 16px;}.cky-opt-out-checkbox-wrapper input[type="checkbox"].cky-opt-out-checkbox:checked::after{left: 5px; bottom: 4px; width: 3px; height: 9px;}.cky-gpc-wrapper{margin: 0 0 0 28px;}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-normal{background-image: url("/wp-content/plugins/cookie-law-info/lite/frontend/images/placeholder.svg"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.cky-rtl{direction: rtl; text-align: right;}.cky-rtl .cky-banner-btn-close{left: 9px; right: auto;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 8px;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 8px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}@media (max-width: 768px){.cky-rtl .cky-notice-btn-wrapper{margin-right: 0;}}@media (max-width: 576px){.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 0;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 0;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px 0 0;}}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn{margin-right: 12px;}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{margin: 0 12px 0 0;}</style><style type="text/css">undefined</style><script src="/assets/wp/wp-emoji-release.min.js.download" defer=""></script><script src="blob:/577f6436-ae52-4d0b-b704-be4574e8f35a"></script></head>
-<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-6262 wp-custom-logo wp-embed-responsive wp-theme-travel-monster wptravelengine_653 wptravelengine_css_v2 elementor-page box-layout travel-monster-has-blocks rightsidebar elementor-default elementor-template-full-width elementor-kit-2579 elementor-page-6262 e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="desktop" cz-shortcut-listen="true"><div class="cky-overlay cky-hide"></div><div class="cky-consent-container cky-hide cky-banner-bottom" tabindex="0" aria-label="We value your privacy" role="region"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#F4F4F4">  <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#212121"></p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <p>Utilizamos ferramentas e serviÃ§os de terceiros que utilizam cookies. Essas ferramentas nos ajudam a oferecer uma melhor experiÃªncia de navegaÃ§Ã£o no site. Ao clicar no botÃ£o â€œConcordoâ€ ou continuar a visualizar nosso site, vocÃª concorda com o uso de cookies em nosso site.&nbsp;<a href="/politicas-de-privacidade" class="cky-policy" aria-label="PolÃ­ticas de Privacidade" target="_blank" rel="noopener" data-cky-tag="readmore-button" style="color: rgb(24, 99, 220); background-color: transparent; border-color: transparent;">PolÃ­ticas de Privacidade</a></p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons">   <button class="cky-btn cky-btn-accept" aria-label="Concordo" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#1863DC;border-color:#1863DC">Concordo</button>  </div></div></div></div></div><div class="cky-modal" tabindex="0"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#F4F4F4" role="dialog" aria-modal="true" aria-label="Customise Consent Preferences"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#212121">Customise Consent Preferences</span> <button class="cky-btn-close" aria-label="Close" data-cky-tag="detail-close"> <img src="/assets/wp/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"><p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. ...&nbsp;<button class="cky-show-desc-btn" data-cky-tag="show-desc-button" aria-label="Show more" style="color: rgb(24, 99, 220);">Show more</button></p></div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Necessary" data-cky-tag="detail-category-title" style="color:#212121" aria-controls="ckyDetailCategorynecessaryBody" aria-expanded="false">Necessary</button><span class="cky-always-active" style="color: rgb(0, 128, 0);">Always Active</span>  </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p></div> </div> </div> <div class="cky-accordion-body" id="ckyDetailCategorynecessaryBody"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Functional" data-cky-tag="detail-category-title" style="color:#212121" aria-controls="ckyDetailCategoryfunctionalBody" aria-expanded="false">Functional</button>  </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p></div> </div> </div> <div class="cky-accordion-body" id="ckyDetailCategoryfunctionalBody"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analytics" data-cky-tag="detail-category-title" style="color:#212121" aria-controls="ckyDetailCategoryanalyticsBody" aria-expanded="false">Analytics</button>  </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p></div> </div> </div> <div class="cky-accordion-body" id="ckyDetailCategoryanalyticsBody"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Performance" data-cky-tag="detail-category-title" style="color:#212121" aria-controls="ckyDetailCategoryperformanceBody" aria-expanded="false">Performance</button>  </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p></div> </div> </div> <div class="cky-accordion-body" id="ckyDetailCategoryperformanceBody"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Advertisement" data-cky-tag="detail-category-title" style="color:#212121" aria-controls="ckyDetailCategoryadvertisementBody" aria-expanded="false">Advertisement</button>  </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.</p></div> </div> </div> <div class="cky-accordion-body" id="ckyDetailCategoryadvertisementBody"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow" style="background: linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%);"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons">  <button class="cky-btn cky-btn-preferences" aria-label="Save My Preferences" data-cky-tag="detail-save-button" style="color:#1863DC;background-color:transparent;border-color:#1863DC"> Save My Preferences </button> <button class="cky-btn cky-btn-accept" aria-label="Concordo" data-cky-tag="detail-accept-button" style="color:#FFFFFF;background-color:#1863DC;border-color:#1863DC"> Concordo </button> </div></div></div></div>
+<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-6262 wp-custom-logo wp-embed-responsive wp-theme-travel-monster wptravelengine_653 wptravelengine_css_v2 elementor-page box-layout travel-monster-has-blocks rightsidebar elementor-default elementor-template-full-width elementor-kit-2579 elementor-page-6262 e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="desktop" cz-shortcut-listen="true"><div class="cky-overlay cky-hide"></div><div class="cky-consent-container cky-hide cky-banner-bottom" tabindex="0" aria-label="We value your privacy" role="region"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#F4F4F4">  <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#212121"></p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <p>Utilizamos ferramentas e serviços de terceiros que utilizam cookies. Essas ferramentas nos ajudam a oferecer uma melhor experiência de navegação no site. Ao clicar no botão “Concordo” ou continuar a visualizar nosso site, você concorda com o uso de cookies em nosso site.&nbsp;<a href="/politicas-de-privacidade" class="cky-policy" aria-label="Políticas de Privacidade" target="_blank" rel="noopener" data-cky-tag="readmore-button" style="color: rgb(24, 99, 220); background-color: transparent; border-color: transparent;">Políticas de Privacidade</a></p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons">   <button class="cky-btn cky-btn-accept" aria-label="Concordo" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#1863DC;border-color:#1863DC">Concordo</button>  </div></div></div></div></div><div class="cky-modal" tabindex="0"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#F4F4F4" role="dialog" aria-modal="true" aria-label="Customise Consent Preferences"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#212121">Customise Consent Preferences</span> <button class="cky-btn-close" aria-label="Close" data-cky-tag="detail-close"> <img src="/assets/wp/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"><p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. ...&nbsp;<button class="cky-show-desc-btn" data-cky-tag="show-desc-button" aria-label="Show more" style="color: rgb(24, 99, 220);">Show more</button></p></div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Necessary" data-cky-tag="detail-category-title" style="color:#212121" aria-controls="ckyDetailCategorynecessaryBody" aria-expanded="false">Necessary</button><span class="cky-always-active" style="color: rgb(0, 128, 0);">Always Active</span>  </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p></div> </div> </div> <div class="cky-accordion-body" id="ckyDetailCategorynecessaryBody"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Functional" data-cky-tag="detail-category-title" style="color:#212121" aria-controls="ckyDetailCategoryfunctionalBody" aria-expanded="false">Functional</button>  </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p></div> </div> </div> <div class="cky-accordion-body" id="ckyDetailCategoryfunctionalBody"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analytics" data-cky-tag="detail-category-title" style="color:#212121" aria-controls="ckyDetailCategoryanalyticsBody" aria-expanded="false">Analytics</button>  </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p></div> </div> </div> <div class="cky-accordion-body" id="ckyDetailCategoryanalyticsBody"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Performance" data-cky-tag="detail-category-title" style="color:#212121" aria-controls="ckyDetailCategoryperformanceBody" aria-expanded="false">Performance</button>  </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p></div> </div> </div> <div class="cky-accordion-body" id="ckyDetailCategoryperformanceBody"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Advertisement" data-cky-tag="detail-category-title" style="color:#212121" aria-controls="ckyDetailCategoryadvertisementBody" aria-expanded="false">Advertisement</button>  </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.</p></div> </div> </div> <div class="cky-accordion-body" id="ckyDetailCategoryadvertisementBody"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow" style="background: linear-gradient(rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%);"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons">  <button class="cky-btn cky-btn-preferences" aria-label="Save My Preferences" data-cky-tag="detail-save-button" style="color:#1863DC;background-color:transparent;border-color:#1863DC"> Save My Preferences </button> <button class="cky-btn cky-btn-accept" aria-label="Concordo" data-cky-tag="detail-accept-button" style="color:#FFFFFF;background-color:#1863DC;border-color:#1863DC"> Concordo </button> </div></div></div></div>
 		<header data-elementor-type="header" data-elementor-id="6166" class="elementor elementor-6166 elementor-location-header" data-elementor-post-type="elementor_library">
 			<div class="elementor-element elementor-element-c8536fa elementor-hidden-mobile e-flex e-con-boxed e-con e-parent e-lazyloaded" data-id="c8536fa" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 					<div class="e-con-inner">
@@ -1144,7 +1144,7 @@ div#nb-4-configurations {
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6544"><a href="/experiencias/" class="elementor-item">Passeios</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8035"><a href="/transfer/" class="elementor-item">Transfer</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6482"><a target="_blank" href="/blog/" class="elementor-item">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6484"><a href="/sobre-nos/" class="elementor-item">Sobre NÃ³s</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6484"><a href="/sobre-nos/" class="elementor-item">Sobre Nós</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6483"><a href="/contato/" class="elementor-item">Contato</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false" style="">
@@ -1154,7 +1154,7 @@ div#nb-4-configurations {
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6544"><a href="/experiencias/" class="elementor-item" tabindex="-1">Passeios</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8035"><a href="/transfer/" class="elementor-item" tabindex="-1">Transfer</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6482"><a target="_blank" href="/blog/" class="elementor-item" tabindex="-1">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6484"><a href="/sobre-nos/" class="elementor-item" tabindex="-1">Sobre NÃ³s</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6484"><a href="/sobre-nos/" class="elementor-item" tabindex="-1">Sobre Nós</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6483"><a href="/contato/" class="elementor-item" tabindex="-1">Contato</a></li>
 </ul>			</nav>
 						</div>
@@ -1250,7 +1250,7 @@ div#nb-4-configurations {
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8634"><a href="/experiencias/" class="elementor-item">Passeios</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8636"><a href="/transfer/" class="elementor-item">Transfer</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8631"><a href="/blog/" class="elementor-item">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8635"><a href="/sobre-nos/" class="elementor-item">Sobre NÃ³s</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8635"><a href="/sobre-nos/" class="elementor-item">Sobre Nós</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8633"><a href="/contato/" class="elementor-item">Contato</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8632"><a href="/carrinho/" class="elementor-item">Carrinho</a></li>
 </ul>			</nav>
@@ -1261,7 +1261,7 @@ div#nb-4-configurations {
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8634"><a href="/experiencias/" class="elementor-item" tabindex="-1">Passeios</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8636"><a href="/transfer/" class="elementor-item" tabindex="-1">Transfer</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8631"><a href="/blog/" class="elementor-item" tabindex="-1">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8635"><a href="/sobre-nos/" class="elementor-item" tabindex="-1">Sobre NÃ³s</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8635"><a href="/sobre-nos/" class="elementor-item" tabindex="-1">Sobre Nós</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8633"><a href="/contato/" class="elementor-item" tabindex="-1">Contato</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8632"><a href="/carrinho/" class="elementor-item" tabindex="-1">Carrinho</a></li>
 </ul>			</nav>
@@ -1279,11 +1279,11 @@ div#nb-4-configurations {
 					</div><div class="elementor-element elementor-element-ac68e5c e-con-full e-flex e-con e-child" data-id="ac68e5c" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-6a7b57a --secondaryFontFamily elementor-widget elementor-widget-heading" data-id="6a7b57a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h1 class="elementor-heading-title elementor-size-default">Punta Cana espera por vocÃª!</h1>				</div>
+					<h1 class="elementor-heading-title elementor-size-default">Punta Cana espera por você!</h1>				</div>
 				</div>
 				<div class="elementor-element elementor-element-7e6b9f7 elementor-widget elementor-widget-text-editor" data-id="7e6b9f7" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Descubra o paraÃ­so caribenho com os melhores pacotes exclusivos para brasileiros. Praias paradisÃ­acas, resorts all-inclusive e uma experiÃªncia inesquecÃ­vel.</p>								</div>
+									<p>Descubra o paraíso caribenho com os melhores pacotes exclusivos para brasileiros. Praias paradisíacas, resorts all-inclusive e uma experiência inesquecível.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-3bd69e5 elementor-icon-list--layout-inline elementor-list-item-link-inline elementor-align-center iconesss elementor-mobile-align-center elementor-widget elementor-widget-icon-list" data-id="3bd69e5" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
@@ -1296,7 +1296,7 @@ div#nb-4-configurations {
 								<li class="elementor-icon-list-item elementor-inline-item">
 											<span class="elementor-icon-list-icon">
 							<svg aria-hidden="true" class="e-font-icon-svg e-far-calendar" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M400 64h-48V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H160V12c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v52H48C21.5 64 0 85.5 0 112v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zm-6 400H54c-3.3 0-6-2.7-6-6V160h352v298c0 3.3-2.7 6-6 6z"></path></svg>						</span>
-										<span class="elementor-icon-list-text">Pacotes FlexÃ­veis</span>
+										<span class="elementor-icon-list-text">Pacotes Flexíveis</span>
 									</li>
 						</ul>
 						</div>
@@ -1315,7 +1315,7 @@ div#nb-4-configurations {
 							<input type="hidden" class="wpte__input-value" name="activities">
 							<div class="wpte__select-options">
 								<ul>
-									<li data-value="avectura" data-label="avectura"><span>avectura</span></li><li data-value="degustacao-de-produtos-locais" data-label="DegustaÃ§Ã£o de produtos locais"><span>DegustaÃ§Ã£o de produtos locais</span></li><li data-value="dirigir-pelas-trilhas-de-macao" data-label="Dirigir pelas trilhas de Macao"><span>Dirigir pelas trilhas de Macao</span></li><li data-value="ilhas" data-label="Ilhas"><span>Ilhas</span></li><li data-value="nado-em-caverna" data-label="Nado em caverna"><span>Nado em caverna</span></li><li data-value="natureza-e-aventura" data-label="Natureza e aventura"><span>Natureza e aventura</span></li><li data-value="praias" data-label="Praias"><span>Praias</span><ul><li data-value="passeio-com-animais-aquaticos" data-label="Passeio com animais aquÃ¡ticos"><span>Passeio com animais aquÃ¡ticos</span></li></ul></li><li data-value="passeio-cultural" data-label="passeio cultural"><span>passeio cultural</span></li><li data-value="passeio-pela-cidade" data-label="Passeio pela cidade"><span>Passeio pela cidade</span></li><li data-value="passeios-de-barco" data-label="Passeios de barco"><span>Passeios de barco</span></li><li data-value="vida-noturna" data-label="Vida Noturna"><span>Vida Noturna</span></li><li data-value="visita-a-vila-taina" data-label="Visita Ã  Vila TaÃ­na"><span>Visita Ã  Vila TaÃ­na</span></li>								</ul>
+									<li data-value="avectura" data-label="avectura"><span>avectura</span></li><li data-value="degustacao-de-produtos-locais" data-label="Degustação de produtos locais"><span>Degustação de produtos locais</span></li><li data-value="dirigir-pelas-trilhas-de-macao" data-label="Dirigir pelas trilhas de Macao"><span>Dirigir pelas trilhas de Macao</span></li><li data-value="ilhas" data-label="Ilhas"><span>Ilhas</span></li><li data-value="nado-em-caverna" data-label="Nado em caverna"><span>Nado em caverna</span></li><li data-value="natureza-e-aventura" data-label="Natureza e aventura"><span>Natureza e aventura</span></li><li data-value="praias" data-label="Praias"><span>Praias</span><ul><li data-value="passeio-com-animais-aquaticos" data-label="Passeio com animais aquáticos"><span>Passeio com animais aquáticos</span></li></ul></li><li data-value="passeio-cultural" data-label="passeio cultural"><span>passeio cultural</span></li><li data-value="passeio-pela-cidade" data-label="Passeio pela cidade"><span>Passeio pela cidade</span></li><li data-value="passeios-de-barco" data-label="Passeios de barco"><span>Passeios de barco</span></li><li data-value="vida-noturna" data-label="Vida Noturna"><span>Vida Noturna</span></li><li data-value="visita-a-vila-taina" data-label="Visita à Vila Taína"><span>Visita à Vila Taína</span></li>								</ul>
 							</div>
 						</div>
 												<div class="wpte-trip__adv-field wpte__select-field">
@@ -1325,7 +1325,7 @@ div#nb-4-configurations {
 							<input type="hidden" class="wpte__input-value" name="trip_types">
 							<div class="wpte__select-options">
 								<ul>
-									<li data-value="adequado-para-criancas" data-label="Adequado para crianÃ§as"><span>Adequado para crianÃ§as</span></li><li data-value="amigo-da-natureza" data-label="Amigo da Natureza"><span>Amigo da Natureza</span></li><li data-value="baladas" data-label="Baladas"><span>Baladas</span></li><li data-value="cultural" data-label="Cultural"><span>Cultural</span></li><li data-value="gastronomia" data-label="Gastronomia"><span>Gastronomia</span></li><li data-value="natureza-e-aventura" data-label="Natureza e aventura"><span>Natureza e aventura</span></li><li data-value="passeio-pela-cidade" data-label="Passeio pela cidade"><span>Passeio pela cidade</span></li><li data-value="praia-e-barco" data-label="Praia e Barco"><span>Praia e Barco</span></li><li data-value="somente-para-adultos" data-label="Somente para adultos"><span>Somente para adultos</span></li><li data-value="viagens-de-fim-de-semana" data-label="Viagens de fim de semana"><span>Viagens de fim de semana</span></li><li data-value="vida-noturna" data-label="Vida noturna"><span>Vida noturna</span></li>								</ul>
+									<li data-value="adequado-para-criancas" data-label="Adequado para crianças"><span>Adequado para crianças</span></li><li data-value="amigo-da-natureza" data-label="Amigo da Natureza"><span>Amigo da Natureza</span></li><li data-value="baladas" data-label="Baladas"><span>Baladas</span></li><li data-value="cultural" data-label="Cultural"><span>Cultural</span></li><li data-value="gastronomia" data-label="Gastronomia"><span>Gastronomia</span></li><li data-value="natureza-e-aventura" data-label="Natureza e aventura"><span>Natureza e aventura</span></li><li data-value="passeio-pela-cidade" data-label="Passeio pela cidade"><span>Passeio pela cidade</span></li><li data-value="praia-e-barco" data-label="Praia e Barco"><span>Praia e Barco</span></li><li data-value="somente-para-adultos" data-label="Somente para adultos"><span>Somente para adultos</span></li><li data-value="viagens-de-fim-de-semana" data-label="Viagens de fim de semana"><span>Viagens de fim de semana</span></li><li data-value="vida-noturna" data-label="Vida noturna"><span>Vida noturna</span></li>								</ul>
 							</div>
 						</div>
 						        <div class="wpte-trip__adv-field wpte__select-field" data-range-slider="#xVoTo" data-range="45,199" data-min="0" data-max="50" data-value-format="price">
@@ -1335,7 +1335,7 @@ div#nb-4-configurations {
 					</svg>
 							</span>
 		
-            <input type="text" class="wpte__input" data-value="" placeholder="PreÃ§o" readonly="">
+            <input type="text" class="wpte__input" data-value="" placeholder="Preço" readonly="">
             <input type="hidden" data-value-min="" class="wpte__input-min" name="min-cost" value="45.00">
             <input type="hidden" data-value-max="" class="wpte__input-max" name="max-cost" value="199.00">
             <div class="wpte__select-options">
@@ -1348,7 +1348,7 @@ div#nb-4-configurations {
 						<path d="M7.4375 0.125C5.99123 0.125 4.57743 0.553871 3.3749 1.35738C2.17236 2.16089 1.2351 3.30294 0.681634 4.63913C0.128168 5.97531 -0.0166435 7.44561 0.265511 8.8641C0.547665 10.2826 1.24411 11.5855 2.26678 12.6082C3.28946 13.6309 4.59242 14.3273 6.0109 14.6095C7.42939 14.8916 8.89969 14.7468 10.2359 14.1934C11.5721 13.6399 12.7141 12.7026 13.5176 11.5001C14.3211 10.2976 14.75 8.88377 14.75 7.4375C14.75 6.47721 14.5609 5.52632 14.1934 4.63913C13.8259 3.75193 13.2872 2.94581 12.6082 2.26678C11.9292 1.58775 11.1231 1.04912 10.2359 0.681631C9.34868 0.314143 8.39779 0.125 7.4375 0.125ZM7.4375 13.2875C6.28048 13.2875 5.14944 12.9444 4.18742 12.3016C3.22539 11.6588 2.47558 10.7451 2.03281 9.6762C1.59004 8.60725 1.47419 7.43101 1.69991 6.29622C1.92563 5.16143 2.48279 4.11906 3.30093 3.30092C4.11907 2.48279 5.16144 1.92563 6.29622 1.69991C7.43101 1.47418 8.60725 1.59003 9.6762 2.0328C10.7451 2.47558 11.6588 3.22539 12.3016 4.18741C12.9444 5.14944 13.2875 6.28048 13.2875 7.4375C13.2875 8.98901 12.6712 10.477 11.5741 11.5741C10.477 12.6712 8.98902 13.2875 7.4375 13.2875ZM9.70438 7.89819L8.16875 7.01337V3.78125C8.16875 3.58731 8.09171 3.40131 7.95457 3.26418C7.81744 3.12704 7.63144 3.05 7.4375 3.05C7.24356 3.05 7.05757 3.12704 6.92043 3.26418C6.78329 3.40131 6.70625 3.58731 6.70625 3.78125V7.4375C6.70625 7.4375 6.70625 7.496 6.70625 7.52525C6.71058 7.57563 6.72293 7.625 6.74282 7.6715C6.75787 7.71488 6.77748 7.75655 6.80131 7.79581C6.82132 7.83737 6.84585 7.87661 6.87444 7.91281L6.99144 8.00787L7.05725 8.07369L8.9585 9.17056C9.06995 9.23373 9.19603 9.26651 9.32413 9.26562C9.48604 9.26676 9.64375 9.21412 9.77252 9.11596C9.90129 9.01781 9.99385 8.8797 10.0357 8.72328C10.0775 8.56686 10.0662 8.40098 10.0036 8.25166C9.94101 8.10233 9.83062 7.97801 9.68975 7.89819H9.70438Z" fill="currentColor"></path>
 					</svg>
 							</span>
-		            <input type="text" data-value="" class="wpte__input" placeholder="DuraÃ§Ã£o" readonly="">
+		            <input type="text" data-value="" class="wpte__input" placeholder="Duração" readonly="">
             <input type="hidden" data-value-min="" class="wpte__input-min" name="min-duration" value="0">
             <input type="hidden" data-value-max="" class="wpte__input-max" name="max-duration" value="1">
             <div class="wpte__select-options">
@@ -1384,15 +1384,15 @@ div#nb-4-configurations {
 		<div class="elementor-element elementor-element-1d9812b e-con-full e-flex e-con e-child" data-id="1d9812b" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-435f9c30 --secondaryFontFamily elementor-widget elementor-widget-heading" data-id="435f9c30" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<span class="elementor-heading-title elementor-size-default">Nossa HistÃ³ria</span>				</div>
+					<span class="elementor-heading-title elementor-size-default">Nossa História</span>				</div>
 				</div>
 				<div class="elementor-element elementor-element-4e095d18 elementor-widget elementor-widget-heading animated fadeIn" data-id="4e095d18" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h1 class="elementor-heading-title elementor-size-default">NÃ³s oferecemos experiÃªncias de viagem Ãºnicas e personalizadas para vocÃª.</h1>				</div>
+					<h1 class="elementor-heading-title elementor-size-default">Nós oferecemos experiências de viagem únicas e personalizadas para você.</h1>				</div>
 				</div>
 				<div class="elementor-element elementor-element-d15d930 elementor-widget elementor-widget-text-editor animated fadeIn" data-id="d15d930" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Fundada por um casal apaixonado pela beleza de Punta Cana, nossa agÃªncia se dedica a criar experiÃªncias de viagem sob medida, diferenciando-se de pacotes comuns. Nossa equipe, fluente em portuguÃªs, garante suporte completo para que cada visitante vivencie o melhor do Caribe de forma Ãºnica e inesquecÃ­vel.</p>								</div>
+									<p>Fundada por um casal apaixonado pela beleza de Punta Cana, nossa agência se dedica a criar experiências de viagem sob medida, diferenciando-se de pacotes comuns. Nossa equipe, fluente em português, garante suporte completo para que cada visitante vivencie o melhor do Caribe de forma única e inesquecível.</p>								</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-4905e62 e-con-full e-flex e-con e-child" data-id="4905e62" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
@@ -1422,7 +1422,7 @@ div#nb-4-configurations {
 				</div>
 				<div class="elementor-element elementor-element-bf247b5 elementor-widget elementor-widget-text-editor" data-id="bf247b5" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Descubra os passeios mais amados por quem jÃ¡ viveu essa experiÃªncia paradisÃ­aca.</p>								</div>
+									<p>Descubra os passeios mais amados por quem já viveu essa experiência paradisíaca.</p>								</div>
 				</div>
 				</div>
 				</div>
@@ -1511,21 +1511,21 @@ div#nb-4-configurations {
 			
 							<figure class="thumbnail">
 					<a href="/trip/nado-e-interacao-com-golfinho/">
-						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0138-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250527 WA0138" title="Nado e interaÃ§Ã£o com 1 Golfinho 2" src="/assets/wp/IMG-20250527-WA0138-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
+						<img decoding="async" width="990" height="490" data-src="/wp-content/uploads/2025/05/IMG-20250527-WA0138-990x490.jpg" class="attachment-trip-single-size size-trip-single-size wp-post-image lazyloaded" alt="IMG 20250527 WA0138" title="Nado e interação com 1 Golfinho 2" src="/assets/wp/IMG-20250527-WA0138-990x490.jpg" style="--smush-placeholder-width: 990px; --smush-placeholder-aspect-ratio: 990/490;">					</a>
 				</figure>
 					</div>
 		<div class="wpte-trip-details-wrap">
 			<div class="wpte-trip-header-wrap">
 									<div class="wpte-trip-title-wrap">
 						<h2 class="wpte-trip-title">
-							<a itemprop="url" href="/trip/nado-e-interacao-com-golfinho/">Nado e interaÃ§Ã£o com 1 Golfinho</a>
+							<a itemprop="url" href="/trip/nado-e-interacao-com-golfinho/">Nado e interação com 1 Golfinho</a>
 						</h2>
 					</div>
 				
 							</div>
 							<div class="wpte-trip-content">
 				<p>
-					VocÃª irÃ¡ interagir e nadar com 1 golfinho em uma...				</p>
+					Você irá interagir e nadar com 1 golfinho em uma...				</p>
 				</div>
 			
 			<div class="wpte-trip-budget-wrap justify-content-between align-items-end">
@@ -1616,7 +1616,7 @@ div#nb-4-configurations {
 							</div>
 							<div class="wpte-trip-content">
 				<p>
-					Luzes, cÃ¢mera, sabores e emoÃ§Ã£o em um sÃ³ lugar! O...				</p>
+					Luzes, câmera, sabores e emoção em um só lugar! O...				</p>
 				</div>
 			
 			<div class="wpte-trip-budget-wrap justify-content-between align-items-end">
@@ -1661,7 +1661,7 @@ div#nb-4-configurations {
 							</div>
 							<div class="wpte-trip-content">
 				<p>
-					A Coco Bongo Ã© a casa noturna mais famosa de...				</p>
+					A Coco Bongo é a casa noturna mais famosa de...				</p>
 				</div>
 			
 			<div class="wpte-trip-budget-wrap justify-content-between align-items-end">
@@ -1729,7 +1729,7 @@ div#nb-4-configurations {
 				</div>
 				<div class="elementor-element elementor-element-36ed242 elementor-widget elementor-widget-text-editor" data-id="36ed242" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>HistÃ³rias reais, experiÃªncias inesquecÃ­veis e opiniÃµes sinceras para ajudar vocÃª a escolher sua prÃ³xima aventura.</p>								</div>
+									<p>Histórias reais, experiências inesquecíveis e opiniões sinceras para ajudar você a escolher sua próxima aventura.</p>								</div>
 				</div>
 				</div>
 				</div>
@@ -1744,10 +1744,10 @@ div#nb-4-configurations {
 											<div class="elementor-testimonial__image">
 							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Ana Beatriz" title="Home 8" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload">
 													</div>
-										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ana Beatriz</span><div class="elementor-star-rating"><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i></div><span class="elementor-testimonial__title">SÃ£o Paulo, SP</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
+										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ana Beatriz</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">São Paulo, SP</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
-						"Viagem perfeita! Atendimento em portuguÃªs do inÃ­cio ao fim, hotel excelente e passeios bem organizados. JÃ¡ estou planejando voltar no prÃ³ximo ano."					</div>
+						"Viagem perfeita! Atendimento em português do início ao fim, hotel excelente e passeios bem organizados. Já estou planejando voltar no próximo ano."					</div>
 				</div>
 					</div>
 								</div><div class="swiper-slide swiper-slide-duplicate" role="group" aria-roledescription="slide" data-swiper-slide-index="1" style="width: 402px; margin-right: 10px;" aria-label="2 / 3">
@@ -1756,10 +1756,10 @@ div#nb-4-configurations {
 											<div class="elementor-testimonial__image">
 							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Carlos Eduardo" title="Home 9" src="/assets/wp/placeholder.png" class=" lazyloaded">
 													</div>
-										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Carlos Eduardo</span><div class="elementor-star-rating"><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i></div><span class="elementor-testimonial__title">Rio de Janeiro, RJ</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
+										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Carlos Eduardo</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">Rio de Janeiro, RJ</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
-						"Segunda vez que viajo com a PuntaCanaBR e mais uma vez superou as expectativas. Recomendo para quem busca tranquilidade e bom preÃ§o."					</div>
+						"Segunda vez que viajo com a PuntaCanaBR e mais uma vez superou as expectativas. Recomendo para quem busca tranquilidade e bom preço."					</div>
 				</div>
 					</div>
 								</div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" role="group" aria-roledescription="slide" data-swiper-slide-index="2" style="width: 402px; margin-right: 10px;" aria-label="3 / 3">
@@ -1768,10 +1768,10 @@ div#nb-4-configurations {
 											<div class="elementor-testimonial__image">
 							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Mariana Silva" title="Home 10" src="/assets/wp/placeholder.png" class=" lazyloaded">
 													</div>
-										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Mariana Silva</span><div class="elementor-star-rating"><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-empty">î¤³</i></div><span class="elementor-testimonial__title">Belo Horizonte, MG</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
+										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Mariana Silva</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-empty"></i></div><span class="elementor-testimonial__title">Belo Horizonte, MG</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
-						"Amei a experiÃªncia, principalmente os passeios exclusivos. O Ãºnico ponto a melhorar seria o tempo de transfer do aeroporto ao hotel."					</div>
+						"Amei a experiência, principalmente os passeios exclusivos. O único ponto a melhorar seria o tempo de transfer do aeroporto ao hotel."					</div>
 				</div>
 					</div>
 								</div>
@@ -1781,10 +1781,10 @@ div#nb-4-configurations {
 											<div class="elementor-testimonial__image">
 							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Ana Beatriz" title="Home 8" src="/assets/wp/placeholder.png" class=" lazyloaded">
 													</div>
-										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ana Beatriz</span><div class="elementor-star-rating"><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i></div><span class="elementor-testimonial__title">SÃ£o Paulo, SP</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
+										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ana Beatriz</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">São Paulo, SP</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
-						"Viagem perfeita! Atendimento em portuguÃªs do inÃ­cio ao fim, hotel excelente e passeios bem organizados. JÃ¡ estou planejando voltar no prÃ³ximo ano."					</div>
+						"Viagem perfeita! Atendimento em português do início ao fim, hotel excelente e passeios bem organizados. Já estou planejando voltar no próximo ano."					</div>
 				</div>
 					</div>
 								</div>
@@ -1794,10 +1794,10 @@ div#nb-4-configurations {
 											<div class="elementor-testimonial__image">
 							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Carlos Eduardo" title="Home 9" src="/assets/wp/placeholder.png" class=" lazyloaded">
 													</div>
-										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Carlos Eduardo</span><div class="elementor-star-rating"><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i></div><span class="elementor-testimonial__title">Rio de Janeiro, RJ</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
+										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Carlos Eduardo</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">Rio de Janeiro, RJ</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
-						"Segunda vez que viajo com a PuntaCanaBR e mais uma vez superou as expectativas. Recomendo para quem busca tranquilidade e bom preÃ§o."					</div>
+						"Segunda vez que viajo com a PuntaCanaBR e mais uma vez superou as expectativas. Recomendo para quem busca tranquilidade e bom preço."					</div>
 				</div>
 					</div>
 								</div>
@@ -1807,10 +1807,10 @@ div#nb-4-configurations {
 											<div class="elementor-testimonial__image">
 							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Mariana Silva" title="Home 10" src="/assets/wp/placeholder.png" class=" lazyloaded">
 													</div>
-										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Mariana Silva</span><div class="elementor-star-rating"><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-empty">î¤³</i></div><span class="elementor-testimonial__title">Belo Horizonte, MG</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
+										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Mariana Silva</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-empty"></i></div><span class="elementor-testimonial__title">Belo Horizonte, MG</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
-						"Amei a experiÃªncia, principalmente os passeios exclusivos. O Ãºnico ponto a melhorar seria o tempo de transfer do aeroporto ao hotel."					</div>
+						"Amei a experiência, principalmente os passeios exclusivos. O único ponto a melhorar seria o tempo de transfer do aeroporto ao hotel."					</div>
 				</div>
 					</div>
 								</div>
@@ -1820,10 +1820,10 @@ div#nb-4-configurations {
 											<div class="elementor-testimonial__image">
 							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Ana Beatriz" title="Home 8" src="/assets/wp/placeholder.png" class=" lazyloaded">
 													</div>
-										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ana Beatriz</span><div class="elementor-star-rating"><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i></div><span class="elementor-testimonial__title">SÃ£o Paulo, SP</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
+										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ana Beatriz</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">São Paulo, SP</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
-						"Viagem perfeita! Atendimento em portuguÃªs do inÃ­cio ao fim, hotel excelente e passeios bem organizados. JÃ¡ estou planejando voltar no prÃ³ximo ano."					</div>
+						"Viagem perfeita! Atendimento em português do início ao fim, hotel excelente e passeios bem organizados. Já estou planejando voltar no próximo ano."					</div>
 				</div>
 					</div>
 								</div><div class="swiper-slide swiper-slide-duplicate swiper-slide-next" role="group" aria-roledescription="slide" data-swiper-slide-index="1" style="width: 402px; margin-right: 10px;" aria-label="2 / 3">
@@ -1832,10 +1832,10 @@ div#nb-4-configurations {
 											<div class="elementor-testimonial__image">
 							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Carlos Eduardo" title="Home 9" src="/assets/wp/placeholder.png" class=" lazyloaded">
 													</div>
-										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Carlos Eduardo</span><div class="elementor-star-rating"><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i></div><span class="elementor-testimonial__title">Rio de Janeiro, RJ</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
+										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Carlos Eduardo</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i></div><span class="elementor-testimonial__title">Rio de Janeiro, RJ</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
-						"Segunda vez que viajo com a PuntaCanaBR e mais uma vez superou as expectativas. Recomendo para quem busca tranquilidade e bom preÃ§o."					</div>
+						"Segunda vez que viajo com a PuntaCanaBR e mais uma vez superou as expectativas. Recomendo para quem busca tranquilidade e bom preço."					</div>
 				</div>
 					</div>
 								</div><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" role="group" aria-roledescription="slide" data-swiper-slide-index="2" aria-label="3 / 3" style="width: 402px; margin-right: 10px;">
@@ -1844,10 +1844,10 @@ div#nb-4-configurations {
 											<div class="elementor-testimonial__image">
 							<img decoding="async" data-src="/assets/wp/placeholder.png" alt="Mariana Silva" title="Home 10" src="/assets/wp/placeholder.png" class=" ls-is-cached lazyloaded">
 													</div>
-										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Mariana Silva</span><div class="elementor-star-rating"><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-full">î¤³</i><i class="elementor-star-empty">î¤³</i></div><span class="elementor-testimonial__title">Belo Horizonte, MG</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
+										<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Mariana Silva</span><div class="elementor-star-rating"><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-full"></i><i class="elementor-star-empty"></i></div><span class="elementor-testimonial__title">Belo Horizonte, MG</span></cite>					<div class="elementor-testimonial__icon elementor-icon elementor-icon-" aria-label="Read More"></div>				</div>
 										<div class="elementor-testimonial__content">
 					<div class="elementor-testimonial__text">
-						"Amei a experiÃªncia, principalmente os passeios exclusivos. O Ãºnico ponto a melhorar seria o tempo de transfer do aeroporto ao hotel."					</div>
+						"Amei a experiência, principalmente os passeios exclusivos. O único ponto a melhorar seria o tempo de transfer do aeroporto ao hotel."					</div>
 				</div>
 					</div>
 								</div></div>
@@ -1871,7 +1871,7 @@ div#nb-4-configurations {
 				</div>
 				<div class="elementor-element elementor-element-42e81ac elementor-widget elementor-widget-text-editor" data-id="42e81ac" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Reserve seu transfer do aeroporto ou hotel e desfrute de uma viagem pontual, confortÃ¡vel e segura.</p>								</div>
+									<p>Reserve seu transfer do aeroporto ou hotel e desfrute de uma viagem pontual, confortável e segura.</p>								</div>
 				</div>
 				</div>
 				</div>
@@ -1884,11 +1884,11 @@ div#nb-4-configurations {
 				</div>
 				<div class="elementor-element elementor-element-3264eb0 elementor-widget elementor-widget-heading" data-id="3264eb0" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Transfer em Ã”nibus Compartilhado</h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default">Transfer em Ônibus Compartilhado</h2>				</div>
 				</div>
 				<div class="elementor-element elementor-element-fd6396a elementor-widget elementor-widget-text-editor" data-id="fd6396a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p data-start="140" data-end="300">Viaje com conforto e economia em um <strong data-start="176" data-end="198">Ã´nibus climatizado</strong>, com embarques regulares e motoristas experientes. Ideal para quem busca praticidade em Punta Cana.</p>								</div>
+									<p data-start="140" data-end="300">Viaje com conforto e economia em um <strong data-start="176" data-end="198">ônibus climatizado</strong>, com embarques regulares e motoristas experientes. Ideal para quem busca praticidade em Punta Cana.</p>								</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-9c60cce e-con-full e-flex e-con e-child" data-id="9c60cce" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
@@ -1902,7 +1902,7 @@ div#nb-4-configurations {
 				</div>
 				<div class="elementor-element elementor-element-e147a00 elementor-widget elementor-widget-text-editor" data-id="e147a00" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p data-start="140" data-end="300">Tenha <strong data-start="352" data-end="383">mais conforto e privacidade</strong> com nosso transfer exclusivo em van. Perfeito para famÃ­lias ou pequenos grupos, com ar-condicionado e horÃ¡rios flexÃ­veis.</p>								</div>
+									<p data-start="140" data-end="300">Tenha <strong data-start="352" data-end="383">mais conforto e privacidade</strong> com nosso transfer exclusivo em van. Perfeito para famílias ou pequenos grupos, com ar-condicionado e horários flexíveis.</p>								</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-3b4e222 e-con-full e-flex e-con e-child" data-id="3b4e222" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
@@ -1912,11 +1912,11 @@ div#nb-4-configurations {
 				</div>
 				<div class="elementor-element elementor-element-63a0de7 elementor-widget elementor-widget-heading" data-id="63a0de7" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Transfer AcessÃ­vel com Van Adaptada</h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default">Transfer Acessível com Van Adaptada</h2>				</div>
 				</div>
 				<div class="elementor-element elementor-element-51b9b6a elementor-widget elementor-widget-text-editor" data-id="51b9b6a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p data-start="140" data-end="300">Viaje com <strong data-start="572" data-end="602">seguranÃ§a e acessibilidade</strong> em nossa van adaptada com rampa para cadeirantes. EspaÃ§o amplo e motorista preparado para um trajeto tranquilo.</p>								</div>
+									<p data-start="140" data-end="300">Viaje com <strong data-start="572" data-end="602">segurança e acessibilidade</strong> em nossa van adaptada com rampa para cadeirantes. Espaço amplo e motorista preparado para um trajeto tranquilo.</p>								</div>
 				</div>
 				</div>
 				</div>
@@ -1943,7 +1943,7 @@ div#nb-4-configurations {
 				<div class="elementor-element elementor-element-8a59f57 elementor-widget elementor-widget-counter" data-id="8a59f57" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-counter">
-			<p class="elementor-counter-title">AvaliaÃ§Ã£o de satisfaÃ§Ã£o dos clientes</p>			<div class="elementor-counter-number-wrapper">
+			<p class="elementor-counter-title">Avaliação de satisfação dos clientes</p>			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="98" data-from-value="0" data-delimiter=",">98</span>
 				<span class="elementor-counter-number-suffix">%</span>
@@ -1956,7 +1956,7 @@ div#nb-4-configurations {
 				<div class="elementor-element elementor-element-4da05f3 elementor-widget elementor-widget-counter" data-id="4da05f3" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-counter">
-			<p class="elementor-counter-title">Passeios e experiÃªncias disponÃ­veis</p>			<div class="elementor-counter-number-wrapper">
+			<p class="elementor-counter-title">Passeios e experiências disponíveis</p>			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="30" data-from-value="0" data-delimiter=",">30</span>
 				<span class="elementor-counter-number-suffix">+</span>
@@ -1969,7 +1969,7 @@ div#nb-4-configurations {
 				<div class="elementor-element elementor-element-5de982e elementor-widget elementor-widget-counter" data-id="5de982e" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-counter">
-			<p class="elementor-counter-title">Brasileiros atendidos com excelÃªncia</p>			<div class="elementor-counter-number-wrapper">
+			<p class="elementor-counter-title">Brasileiros atendidos com excelência</p>			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix">+</span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="5000" data-from-value="0" data-delimiter=".">5.000</span>
 				<span class="elementor-counter-number-suffix"></span>
@@ -1982,7 +1982,7 @@ div#nb-4-configurations {
 				<div class="elementor-element elementor-element-0b3ce99 elementor-widget elementor-widget-counter" data-id="0b3ce99" data-element_type="widget" data-e-type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
 							<div class="elementor-counter">
-			<p class="elementor-counter-title">Lugares paradisÃ­acos visitados</p>			<div class="elementor-counter-number-wrapper">
+			<p class="elementor-counter-title">Lugares paradisíacos visitados</p>			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix">+</span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="600" data-from-value="0" data-delimiter=",">600</span>
 				<span class="elementor-counter-number-suffix"></span>
@@ -2008,7 +2008,7 @@ div#nb-4-configurations {
 				</div>
 				<div class="elementor-element elementor-element-716d20d elementor-widget elementor-widget-text-editor" data-id="716d20d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Descubra roteiros imperdÃ­veis, curiosidades locais, recomendaÃ§Ãµes de restaurantes e dicas prÃ¡ticas para aproveitar cada momento em Punta Cana.</p>								</div>
+									<p>Descubra roteiros imperdíveis, curiosidades locais, recomendações de restaurantes e dicas práticas para aproveitar cada momento em Punta Cana.</p>								</div>
 				</div>
 				</div>
 				</div>
@@ -2022,12 +2022,12 @@ div#nb-4-configurations {
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
 			<a href="/o-que-fazer-em-punta-cana-em-2026-guia-para-brasileiros/">
-				O que fazer em Punta Cana em 2026 â€“ Guia para Brasileiros			</a>
+				O que fazer em Punta Cana em 2026 – Guia para Brasileiros			</a>
 		</h3>
 					<div class="elementor-post__read-more-wrapper">
 		
-		<a class="elementor-post__read-more" href="/o-que-fazer-em-punta-cana-em-2026-guia-para-brasileiros/" aria-label="Read more about O que fazer em Punta Cana em 2026 â€“ Guia para Brasileiros" tabindex="-1">
-			Ler Mais Â»		</a>
+		<a class="elementor-post__read-more" href="/o-que-fazer-em-punta-cana-em-2026-guia-para-brasileiros/" aria-label="Read more about O que fazer em Punta Cana em 2026 – Guia para Brasileiros" tabindex="-1">
+			Ler Mais »		</a>
 
 					</div>
 				</div>
@@ -2046,12 +2046,12 @@ div#nb-4-configurations {
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
 			<a href="/%f0%9f%9a%9cbuggies-em-macao-aventura-lama-e-cenote-em-punta-cana/">
-				<img draggable="false" role="img" class="emoji" alt="ðŸšœ" src="/assets/wp/1f69c.svg">â€Buggies em Macao: Aventura, lama e cenote em Punta Canaâ€			</a>
+				<img draggable="false" role="img" class="emoji" alt="🚜" src="/assets/wp/1f69c.svg">”Buggies em Macao: Aventura, lama e cenote em Punta Cana”			</a>
 		</h3>
 					<div class="elementor-post__read-more-wrapper">
 		
-		<a class="elementor-post__read-more" href="/%f0%9f%9a%9cbuggies-em-macao-aventura-lama-e-cenote-em-punta-cana/" aria-label="Read more about ðŸšœâ€Buggies em Macao: Aventura, lama e cenote em Punta Canaâ€" tabindex="-1">
-			Ler Mais Â»		</a>
+		<a class="elementor-post__read-more" href="/%f0%9f%9a%9cbuggies-em-macao-aventura-lama-e-cenote-em-punta-cana/" aria-label="Read more about 🚜”Buggies em Macao: Aventura, lama e cenote em Punta Cana”" tabindex="-1">
+			Ler Mais »		</a>
 
 					</div>
 				</div>
@@ -2070,12 +2070,12 @@ div#nb-4-configurations {
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
 			<a href="/%f0%9f%a5%b3-coco-bongo-a-balada-mais-incrivel-de-punta-cana/">
-				<img draggable="false" role="img" class="emoji" alt="ðŸ¥³" src="/assets/wp/1f973.svg"> â€œCoco Bongo: a balada mais incrÃ­vel de Punta Cana!â€			</a>
+				<img draggable="false" role="img" class="emoji" alt="🥳" src="/assets/wp/1f973.svg"> “Coco Bongo: a balada mais incrível de Punta Cana!”			</a>
 		</h3>
 					<div class="elementor-post__read-more-wrapper">
 		
-		<a class="elementor-post__read-more" href="/%f0%9f%a5%b3-coco-bongo-a-balada-mais-incrivel-de-punta-cana/" aria-label="Read more about ðŸ¥³ â€œCoco Bongo: a balada mais incrÃ­vel de Punta Cana!â€" tabindex="-1">
-			Ler Mais Â»		</a>
+		<a class="elementor-post__read-more" href="/%f0%9f%a5%b3-coco-bongo-a-balada-mais-incrivel-de-punta-cana/" aria-label="Read more about 🥳 “Coco Bongo: a balada mais incrível de Punta Cana!”" tabindex="-1">
+			Ler Mais »		</a>
 
 					</div>
 				</div>
@@ -2118,7 +2118,7 @@ div#nb-4-configurations {
 				</div>
 				<div class="elementor-element elementor-element-d80b723 elementor-widget elementor-widget-text-editor" data-id="d80b723" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p><span style="color: #4b5563; font-family: Poppins, sans-serif; font-size: medium; background-color: #f9fafb;">Compartilhe suas fotos usando&nbsp;</span><span class="text-ocean font-semibold" style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; font-weight: 600; --tw-text-opacity: 1; color: #3772c0; font-family: Poppins, sans-serif; font-size: medium; background-color: #f9fafb; border: 0px solid #e2e8f0;" data-lov-id="src/components/InstagramFeed.tsx:51:42" data-lov-name="span" data-component-path="src/components/InstagramFeed.tsx" data-component-line="51" data-component-file="InstagramFeed.tsx" data-component-name="span" data-component-content="%7B%22text%22%3A%22%23PuntaCanaBR%22%2C%22className%22%3A%22text-ocean%20font-semibold%22%7D">#PuntaCanaBR</span><span style="color: #4b5563; font-family: Poppins, sans-serif; font-size: medium; background-color: #f9fafb;"> e acompanhe nossas publicaÃ§Ãµes no @puntacanaparabrasileiros</span></p>								</div>
+									<p><span style="color: #4b5563; font-family: Poppins, sans-serif; font-size: medium; background-color: #f9fafb;">Compartilhe suas fotos usando&nbsp;</span><span class="text-ocean font-semibold" style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; font-weight: 600; --tw-text-opacity: 1; color: #3772c0; font-family: Poppins, sans-serif; font-size: medium; background-color: #f9fafb; border: 0px solid #e2e8f0;" data-lov-id="src/components/InstagramFeed.tsx:51:42" data-lov-name="span" data-component-path="src/components/InstagramFeed.tsx" data-component-line="51" data-component-file="InstagramFeed.tsx" data-component-name="span" data-component-content="%7B%22text%22%3A%22%23PuntaCanaBR%22%2C%22className%22%3A%22text-ocean%20font-semibold%22%7D">#PuntaCanaBR</span><span style="color: #4b5563; font-family: Poppins, sans-serif; font-size: medium; background-color: #f9fafb;"> e acompanhe nossas publicações no @puntacanaparabrasileiros</span></p>								</div>
 				</div>
 				</div>
 				</div>
@@ -2202,34 +2202,34 @@ div#nb-4-configurations {
             
         </div>
 
-        <a class="sbi_link_area nofancybox sbi_had_error" rel="nofollow noopener" href="/assets/wp/730226351_17976753729029324_3299404305074827708_nfull.webp" data-lightbox-sbi="1" data-title="Mesmo com a indicaÃ§Ã£o de um amigo, o medo bateu. Afinal, hoje em dia confiar em alguÃ©m pela internet nÃ£o Ã© tÃ£o simples.&lt;br&gt;
+        <a class="sbi_link_area nofancybox sbi_had_error" rel="nofollow noopener" href="/assets/wp/730226351_17976753729029324_3299404305074827708_nfull.webp" data-lightbox-sbi="1" data-title="Mesmo com a indicação de um amigo, o medo bateu. Afinal, hoje em dia confiar em alguém pela internet não é tão simples.&lt;br&gt;
 &lt;br&gt;
-Mas resolveram dar esse voto de confianÃ§a.&lt;br&gt;
+Mas resolveram dar esse voto de confiança.&lt;br&gt;
 &lt;br&gt;
-E foi aÃ­ que descobriram que existe uma diferenÃ§a enorme entre apenas vender um passeioâ€¦ e cuidar de toda a experiÃªncia.&lt;br&gt;
+E foi aí que descobriram que existe uma diferença enorme entre apenas vender um passeio… e cuidar de toda a experiência.&lt;br&gt;
 &lt;br&gt;
-Aqui, eles foram atendidos pelo casal Anna, que Ã© brasileira e pelo Danilo, que viveu no Brasil e conhece exatamente o que os brasileiros esperam de um dia perfeito em Punta Cana.&lt;br&gt;
+Aqui, eles foram atendidos pelo casal Anna, que é brasileira e pelo Danilo, que viveu no Brasil e conhece exatamente o que os brasileiros esperam de um dia perfeito em Punta Cana.&lt;br&gt;
 &lt;br&gt;
 Sem pegadinhas.&lt;br&gt;
-Sem enrolaÃ§Ã£o.&lt;br&gt;
+Sem enrolação.&lt;br&gt;
 Sem turismo de massa.&lt;br&gt;
 &lt;br&gt;
-SÃ³ atendimento de verdade, organizaÃ§Ã£o, conforto e uma experiÃªncia que fica para sempre na memÃ³ria.&lt;br&gt;
+Só atendimento de verdade, organização, conforto e uma experiência que fica para sempre na memória.&lt;br&gt;
 &lt;br&gt;
-ðŸ’™ Porque a Saona Premium Brasil Ã© mais que VIP. Ã‰ a Ãºnica verdadeiramente Premium.&lt;br&gt;
+💙 Porque a Saona Premium Brasil é mais que VIP. É a única verdadeiramente Premium.&lt;br&gt;
 &lt;br&gt;
-E quando o assunto Ã© fazer passeios com seguranÃ§a, atendimento em portuguÃªs e uma equipe que realmente se importaâ€¦&lt;br&gt;
+E quando o assunto é fazer passeios com segurança, atendimento em português e uma equipe que realmente se importa…&lt;br&gt;
 &lt;br&gt;
-Punta Cana para brasileiros Ã© com a Punta Cana para Brasileiros. ðŸ‡§ðŸ‡·ðŸŒ´&lt;br&gt;
+Punta Cana para brasileiros é com a Punta Cana para Brasileiros. 🇧🇷🌴&lt;br&gt;
 &lt;br&gt;
-ðŸ‘‰ Fale com a gente agora pelo WhatsApp: +1 (829) 458-2170 e garanta sua vaga.&lt;br&gt;
+👉 Fale com a gente agora pelo WhatsApp: +1 (829) 458-2170 e garanta sua vaga.&lt;br&gt;
 @puntacanaparabrasileiros &lt;br&gt;
 &lt;br&gt;
-âš ï¸ Nossas saÃ­das sÃ£o limitadas e costumam esgotar com antecedÃªncia.&lt;br&gt;
+⚠️ Nossas saídas são limitadas e costumam esgotar com antecedência.&lt;br&gt;
 &lt;br&gt;
-Agora conta pra genteâ€¦&lt;br&gt;
+Agora conta pra gente…&lt;br&gt;
 &lt;br&gt;
-VocÃª tambÃ©m teria desconfiado ou jÃ¡ reservaria na hora? ðŸ‘‡&lt;br&gt;
+Você também teria desconfiado ou já reservaria na hora? 👇&lt;br&gt;
 &lt;br&gt;
 #Brasil #PuntaCana #PuntaCanaParaBrasileiros #SaonaPremiumBrasil  #Saona" data-video="https://scontent-gru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQNVh0OxYsbDiH9PrhcihVC4bIsWU9XAd_GkJz7mHo_4ceIsn2-im3rgAGOoHqUfmDoU1vGWG25lEBuQ7LTbQEWQo3Wb8ZEWj8BLFm4.mp4?_nc_cat=111&amp;_nc_sid=5e9851&amp;_nc_ht=scontent-gru2-1.cdninstagram.com&amp;_nc_ohc=uzSVyUK_IQEQ7kNvwFBXJaO&amp;efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6OTkwNTY1MjI2OTI4Nzg5LCJhc3NldF9hZ2VfZGF5cyI6MiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&amp;ccb=17-1&amp;vs=ebf8685c8fa14756&amp;_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80NTRCMTg0QjI1OTQ5MTgxOEZEMjdEREM3QTY4MEZCMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzgxNDI3QzRCODBCMzA3NUNCNDhFQ0U1M0Y5NzU1MDlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaq6tKHvrrCAxUCKAJDMywXQDrmZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;edm=ANo9K5cEAAAA&amp;_nc_zt=28&amp;_nc_tpa=Q5bMBQH7W1oH1uAN6ebVH9E-2bN7xMKms8u8ZIHMCCnWy4q8Yb_SzAnm_CC4-mt3K7i_eqnwVazkn99C7g&amp;oh=00_AQAAks36JABoNlVWRfbgDfcfkJMCSxsQqdPY2DIosMGYEA&amp;oe=6A4885C0" data-carousel="" data-id="sbi_18095278910258858" data-user="puntacanaparabrasileiros" data-url="https://www.instagram.com/reel/DaNixGSBJ1N/" data-avatar="https://scontent-gru1-2.cdninstagram.com/v/t51.82787-19/537468928_17941652556029324_884587906712568409_n.jpg?stp=dst-jpg_s206x206_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDUuQzMifQ%3D%3D&amp;_nc_ohc=Gap_2qhbPM0Q7kNvwHjmZQo&amp;_nc_oc=Adq9E-K51CfNrQFtUHI-fMdB0z1sYX8-j9cSCov6n54u5a4lH9Kl7oqruJUFcc-um_I&amp;_nc_zt=24&amp;_nc_ht=scontent-gru1-2.cdninstagram.com&amp;edm=AP4hL3IEAAAA&amp;_nc_gid=yyDsdnUmqwWqxBFtBQNhug&amp;_nc_tpa=Q5bMBQHCOmXBhU6u4XkcnYjey3-Bd6JRMy5YJZAXgSDZNVYoxLRZMOLOYHg3BZ_f74i4BOCXzxJTARBkqg&amp;oh=00_Af4rYs9usW88xm7O768HjSy789c97kxyA7ZRDgI0Qo9x1g&amp;oe=6A1A6452" data-account-type="business" data-iframe="" data-media-type="reels" data-posted-on="" data-custom-avatar="" target="_blank">
             <span class="sbi-screenreader">
@@ -2238,34 +2238,34 @@ VocÃª tambÃ©m teria desconfiado ou jÃ¡ reservaria na hora? ðŸ‘‡&lt;b
     </div>
 
     <a class="sbi_photo sbi_imgLiquid_bgSize sbi_imgLiquid_ready" target="_blank" rel="nofollow noopener" href="https://www.instagram.com/reel/DaNixGSBJ1N/" data-full-res="/wp-content/uploads/sb-instagram-feed-images/730226351_17976753729029324_3299404305074827708_nfull.webp" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-gru1-1.cdninstagram.com\/v\/t51.82787-15\/730226351_17976753729029324_3299404305074827708_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=2H7raMRVhrcQ7kNvwGtPJ2w&amp;_nc_oc=AdrBAb4kCDQWbfyOFkKJIJWIba9tkPyPNYWNd0JExrk88wGXPBwcg3506fAcjhatVtw&amp;_nc_zt=23&amp;_nc_ht=scontent-gru1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQGbinrUz8T6uYuuFMHrNa1fiFN1EQ5iHeM2BSn059RS9CIEpP0Zq9qsar3dU82CkLK6FoHOzCoqoQ&amp;oh=00_AQDxS0ogHGHXPFv6V5ijtgq7BsdOtTyEPCg6PUE2G1-spA&amp;oe=6A4C7358&quot;,&quot;150&quot;:&quot;https:\/\/scontent-gru1-1.cdninstagram.com\/v\/t51.82787-15\/730226351_17976753729029324_3299404305074827708_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=2H7raMRVhrcQ7kNvwGtPJ2w&amp;_nc_oc=AdrBAb4kCDQWbfyOFkKJIJWIba9tkPyPNYWNd0JExrk88wGXPBwcg3506fAcjhatVtw&amp;_nc_zt=23&amp;_nc_ht=scontent-gru1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQGbinrUz8T6uYuuFMHrNa1fiFN1EQ5iHeM2BSn059RS9CIEpP0Zq9qsar3dU82CkLK6FoHOzCoqoQ&amp;oh=00_AQDxS0ogHGHXPFv6V5ijtgq7BsdOtTyEPCg6PUE2G1-spA&amp;oe=6A4C7358&quot;,&quot;320&quot;:&quot;https:\/\/scontent-gru1-1.cdninstagram.com\/v\/t51.82787-15\/730226351_17976753729029324_3299404305074827708_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=2H7raMRVhrcQ7kNvwGtPJ2w&amp;_nc_oc=AdrBAb4kCDQWbfyOFkKJIJWIba9tkPyPNYWNd0JExrk88wGXPBwcg3506fAcjhatVtw&amp;_nc_zt=23&amp;_nc_ht=scontent-gru1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQGbinrUz8T6uYuuFMHrNa1fiFN1EQ5iHeM2BSn059RS9CIEpP0Zq9qsar3dU82CkLK6FoHOzCoqoQ&amp;oh=00_AQDxS0ogHGHXPFv6V5ijtgq7BsdOtTyEPCg6PUE2G1-spA&amp;oe=6A4C7358&quot;,&quot;640&quot;:&quot;https:\/\/scontent-gru1-1.cdninstagram.com\/v\/t51.82787-15\/730226351_17976753729029324_3299404305074827708_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=101&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=2H7raMRVhrcQ7kNvwGtPJ2w&amp;_nc_oc=AdrBAb4kCDQWbfyOFkKJIJWIba9tkPyPNYWNd0JExrk88wGXPBwcg3506fAcjhatVtw&amp;_nc_zt=23&amp;_nc_ht=scontent-gru1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQGbinrUz8T6uYuuFMHrNa1fiFN1EQ5iHeM2BSn059RS9CIEpP0Zq9qsar3dU82CkLK6FoHOzCoqoQ&amp;oh=00_AQDxS0ogHGHXPFv6V5ijtgq7BsdOtTyEPCg6PUE2G1-spA&amp;oe=6A4C7358&quot;}" style="height: 221.875px; background-image: url(&quot;/wp-content/uploads/sb-instagram-feed-images/730226351_17976753729029324_3299404305074827708_nlow.webp&quot;); background-size: cover; background-position: center center; background-repeat: no-repeat; padding-bottom: 0px;">
-        <img decoding="async" data-src="/wp-content/uploads/sb-instagram-feed-images/730226351_17976753729029324_3299404305074827708_nfull.webp" alt="Mesmo com a indicaÃ§Ã£o de um amigo, o medo bateu. Afinal, hoje em dia confiar em alguÃ©m pela internet nÃ£o Ã© tÃ£o simples.
+        <img decoding="async" data-src="/wp-content/uploads/sb-instagram-feed-images/730226351_17976753729029324_3299404305074827708_nfull.webp" alt="Mesmo com a indicação de um amigo, o medo bateu. Afinal, hoje em dia confiar em alguém pela internet não é tão simples.
 
-Mas resolveram dar esse voto de confianÃ§a.
+Mas resolveram dar esse voto de confiança.
 
-E foi aÃ­ que descobriram que existe uma diferenÃ§a enorme entre apenas vender um passeioâ€¦ e cuidar de toda a experiÃªncia.
+E foi aí que descobriram que existe uma diferença enorme entre apenas vender um passeio… e cuidar de toda a experiência.
 
-Aqui, eles foram atendidos pelo casal Anna, que Ã© brasileira e pelo Danilo, que viveu no Brasil e conhece exatamente o que os brasileiros esperam de um dia perfeito em Punta Cana.
+Aqui, eles foram atendidos pelo casal Anna, que é brasileira e pelo Danilo, que viveu no Brasil e conhece exatamente o que os brasileiros esperam de um dia perfeito em Punta Cana.
 
 Sem pegadinhas.
-Sem enrolaÃ§Ã£o.
+Sem enrolação.
 Sem turismo de massa.
 
-SÃ³ atendimento de verdade, organizaÃ§Ã£o, conforto e uma experiÃªncia que fica para sempre na memÃ³ria.
+Só atendimento de verdade, organização, conforto e uma experiência que fica para sempre na memória.
 
-ðŸ’™ Porque a Saona Premium Brasil Ã© mais que VIP. Ã‰ a Ãºnica verdadeiramente Premium.
+💙 Porque a Saona Premium Brasil é mais que VIP. É a única verdadeiramente Premium.
 
-E quando o assunto Ã© fazer passeios com seguranÃ§a, atendimento em portuguÃªs e uma equipe que realmente se importaâ€¦
+E quando o assunto é fazer passeios com segurança, atendimento em português e uma equipe que realmente se importa…
 
-Punta Cana para brasileiros Ã© com a Punta Cana para Brasileiros. ðŸ‡§ðŸ‡·ðŸŒ´
+Punta Cana para brasileiros é com a Punta Cana para Brasileiros. 🇧🇷🌴
 
-ðŸ‘‰ Fale com a gente agora pelo WhatsApp: +1 (829) 458-2170 e garanta sua vaga.
+👉 Fale com a gente agora pelo WhatsApp: +1 (829) 458-2170 e garanta sua vaga.
 @puntacanaparabrasileiros 
 
-âš ï¸ Nossas saÃ­das sÃ£o limitadas e costumam esgotar com antecedÃªncia.
+⚠️ Nossas saídas são limitadas e costumam esgotar com antecedência.
 
-Agora conta pra genteâ€¦
+Agora conta pra gente…
 
-VocÃª tambÃ©m teria desconfiado ou jÃ¡ reservaria na hora? ðŸ‘‡
+Você também teria desconfiado ou já reservaria na hora? 👇
 
 #Brasil #PuntaCana #PuntaCanaParaBrasileiros #SaonaPremiumBrasil  #Saona" title="Home 18" src="/assets/wp/730226351_17976753729029324_3299404305074827708_nlow.webp" class="lazyload" style="--smush-placeholder-width: 1000px; --smush-placeholder-aspect-ratio: 1000/560; display: none;">
     </a>
@@ -2360,26 +2360,26 @@ VocÃª tambÃ©m teria desconfiado ou jÃ¡ reservaria na hora? ðŸ‘‡
             
         </div>
 
-        <a class="sbi_link_area nofancybox sbi_had_error" rel="nofollow noopener" href="/assets/wp/729736381_17976209505029324_3387137599933011519_nfull.webp" data-lightbox-sbi="1" data-title="ðŸš¨ VocÃª tambÃ©m acharia que ia dar erradoâ€¦ atÃ© descobrir o que eles estavam vendo. ðŸ˜‚ðŸ‘‡&lt;br&gt;
+        <a class="sbi_link_area nofancybox sbi_had_error" rel="nofollow noopener" href="/assets/wp/729736381_17976209505029324_3387137599933011519_nfull.webp" data-lightbox-sbi="1" data-title="🚨 Você também acharia que ia dar errado… até descobrir o que eles estavam vendo. 😂👇&lt;br&gt;
 &lt;br&gt;
-No filme Ã© tensÃ£o. Em Punta Cana, Ã© adrenalina da melhor qualidade! ðŸ˜ðŸŒ´&lt;br&gt;
+No filme é tensão. Em Punta Cana, é adrenalina da melhor qualidade! 😍🌴&lt;br&gt;
 &lt;br&gt;
-Olha nossos clientes sobrevoando o mar azul-turquesa no Parasailing. A vista lÃ¡ de cima Ã© simplesmente surreal. &lt;br&gt;
+Olha nossos clientes sobrevoando o mar azul-turquesa no Parasailing. A vista lá de cima é simplesmente surreal. &lt;br&gt;
 &lt;br&gt;
-VocÃª sÃ³ precisa relaxar, apreciar a vista e criar uma lembranÃ§a que vai ficar para sempre.&lt;br&gt;
+Você só precisa relaxar, apreciar a vista e criar uma lembrança que vai ficar para sempre.&lt;br&gt;
 &lt;br&gt;
-Ã‰ por isso que milhares de brasileiros escolhem viajar com quem realmente conhece Punta Cana.&lt;br&gt;
+É por isso que milhares de brasileiros escolhem viajar com quem realmente conhece Punta Cana.&lt;br&gt;
 &lt;br&gt;
-ðŸ‡§ðŸ‡· Punta Cana para brasileiros Ã© com a Punta Cana para Brasileiros.&lt;br&gt;
+🇧🇷 Punta Cana para brasileiros é com a Punta Cana para Brasileiros.&lt;br&gt;
 &lt;br&gt;
-Sem dor de cabeÃ§a, sem pegadinhas e com atendimento em portuguÃªs do inÃ­cio ao fim. â¤ï¸&lt;br&gt;
+Sem dor de cabeça, sem pegadinhas e com atendimento em português do início ao fim. ❤️&lt;br&gt;
 &lt;br&gt;
-ðŸ“² Fale com a gente agora pelo WhatsApp: +1 (829) 458-2170 e garanta sua vaga.&lt;br&gt;
+📲 Fale com a gente agora pelo WhatsApp: +1 (829) 458-2170 e garanta sua vaga.&lt;br&gt;
 @puntacanaparabrasileiros &lt;br&gt;
 &lt;br&gt;
-âš ï¸ As saÃ­das sÃ£o limitadas, entÃ£o reserve suas excursÃµes com antecedÃªncia.&lt;br&gt;
+⚠️ As saídas são limitadas, então reserve suas excursões com antecedência.&lt;br&gt;
 &lt;br&gt;
-ðŸ‘‡ Agora responde: vocÃª teria coragem de voar ou ia travar igual os passageiros do comeÃ§o do vÃ­deo? ðŸ˜‚âœˆï¸&lt;br&gt;
+👇 Agora responde: você teria coragem de voar ou ia travar igual os passageiros do começo do vídeo? 😂✈️&lt;br&gt;
 &lt;br&gt;
 #Brasil #PuntaCana #PuntaCanaParaBrasileiros #SaonaPremiumBrasil #Parasailing" data-video="https://scontent-gru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQPbvwhhqdgoheUg2AU4Vk6TMapU8x5jfuLUQEKuhmBMsY4F6ZtGQyMgL6d-HNDY5cVuHzh92oXrS1stpuv0Fccf5fznpYGanLCgFVg.mp4?_nc_cat=109&amp;_nc_sid=5e9851&amp;_nc_ht=scontent-gru2-1.cdninstagram.com&amp;_nc_ohc=3M4tLJaPbB8Q7kNvwE2sDGc&amp;efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6NzY0OTk5OTA2Njc1NTU5LCJhc3NldF9hZ2VfZGF5cyI6NiwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&amp;ccb=17-1&amp;vs=70f7729eaa89aec7&amp;_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83RTQ1REVGMzhGRkJDNDQ5MUQ4NjRBODYwQzk5OEU4Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RFNDlFMzI4RTc1MDE4NDg4NjdBRTEwOEQyNzIzRDg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbOrYa77fDbAhUCKAJDMywXQDuIcrAgxJwYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;edm=ANo9K5cEAAAA&amp;_nc_zt=28&amp;_nc_tpa=Q5bMBQEkMfhcMCJZbMeWSLNVVdf1fJp44tYNvAJSHkA_Xf5NF3-jaT2KK0DfeJVx77k94NZdB66rqHVnkw&amp;oh=00_AQBIOsWHFWgVzjJXZEMzME-pn4EWM_57_snOObh6Viyvvg&amp;oe=6A48893E" data-carousel="" data-id="sbi_18084164108175490" data-user="puntacanaparabrasileiros" data-url="https://www.instagram.com/reel/DaDi9OgB9eZ/" data-avatar="https://scontent-gru1-2.cdninstagram.com/v/t51.82787-19/537468928_17941652556029324_884587906712568409_n.jpg?stp=dst-jpg_s206x206_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDUuQzMifQ%3D%3D&amp;_nc_ohc=Gap_2qhbPM0Q7kNvwHjmZQo&amp;_nc_oc=Adq9E-K51CfNrQFtUHI-fMdB0z1sYX8-j9cSCov6n54u5a4lH9Kl7oqruJUFcc-um_I&amp;_nc_zt=24&amp;_nc_ht=scontent-gru1-2.cdninstagram.com&amp;edm=AP4hL3IEAAAA&amp;_nc_gid=yyDsdnUmqwWqxBFtBQNhug&amp;_nc_tpa=Q5bMBQHCOmXBhU6u4XkcnYjey3-Bd6JRMy5YJZAXgSDZNVYoxLRZMOLOYHg3BZ_f74i4BOCXzxJTARBkqg&amp;oh=00_Af4rYs9usW88xm7O768HjSy789c97kxyA7ZRDgI0Qo9x1g&amp;oe=6A1A6452" data-account-type="business" data-iframe="" data-media-type="reels" data-posted-on="" data-custom-avatar="" target="_blank">
             <span class="sbi-screenreader">
@@ -2388,26 +2388,26 @@ Sem dor de cabeÃ§a, sem pegadinhas e com atendimento em portuguÃªs do inÃ­
     </div>
 
     <a class="sbi_photo sbi_imgLiquid_bgSize sbi_imgLiquid_ready" target="_blank" rel="nofollow noopener" href="https://www.instagram.com/reel/DaDi9OgB9eZ/" data-full-res="/wp-content/uploads/sb-instagram-feed-images/729736381_17976209505029324_3387137599933011519_nfull.webp" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/729736381_17976209505029324_3387137599933011519_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=kJI2e6fol8YQ7kNvwEdVUXW&amp;_nc_oc=AdqFpYne_tX2eWLut3xDrVY6MEthSdD-QlBkqs0lQuU7TboipHeeNUoUYgm4wg8NxyI&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQHP8U6OhXRO8FM2QrHShAW6UOUTCw-nmLxl6akMGvD2HQUn4hAL4pCDnKBn92_7mPhMGc-rpCtUSw&amp;oh=00_AQC5lbA3C7acwIZaUaIxOukVH-IXHJj8qEbSkg7k1F6Thg&amp;oe=6A4C544D&quot;,&quot;150&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/729736381_17976209505029324_3387137599933011519_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=kJI2e6fol8YQ7kNvwEdVUXW&amp;_nc_oc=AdqFpYne_tX2eWLut3xDrVY6MEthSdD-QlBkqs0lQuU7TboipHeeNUoUYgm4wg8NxyI&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQHP8U6OhXRO8FM2QrHShAW6UOUTCw-nmLxl6akMGvD2HQUn4hAL4pCDnKBn92_7mPhMGc-rpCtUSw&amp;oh=00_AQC5lbA3C7acwIZaUaIxOukVH-IXHJj8qEbSkg7k1F6Thg&amp;oe=6A4C544D&quot;,&quot;320&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/729736381_17976209505029324_3387137599933011519_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=kJI2e6fol8YQ7kNvwEdVUXW&amp;_nc_oc=AdqFpYne_tX2eWLut3xDrVY6MEthSdD-QlBkqs0lQuU7TboipHeeNUoUYgm4wg8NxyI&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQHP8U6OhXRO8FM2QrHShAW6UOUTCw-nmLxl6akMGvD2HQUn4hAL4pCDnKBn92_7mPhMGc-rpCtUSw&amp;oh=00_AQC5lbA3C7acwIZaUaIxOukVH-IXHJj8qEbSkg7k1F6Thg&amp;oe=6A4C544D&quot;,&quot;640&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/729736381_17976209505029324_3387137599933011519_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=kJI2e6fol8YQ7kNvwEdVUXW&amp;_nc_oc=AdqFpYne_tX2eWLut3xDrVY6MEthSdD-QlBkqs0lQuU7TboipHeeNUoUYgm4wg8NxyI&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQHP8U6OhXRO8FM2QrHShAW6UOUTCw-nmLxl6akMGvD2HQUn4hAL4pCDnKBn92_7mPhMGc-rpCtUSw&amp;oh=00_AQC5lbA3C7acwIZaUaIxOukVH-IXHJj8qEbSkg7k1F6Thg&amp;oe=6A4C544D&quot;}" style="height: 221.875px; background-image: url(&quot;/wp-content/uploads/sb-instagram-feed-images/729736381_17976209505029324_3387137599933011519_nlow.webp&quot;); background-size: cover; background-position: center center; background-repeat: no-repeat; padding-bottom: 0px;">
-        <img decoding="async" data-src="/wp-content/uploads/sb-instagram-feed-images/729736381_17976209505029324_3387137599933011519_nfull.webp" alt="ðŸš¨ VocÃª tambÃ©m acharia que ia dar erradoâ€¦ atÃ© descobrir o que eles estavam vendo. ðŸ˜‚ðŸ‘‡
+        <img decoding="async" data-src="/wp-content/uploads/sb-instagram-feed-images/729736381_17976209505029324_3387137599933011519_nfull.webp" alt="🚨 Você também acharia que ia dar errado… até descobrir o que eles estavam vendo. 😂👇
 
-No filme Ã© tensÃ£o. Em Punta Cana, Ã© adrenalina da melhor qualidade! ðŸ˜ðŸŒ´
+No filme é tensão. Em Punta Cana, é adrenalina da melhor qualidade! 😍🌴
 
-Olha nossos clientes sobrevoando o mar azul-turquesa no Parasailing. A vista lÃ¡ de cima Ã© simplesmente surreal. 
+Olha nossos clientes sobrevoando o mar azul-turquesa no Parasailing. A vista lá de cima é simplesmente surreal. 
 
-VocÃª sÃ³ precisa relaxar, apreciar a vista e criar uma lembranÃ§a que vai ficar para sempre.
+Você só precisa relaxar, apreciar a vista e criar uma lembrança que vai ficar para sempre.
 
-Ã‰ por isso que milhares de brasileiros escolhem viajar com quem realmente conhece Punta Cana.
+É por isso que milhares de brasileiros escolhem viajar com quem realmente conhece Punta Cana.
 
-ðŸ‡§ðŸ‡· Punta Cana para brasileiros Ã© com a Punta Cana para Brasileiros.
+🇧🇷 Punta Cana para brasileiros é com a Punta Cana para Brasileiros.
 
-Sem dor de cabeÃ§a, sem pegadinhas e com atendimento em portuguÃªs do inÃ­cio ao fim. â¤ï¸
+Sem dor de cabeça, sem pegadinhas e com atendimento em português do início ao fim. ❤️
 
-ðŸ“² Fale com a gente agora pelo WhatsApp: +1 (829) 458-2170 e garanta sua vaga.
+📲 Fale com a gente agora pelo WhatsApp: +1 (829) 458-2170 e garanta sua vaga.
 @puntacanaparabrasileiros 
 
-âš ï¸ As saÃ­das sÃ£o limitadas, entÃ£o reserve suas excursÃµes com antecedÃªncia.
+⚠️ As saídas são limitadas, então reserve suas excursões com antecedência.
 
-ðŸ‘‡ Agora responde: vocÃª teria coragem de voar ou ia travar igual os passageiros do comeÃ§o do vÃ­deo? ðŸ˜‚âœˆï¸
+👇 Agora responde: você teria coragem de voar ou ia travar igual os passageiros do começo do vídeo? 😂✈️
 
 #Brasil #PuntaCana #PuntaCanaParaBrasileiros #SaonaPremiumBrasil #Parasailing" title="Home 20" src="/assets/wp/729736381_17976209505029324_3387137599933011519_nlow.webp" class="lazyload" style="--smush-placeholder-width: 1000px; --smush-placeholder-aspect-ratio: 1000/560; display: none;">
     </a>
@@ -2502,27 +2502,27 @@ Sem dor de cabeÃ§a, sem pegadinhas e com atendimento em portuguÃªs do inÃ­
             
         </div>
 
-        <a class="sbi_link_area nofancybox sbi_had_error" rel="nofollow noopener" href="/assets/wp/724097848_17974347489029324_6048463304484797266_nfull.webp" data-lightbox-sbi="1" data-title="âš ï¸ Se vocÃª acha que TODAS as praias de Punta Cana estÃ£o iguais na mesma Ã©poca do ano, precisa ver isso.&lt;br&gt;
+        <a class="sbi_link_area nofancybox sbi_had_error" rel="nofollow noopener" href="/assets/wp/724097848_17974347489029324_6048463304484797266_nfull.webp" data-lightbox-sbi="1" data-title="⚠️ Se você acha que TODAS as praias de Punta Cana estão iguais na mesma época do ano, precisa ver isso.&lt;br&gt;
 &lt;br&gt;
-Na mesma semana. No mesmo destino. Duas praias. Duas experiÃªncias completamente diferentes. ðŸŒŠðŸï¸&lt;br&gt;
+Na mesma semana. No mesmo destino. Duas praias. Duas experiências completamente diferentes. 🌊🏝️&lt;br&gt;
 &lt;br&gt;
-Enquanto uma pode estar com presenÃ§a de sargaÃ§o, a outra continua com Ã¡guas cristalinas, areia branca e aquele visual que parece ter saÃ­do de um cartÃ£o-postal. âœ¨&lt;br&gt;
+Enquanto uma pode estar com presença de sargaço, a outra continua com águas cristalinas, areia branca e aquele visual que parece ter saído de um cartão-postal. ✨&lt;br&gt;
 &lt;br&gt;
-Ã‰ exatamente por isso que milhares de brasileiros escolhem viajar com quem realmente conhece cada praia, cada temporada e cada detalhe da RepÃºblica Dominicana. ðŸ‡©ðŸ‡´&lt;br&gt;
+É exatamente por isso que milhares de brasileiros escolhem viajar com quem realmente conhece cada praia, cada temporada e cada detalhe da República Dominicana. 🇩🇴&lt;br&gt;
 &lt;br&gt;
-NÃ£o basta vir para Punta Cana. Ã‰ preciso saber ONDE ir e QUANDO ir.&lt;br&gt;
+Não basta vir para Punta Cana. É preciso saber ONDE ir e QUANDO ir.&lt;br&gt;
 &lt;br&gt;
-E Ã© por isso que existe a diferenÃ§a entre um passeio comum e uma experiÃªncia inesquecÃ­vel.&lt;br&gt;
+E é por isso que existe a diferença entre um passeio comum e uma experiência inesquecível.&lt;br&gt;
 &lt;br&gt;
-Punta Cana para brasileiros Ã© com a Punta Cana para Brasileiros.&lt;br&gt;
+Punta Cana para brasileiros é com a Punta Cana para Brasileiros.&lt;br&gt;
 &lt;br&gt;
-Quer descobrir quais sÃ£o as melhores praias para cada Ã©poca do ano e evitar surpresas durante sua viagem?&lt;br&gt;
+Quer descobrir quais são as melhores praias para cada época do ano e evitar surpresas durante sua viagem?&lt;br&gt;
 &lt;br&gt;
-ðŸ“² Fale agora conosco pelo WhatsApp:&lt;br&gt;
+📲 Fale agora conosco pelo WhatsApp:&lt;br&gt;
 +1 (829) 458-2170&lt;br&gt;
 @puntacanaparabrasileiros &lt;br&gt;
 &lt;br&gt;
-âš ï¸ Salve este vÃ­deo para nÃ£o cometer o mesmo erro que faz muitos turistas perderem as melhores praias da RepÃºblica Dominicana.&lt;br&gt;
+⚠️ Salve este vídeo para não cometer o mesmo erro que faz muitos turistas perderem as melhores praias da República Dominicana.&lt;br&gt;
 &lt;br&gt;
 #Brasil #PuntaCana #PuntaCanaParaBrasileiros #SaonaPremiumBrasil #RepublicaDominicana" data-video="https://scontent-gru2-2.cdninstagram.com/o1/v/t2/f2/m86/AQPifL3sUg-5KKfFZLHrN3wkNt2bm_mK8_NBFkEwpnznboi26Mw9YtzUoqJPCqCRIPdu6AJdchx40Zzvh586LAit03T2JlgFqKAgp6g.mp4?_nc_cat=106&amp;_nc_sid=5e9851&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;_nc_ohc=A4A2eKl_JPkQ7kNvwH7ekKC&amp;efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjM2NjYxMzEyNzE1NzkyNCwiYXNzZXRfYWdlX2RheXMiOjE5LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;vs=9c79f2e338dade85&amp;_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNzQwRTFFMUVEN0I4RDJBOEVCMzIzNUYwN0E0MzRCQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0NBNDA0MkM0MkYxRjU4MTZGOUMyMDhFQkI3QUE1MDk3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbI4p7sgZu0CBUCKAJDMywXQDNmZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;edm=ANo9K5cEAAAA&amp;_nc_zt=28&amp;_nc_tpa=Q5bMBQGXWm1jESNSe54SlN3ev_-oI0iD8BWTwYmKaqjO6fc55I6IFx6vE1O-z3DxvT4R0Z8qsp-G6Ehgwg&amp;oh=00_AQAp2a_KIvGAaXenHUgMPl8qoaBoyS1RFMYl3YWNovJlrA&amp;oe=6A488303" data-carousel="" data-id="sbi_18101256764031605" data-user="puntacanaparabrasileiros" data-url="https://www.instagram.com/reel/DZgF3yzhocT/" data-avatar="https://scontent-gru1-2.cdninstagram.com/v/t51.82787-19/537468928_17941652556029324_884587906712568409_n.jpg?stp=dst-jpg_s206x206_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDUuQzMifQ%3D%3D&amp;_nc_ohc=Gap_2qhbPM0Q7kNvwHjmZQo&amp;_nc_oc=Adq9E-K51CfNrQFtUHI-fMdB0z1sYX8-j9cSCov6n54u5a4lH9Kl7oqruJUFcc-um_I&amp;_nc_zt=24&amp;_nc_ht=scontent-gru1-2.cdninstagram.com&amp;edm=AP4hL3IEAAAA&amp;_nc_gid=yyDsdnUmqwWqxBFtBQNhug&amp;_nc_tpa=Q5bMBQHCOmXBhU6u4XkcnYjey3-Bd6JRMy5YJZAXgSDZNVYoxLRZMOLOYHg3BZ_f74i4BOCXzxJTARBkqg&amp;oh=00_Af4rYs9usW88xm7O768HjSy789c97kxyA7ZRDgI0Qo9x1g&amp;oe=6A1A6452" data-account-type="business" data-iframe="" data-media-type="reels" data-posted-on="" data-custom-avatar="" target="_blank">
             <span class="sbi-screenreader">
@@ -2531,27 +2531,27 @@ Quer descobrir quais sÃ£o as melhores praias para cada Ã©poca do ano e evita
     </div>
 
     <a class="sbi_photo sbi_imgLiquid_bgSize sbi_imgLiquid_ready" target="_blank" rel="nofollow noopener" href="https://www.instagram.com/reel/DZgF3yzhocT/" data-full-res="/wp-content/uploads/sb-instagram-feed-images/724097848_17974347489029324_6048463304484797266_nfull.webp" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/724097848_17974347489029324_6048463304484797266_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=I87ll2UEkWkQ7kNvwEIfp57&amp;_nc_oc=AdoOfezU5VwysBG7RnmzVZXHOepFGYZy4FN_o5g1xyBwq8OW8U6xf7k9A0798MW82Gw&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQG4Y7rU-p8_E4Hm5rq9WUFBnK3IPb2Rj-hlv3KRs36rXKBa3r_trdMVDSSLSp0w5bn12Py3Qf9VTw&amp;oh=00_AQAlYk04buQK5-78ls8wuME-4Ufyirkmn-9wat2ANIa5Pg&amp;oe=6A4C6E89&quot;,&quot;150&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/724097848_17974347489029324_6048463304484797266_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=I87ll2UEkWkQ7kNvwEIfp57&amp;_nc_oc=AdoOfezU5VwysBG7RnmzVZXHOepFGYZy4FN_o5g1xyBwq8OW8U6xf7k9A0798MW82Gw&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQG4Y7rU-p8_E4Hm5rq9WUFBnK3IPb2Rj-hlv3KRs36rXKBa3r_trdMVDSSLSp0w5bn12Py3Qf9VTw&amp;oh=00_AQAlYk04buQK5-78ls8wuME-4Ufyirkmn-9wat2ANIa5Pg&amp;oe=6A4C6E89&quot;,&quot;320&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/724097848_17974347489029324_6048463304484797266_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=I87ll2UEkWkQ7kNvwEIfp57&amp;_nc_oc=AdoOfezU5VwysBG7RnmzVZXHOepFGYZy4FN_o5g1xyBwq8OW8U6xf7k9A0798MW82Gw&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQG4Y7rU-p8_E4Hm5rq9WUFBnK3IPb2Rj-hlv3KRs36rXKBa3r_trdMVDSSLSp0w5bn12Py3Qf9VTw&amp;oh=00_AQAlYk04buQK5-78ls8wuME-4Ufyirkmn-9wat2ANIa5Pg&amp;oe=6A4C6E89&quot;,&quot;640&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/724097848_17974347489029324_6048463304484797266_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=I87ll2UEkWkQ7kNvwEIfp57&amp;_nc_oc=AdoOfezU5VwysBG7RnmzVZXHOepFGYZy4FN_o5g1xyBwq8OW8U6xf7k9A0798MW82Gw&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQG4Y7rU-p8_E4Hm5rq9WUFBnK3IPb2Rj-hlv3KRs36rXKBa3r_trdMVDSSLSp0w5bn12Py3Qf9VTw&amp;oh=00_AQAlYk04buQK5-78ls8wuME-4Ufyirkmn-9wat2ANIa5Pg&amp;oe=6A4C6E89&quot;}" style="height: 221.875px; background-image: url(&quot;/wp-content/uploads/sb-instagram-feed-images/724097848_17974347489029324_6048463304484797266_nlow.webp&quot;); background-size: cover; background-position: center center; background-repeat: no-repeat; padding-bottom: 0px;">
-        <img decoding="async" data-src="/wp-content/uploads/sb-instagram-feed-images/724097848_17974347489029324_6048463304484797266_nfull.webp" alt="âš ï¸ Se vocÃª acha que TODAS as praias de Punta Cana estÃ£o iguais na mesma Ã©poca do ano, precisa ver isso.
+        <img decoding="async" data-src="/wp-content/uploads/sb-instagram-feed-images/724097848_17974347489029324_6048463304484797266_nfull.webp" alt="⚠️ Se você acha que TODAS as praias de Punta Cana estão iguais na mesma época do ano, precisa ver isso.
 
-Na mesma semana. No mesmo destino. Duas praias. Duas experiÃªncias completamente diferentes. ðŸŒŠðŸï¸
+Na mesma semana. No mesmo destino. Duas praias. Duas experiências completamente diferentes. 🌊🏝️
 
-Enquanto uma pode estar com presenÃ§a de sargaÃ§o, a outra continua com Ã¡guas cristalinas, areia branca e aquele visual que parece ter saÃ­do de um cartÃ£o-postal. âœ¨
+Enquanto uma pode estar com presença de sargaço, a outra continua com águas cristalinas, areia branca e aquele visual que parece ter saído de um cartão-postal. ✨
 
-Ã‰ exatamente por isso que milhares de brasileiros escolhem viajar com quem realmente conhece cada praia, cada temporada e cada detalhe da RepÃºblica Dominicana. ðŸ‡©ðŸ‡´
+É exatamente por isso que milhares de brasileiros escolhem viajar com quem realmente conhece cada praia, cada temporada e cada detalhe da República Dominicana. 🇩🇴
 
-NÃ£o basta vir para Punta Cana. Ã‰ preciso saber ONDE ir e QUANDO ir.
+Não basta vir para Punta Cana. É preciso saber ONDE ir e QUANDO ir.
 
-E Ã© por isso que existe a diferenÃ§a entre um passeio comum e uma experiÃªncia inesquecÃ­vel.
+E é por isso que existe a diferença entre um passeio comum e uma experiência inesquecível.
 
-Punta Cana para brasileiros Ã© com a Punta Cana para Brasileiros.
+Punta Cana para brasileiros é com a Punta Cana para Brasileiros.
 
-Quer descobrir quais sÃ£o as melhores praias para cada Ã©poca do ano e evitar surpresas durante sua viagem?
+Quer descobrir quais são as melhores praias para cada época do ano e evitar surpresas durante sua viagem?
 
-ðŸ“² Fale agora conosco pelo WhatsApp:
+📲 Fale agora conosco pelo WhatsApp:
 +1 (829) 458-2170
 @puntacanaparabrasileiros 
 
-âš ï¸ Salve este vÃ­deo para nÃ£o cometer o mesmo erro que faz muitos turistas perderem as melhores praias da RepÃºblica Dominicana.
+⚠️ Salve este vídeo para não cometer o mesmo erro que faz muitos turistas perderem as melhores praias da República Dominicana.
 
 #Brasil #PuntaCana #PuntaCanaParaBrasileiros #SaonaPremiumBrasil #RepublicaDominicana" title="Home 22" src="/assets/wp/724097848_17974347489029324_6048463304484797266_nlow.webp" class="lazyload" style="--smush-placeholder-width: 1000px; --smush-placeholder-aspect-ratio: 1000/560; display: none;">
     </a>
@@ -2646,48 +2646,48 @@ Quer descobrir quais sÃ£o as melhores praias para cada Ã©poca do ano e evita
             
         </div>
 
-        <a class="sbi_link_area nofancybox sbi_had_error" rel="nofollow noopener" href="/assets/wp/709646640_17972558823029324_3048936131993391557_nfull.webp" data-lightbox-sbi="1" data-title="Por isso Ã© preciso escolher bem quem irÃ¡ cuidar da sua viagem.&lt;br&gt;
+        <a class="sbi_link_area nofancybox sbi_had_error" rel="nofollow noopener" href="/assets/wp/709646640_17972558823029324_3048936131993391557_nfull.webp" data-lightbox-sbi="1" data-title="Por isso é preciso escolher bem quem irá cuidar da sua viagem.&lt;br&gt;
 &lt;br&gt;
-Muita gente sonha em conhecer Punta Cana, mas bate aquela inseguranÃ§a:&lt;br&gt;
-â€œSerÃ¡ que vou estar em boas mÃ£os?â€ &lt;br&gt;
+Muita gente sonha em conhecer Punta Cana, mas bate aquela insegurança:&lt;br&gt;
+“Será que vou estar em boas mãos?” &lt;br&gt;
 &lt;br&gt;
 Foi exatamente isso que a Larissa sentiu antes da viagem, principalmente por estar viajando sozinha.&lt;br&gt;
 &lt;br&gt;
 Mas bastaram alguns minutos conversando com o Danilo e a Anna para ela perceber que estava lidando com pessoas que realmente se importam em oferecer o melhor possivel.&lt;br&gt;
 &lt;br&gt;
-A confianÃ§a veio antes mesmo do passeio.&lt;br&gt;
+A confiança veio antes mesmo do passeio.&lt;br&gt;
 &lt;br&gt;
-E quando chegou o grande dia, ela encontrou muito mais do que praias paradisÃ­acas e Ã¡guas cristalinas.&lt;br&gt;
+E quando chegou o grande dia, ela encontrou muito mais do que praias paradisíacas e águas cristalinas.&lt;br&gt;
 &lt;br&gt;
 Encontrou acolhimento.&lt;br&gt;
-AtenÃ§Ã£o.&lt;br&gt;
-SeguranÃ§a.&lt;br&gt;
-E a tranquilidade de nunca se sentir sozinha. ðŸ¤ðŸ‡§ðŸ‡·&lt;br&gt;
+Atenção.&lt;br&gt;
+Segurança.&lt;br&gt;
+E a tranquilidade de nunca se sentir sozinha. 🤝🇧🇷&lt;br&gt;
 &lt;br&gt;
-Por isso ela faz questÃ£o de recomendar a experiÃªncia para todo mundo.&lt;br&gt;
+Por isso ela faz questão de recomendar a experiência para todo mundo.&lt;br&gt;
 &lt;br&gt;
 Porque lugar bonito existe em muitos lugares.&lt;br&gt;
 &lt;br&gt;
-Mas ser recebido como amigo, sendo tratado com carinho e respeito do inÃ­cio ao fim, Ã© o que realmente faz a diferenÃ§a. âœ¨&lt;br&gt;
+Mas ser recebido como amigo, sendo tratado com carinho e respeito do início ao fim, é o que realmente faz a diferença. ✨&lt;br&gt;
 &lt;br&gt;
-E Saona?â€¦ bom, Saona Ã© simplesmente imperdÃ­vel. ðŸŒŠâ˜€ï¸&lt;br&gt;
+E Saona?… bom, Saona é simplesmente imperdível. 🌊☀️&lt;br&gt;
 &lt;br&gt;
-JÃ¡ a Saona Premium Brasil Ã© mais que VIPâ€¦&lt;br&gt;
-Ã© a Ãºnica verdadeiramente Premium. ðŸ¾ðŸŒ´&lt;br&gt;
+Já a Saona Premium Brasil é mais que VIP…&lt;br&gt;
+é a única verdadeiramente Premium. 🍾🌴&lt;br&gt;
 &lt;br&gt;
-E Punta Cana para brasileirosâ€¦&lt;br&gt;
-Ã© com a Punta Cana para Brasileiros. ðŸ‡§ðŸ‡·ðŸ”¥&lt;br&gt;
+E Punta Cana para brasileiros…&lt;br&gt;
+é com a Punta Cana para Brasileiros. 🇧🇷🔥&lt;br&gt;
 &lt;br&gt;
-Se vocÃª tambÃ©m quer conhecer esse paraÃ­so com seguranÃ§a, suporte e atendimento de verdade, fale com a gente.&lt;br&gt;
+Se você também quer conhecer esse paraíso com segurança, suporte e atendimento de verdade, fale com a gente.&lt;br&gt;
 &lt;br&gt;
-ðŸ“² WhatsApp: +1 (829) 458-2170&lt;br&gt;
-ðŸ‘‰ Siga: @puntacanaparabrasileiros &lt;br&gt;
+📲 WhatsApp: +1 (829) 458-2170&lt;br&gt;
+👉 Siga: @puntacanaparabrasileiros &lt;br&gt;
 &lt;br&gt;
-As vagas sÃ£o limitadas e as saÃ­das costumam lotar com antecedÃªncia.&lt;br&gt;
+As vagas são limitadas e as saídas costumam lotar com antecedência.&lt;br&gt;
 &lt;br&gt;
-E me conta uma coisaâ€¦&lt;br&gt;
+E me conta uma coisa…&lt;br&gt;
 &lt;br&gt;
-VocÃª teria coragem de viajar sozinho para outro paÃ­s?&lt;br&gt;
+Você teria coragem de viajar sozinho para outro país?&lt;br&gt;
 &lt;br&gt;
 #Brasil #PuntaCanaParaBrasileiros #SaonaPremiumBrasil #PuntaCana Saona" data-video="https://scontent-gru1-2.cdninstagram.com/o1/v/t2/f2/m86/AQMNIoyOi34teaXJpDeIe1FXIQCQgk8_0UmMimGBRwx1oXoj16oXovaP4Qv9LbCNWSRcEz3dvDaMZ815UiOSwBIDcpmXT7XmeyMj9K4.mp4?_nc_cat=108&amp;_nc_sid=5e9851&amp;_nc_ht=scontent-gru1-2.cdninstagram.com&amp;_nc_ohc=om9GzcV2PGgQ7kNvwGzWqe9&amp;efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTAyNTM3NjM2MzM1MTYyMywiYXNzZXRfYWdlX2RheXMiOjMzLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;vs=9b0a58a9573f90ca&amp;_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNzQ5ODZBMzM1MThFMjAyNjJDODY3NTlERkIyOTZBNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQwNDBGNzVFRTBGMTNEQTU4Q0IyNEE4NTgwMTJBRDk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaOubCe4aTSAxUCKAJDMywXQCyIMSbpeNUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;edm=ANo9K5cEAAAA&amp;_nc_zt=28&amp;_nc_tpa=Q5bMBQF0aLqduydpgB-a_v_OzwQFAEUlvTZ-Ln0fwP_ZYqRCL_VwPwFjRKLKzD8F888NVSP79Iju1h_OSA&amp;oh=00_AQDsajKqQoV789ekjtSgxZUplX5pwwz-vJOWjjWNUnDkHg&amp;oe=6A4867D5" data-carousel="" data-id="sbi_18009767306858039" data-user="puntacanaparabrasileiros" data-url="https://www.instagram.com/reel/DY8AT-thSfI/" data-avatar="https://scontent-gru1-2.cdninstagram.com/v/t51.82787-19/537468928_17941652556029324_884587906712568409_n.jpg?stp=dst-jpg_s206x206_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDUuQzMifQ%3D%3D&amp;_nc_ohc=Gap_2qhbPM0Q7kNvwHjmZQo&amp;_nc_oc=Adq9E-K51CfNrQFtUHI-fMdB0z1sYX8-j9cSCov6n54u5a4lH9Kl7oqruJUFcc-um_I&amp;_nc_zt=24&amp;_nc_ht=scontent-gru1-2.cdninstagram.com&amp;edm=AP4hL3IEAAAA&amp;_nc_gid=yyDsdnUmqwWqxBFtBQNhug&amp;_nc_tpa=Q5bMBQHCOmXBhU6u4XkcnYjey3-Bd6JRMy5YJZAXgSDZNVYoxLRZMOLOYHg3BZ_f74i4BOCXzxJTARBkqg&amp;oh=00_Af4rYs9usW88xm7O768HjSy789c97kxyA7ZRDgI0Qo9x1g&amp;oe=6A1A6452" data-account-type="business" data-iframe="" data-media-type="reels" data-posted-on="" data-custom-avatar="" target="_blank">
             <span class="sbi-screenreader">
@@ -2696,48 +2696,48 @@ VocÃª teria coragem de viajar sozinho para outro paÃ­s?&lt;br&gt;
     </div>
 
     <a class="sbi_photo sbi_imgLiquid_bgSize sbi_imgLiquid_ready" target="_blank" rel="nofollow noopener" href="https://www.instagram.com/reel/DY8AT-thSfI/" data-full-res="/wp-content/uploads/sb-instagram-feed-images/709646640_17972558823029324_3048936131993391557_nfull.webp" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/709646640_17972558823029324_3048936131993391557_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=R_I4z-hxuyUQ7kNvwF8zkJb&amp;_nc_oc=AdqhWGOefEoM-XDkHd-o0zchjgunQdiiQETuRDZI2hPvCLn-nEfjpEuhjzOYYGn5cHg&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQHlkUDC8FmKajvJohQuim5hdbCBQpF9MTtTdYWjgCwNZysbXtJXr1uY4kiBK9ijtWLueKQM0CffXA&amp;oh=00_AQAnAIB09VIrLyB9kw8C8vyydzcn1UlkzhiCfvkcZpW5wg&amp;oe=6A4C6589&quot;,&quot;150&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/709646640_17972558823029324_3048936131993391557_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=R_I4z-hxuyUQ7kNvwF8zkJb&amp;_nc_oc=AdqhWGOefEoM-XDkHd-o0zchjgunQdiiQETuRDZI2hPvCLn-nEfjpEuhjzOYYGn5cHg&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQHlkUDC8FmKajvJohQuim5hdbCBQpF9MTtTdYWjgCwNZysbXtJXr1uY4kiBK9ijtWLueKQM0CffXA&amp;oh=00_AQAnAIB09VIrLyB9kw8C8vyydzcn1UlkzhiCfvkcZpW5wg&amp;oe=6A4C6589&quot;,&quot;320&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/709646640_17972558823029324_3048936131993391557_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=R_I4z-hxuyUQ7kNvwF8zkJb&amp;_nc_oc=AdqhWGOefEoM-XDkHd-o0zchjgunQdiiQETuRDZI2hPvCLn-nEfjpEuhjzOYYGn5cHg&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQHlkUDC8FmKajvJohQuim5hdbCBQpF9MTtTdYWjgCwNZysbXtJXr1uY4kiBK9ijtWLueKQM0CffXA&amp;oh=00_AQAnAIB09VIrLyB9kw8C8vyydzcn1UlkzhiCfvkcZpW5wg&amp;oe=6A4C6589&quot;,&quot;640&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/709646640_17972558823029324_3048936131993391557_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=R_I4z-hxuyUQ7kNvwF8zkJb&amp;_nc_oc=AdqhWGOefEoM-XDkHd-o0zchjgunQdiiQETuRDZI2hPvCLn-nEfjpEuhjzOYYGn5cHg&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQHlkUDC8FmKajvJohQuim5hdbCBQpF9MTtTdYWjgCwNZysbXtJXr1uY4kiBK9ijtWLueKQM0CffXA&amp;oh=00_AQAnAIB09VIrLyB9kw8C8vyydzcn1UlkzhiCfvkcZpW5wg&amp;oe=6A4C6589&quot;}" style="height: 221.875px; background-image: url(&quot;/wp-content/uploads/sb-instagram-feed-images/709646640_17972558823029324_3048936131993391557_nlow.webp&quot;); background-size: cover; background-position: center center; background-repeat: no-repeat; padding-bottom: 0px;">
-        <img decoding="async" data-src="/wp-content/uploads/sb-instagram-feed-images/709646640_17972558823029324_3048936131993391557_nfull.webp" alt="Por isso Ã© preciso escolher bem quem irÃ¡ cuidar da sua viagem.
+        <img decoding="async" data-src="/wp-content/uploads/sb-instagram-feed-images/709646640_17972558823029324_3048936131993391557_nfull.webp" alt="Por isso é preciso escolher bem quem irá cuidar da sua viagem.
 
-Muita gente sonha em conhecer Punta Cana, mas bate aquela inseguranÃ§a:
-â€œSerÃ¡ que vou estar em boas mÃ£os?â€ 
+Muita gente sonha em conhecer Punta Cana, mas bate aquela insegurança:
+“Será que vou estar em boas mãos?” 
 
 Foi exatamente isso que a Larissa sentiu antes da viagem, principalmente por estar viajando sozinha.
 
 Mas bastaram alguns minutos conversando com o Danilo e a Anna para ela perceber que estava lidando com pessoas que realmente se importam em oferecer o melhor possivel.
 
-A confianÃ§a veio antes mesmo do passeio.
+A confiança veio antes mesmo do passeio.
 
-E quando chegou o grande dia, ela encontrou muito mais do que praias paradisÃ­acas e Ã¡guas cristalinas.
+E quando chegou o grande dia, ela encontrou muito mais do que praias paradisíacas e águas cristalinas.
 
 Encontrou acolhimento.
-AtenÃ§Ã£o.
-SeguranÃ§a.
-E a tranquilidade de nunca se sentir sozinha. ðŸ¤ðŸ‡§ðŸ‡·
+Atenção.
+Segurança.
+E a tranquilidade de nunca se sentir sozinha. 🤝🇧🇷
 
-Por isso ela faz questÃ£o de recomendar a experiÃªncia para todo mundo.
+Por isso ela faz questão de recomendar a experiência para todo mundo.
 
 Porque lugar bonito existe em muitos lugares.
 
-Mas ser recebido como amigo, sendo tratado com carinho e respeito do inÃ­cio ao fim, Ã© o que realmente faz a diferenÃ§a. âœ¨
+Mas ser recebido como amigo, sendo tratado com carinho e respeito do início ao fim, é o que realmente faz a diferença. ✨
 
-E Saona?â€¦ bom, Saona Ã© simplesmente imperdÃ­vel. ðŸŒŠâ˜€ï¸
+E Saona?… bom, Saona é simplesmente imperdível. 🌊☀️
 
-JÃ¡ a Saona Premium Brasil Ã© mais que VIPâ€¦
-Ã© a Ãºnica verdadeiramente Premium. ðŸ¾ðŸŒ´
+Já a Saona Premium Brasil é mais que VIP…
+é a única verdadeiramente Premium. 🍾🌴
 
-E Punta Cana para brasileirosâ€¦
-Ã© com a Punta Cana para Brasileiros. ðŸ‡§ðŸ‡·ðŸ”¥
+E Punta Cana para brasileiros…
+é com a Punta Cana para Brasileiros. 🇧🇷🔥
 
-Se vocÃª tambÃ©m quer conhecer esse paraÃ­so com seguranÃ§a, suporte e atendimento de verdade, fale com a gente.
+Se você também quer conhecer esse paraíso com segurança, suporte e atendimento de verdade, fale com a gente.
 
-ðŸ“² WhatsApp: +1 (829) 458-2170
-ðŸ‘‰ Siga: @puntacanaparabrasileiros 
+📲 WhatsApp: +1 (829) 458-2170
+👉 Siga: @puntacanaparabrasileiros 
 
-As vagas sÃ£o limitadas e as saÃ­das costumam lotar com antecedÃªncia.
+As vagas são limitadas e as saídas costumam lotar com antecedência.
 
-E me conta uma coisaâ€¦
+E me conta uma coisa…
 
-VocÃª teria coragem de viajar sozinho para outro paÃ­s?
+Você teria coragem de viajar sozinho para outro país?
 
 #Brasil #PuntaCanaParaBrasileiros #SaonaPremiumBrasil #PuntaCana Saona" title="Home 24" src="/assets/wp/709646640_17972558823029324_3048936131993391557_nlow.webp" class="lazyload" style="--smush-placeholder-width: 1000px; --smush-placeholder-aspect-ratio: 1000/560; display: none;">
     </a>
@@ -2832,39 +2832,39 @@ VocÃª teria coragem de viajar sozinho para outro paÃ­s?
             
         </div>
 
-        <a class="sbi_link_area nofancybox sbi_had_error" rel="nofollow noopener" href="/assets/wp/707886673_17972026317029324_652105015607676323_nfull.webp" data-lightbox-sbi="1" data-title="Agora vocÃª deve estar pensando que deu ruim, nÃ©? &lt;br&gt;
+        <a class="sbi_link_area nofancybox sbi_had_error" rel="nofollow noopener" href="/assets/wp/707886673_17972026317029324_652105015607676323_nfull.webp" data-lightbox-sbi="1" data-title="Agora você deve estar pensando que deu ruim, né? &lt;br&gt;
 &lt;br&gt;
-Pois foi exatamente o contrÃ¡rio.&lt;br&gt;
+Pois foi exatamente o contrário.&lt;br&gt;
 &lt;br&gt;
-O cliente ficou impressionado com o cuidado, a atenÃ§Ã£o e a forma como o Danilo acompanhou tudo durante a experiÃªncia na Saona Premium Brasil. &lt;br&gt;
+O cliente ficou impressionado com o cuidado, a atenção e a forma como o Danilo acompanhou tudo durante a experiência na Saona Premium Brasil. &lt;br&gt;
 &lt;br&gt;
 Porque no final das contas, passeio bonito muita gente vende.&lt;br&gt;
-Mas atendimento que faz vocÃª se sentir seguro e realmente cuidadoâ€¦ Ã© outra histÃ³ria. &lt;br&gt;
+Mas atendimento que faz você se sentir seguro e realmente cuidado… é outra história. &lt;br&gt;
 &lt;br&gt;
-E foi isso que marcou essa famÃ­lia.&lt;br&gt;
+E foi isso que marcou essa família.&lt;br&gt;
 &lt;br&gt;
-Desde o primeiro contato atÃ© o dia do passeio, a confianÃ§a fez toda diferenÃ§a.&lt;br&gt;
-OrganizaÃ§Ã£o, suporte, atenÃ§Ã£o aos detalhes e aquele clima leve que transforma o passeio em memÃ³ria de verdade. &lt;br&gt;
+Desde o primeiro contato até o dia do passeio, a confiança fez toda diferença.&lt;br&gt;
+Organização, suporte, atenção aos detalhes e aquele clima leve que transforma o passeio em memória de verdade. &lt;br&gt;
 &lt;br&gt;
-E claroâ€¦ quando a lancha chega naquele mar surreal de Saona, nÃ£o tem como nÃ£o se apaixonar. &lt;br&gt;
+E claro… quando a lancha chega naquele mar surreal de Saona, não tem como não se apaixonar. &lt;br&gt;
 &lt;br&gt;
-Lugar paradisÃ­aco.&lt;br&gt;
-ExperiÃªncia imperdÃ­vel.&lt;br&gt;
+Lugar paradisíaco.&lt;br&gt;
+Experiência imperdível.&lt;br&gt;
 E atendimento que encanta.&lt;br&gt;
 &lt;br&gt;
-Saona Premium Brasil Ã© mais que VIPâ€¦&lt;br&gt;
-Ã© a Ãºnica verdadeiramente Premium. &lt;br&gt;
+Saona Premium Brasil é mais que VIP…&lt;br&gt;
+é a única verdadeiramente Premium. &lt;br&gt;
 &lt;br&gt;
-E Punta Cana para brasileirosâ€¦&lt;br&gt;
-Ã© com a Punta Cana para Brasileiros. &lt;br&gt;
+E Punta Cana para brasileiros…&lt;br&gt;
+é com a Punta Cana para Brasileiros. &lt;br&gt;
 &lt;br&gt;
-Agora fala pra gente: atendimento faz diferenÃ§a pra vocÃª em uma viagem? ðŸ‘€ðŸ‘‡&lt;br&gt;
+Agora fala pra gente: atendimento faz diferença pra você em uma viagem? 👀👇&lt;br&gt;
 &lt;br&gt;
 Chama nossa equipe agora no WhatsApp e garanta sua vaga:&lt;br&gt;
-ðŸ“² +1 (829) 458-2170&lt;br&gt;
-ðŸ‘‰ Siga: @puntacanaparabrasileiros &lt;br&gt;
+📲 +1 (829) 458-2170&lt;br&gt;
+👉 Siga: @puntacanaparabrasileiros &lt;br&gt;
 &lt;br&gt;
-As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜€ï¸&lt;br&gt;
+As vagas são limitadas e os passeios costumam esgotar rápido. 🚤☀️&lt;br&gt;
 &lt;br&gt;
 #Brasil #PuntaCana #PuntaCanaParaBrasileiros #SaonaPremiumBrasil #Saona" data-video="https://scontent-gru2-1.cdninstagram.com/o1/v/t2/f2/m86/AQMUmbFucfRSQ4CJT5zT0qOqWcXWLcCCoQblEWbuICgh4--sjqUFFnyQf6ep8_dEITB62i32HjC-z2YpF-uFlp-IMjDV5ZKpZQWm6zA.mp4?_nc_cat=107&amp;_nc_sid=5e9851&amp;_nc_ht=scontent-gru2-1.cdninstagram.com&amp;_nc_ohc=BPz9g6ssjzEQ7kNvwGNdUVt&amp;efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE4MzU5NjcyMTQ5ODY3NiwiYXNzZXRfYWdlX2RheXMiOjM3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&amp;ccb=17-1&amp;vs=97e62e83a09c8892&amp;_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83QjQ3MjBBMzdFQTIyRjdFNjM3MjVDRjhGMzg2MTNCNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQ5NEI5NzlDQzg4NkUyNEY2NTZCQjhFRjVCMjIyRTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACboqKPisp6aBBUCKAJDMywXQEGzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;edm=ANo9K5cEAAAA&amp;_nc_zt=28&amp;_nc_tpa=Q5bMBQHh8VI1qB_eij8j389yCLPjje8AkSiAjwe_oyB7iYjp_SKhLdbpfpl0vXqk3Mp-zCRStGrcdPMvMQ&amp;oh=00_AQDQC8w2_YztAtUMuhTqa_c2PywCDe_G1uO1u6ywFNhBHQ&amp;oe=6A48660C" data-carousel="" data-id="sbi_18359537761229364" data-user="puntacanaparabrasileiros" data-url="https://www.instagram.com/reel/DYyF7zUM0hu/" data-avatar="https://scontent-gru1-2.cdninstagram.com/v/t51.82787-19/537468928_17941652556029324_884587906712568409_n.jpg?stp=dst-jpg_s206x206_tt6&amp;_nc_cat=108&amp;ccb=7-5&amp;_nc_sid=bf7eb4&amp;efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NDUuQzMifQ%3D%3D&amp;_nc_ohc=Gap_2qhbPM0Q7kNvwHjmZQo&amp;_nc_oc=Adq9E-K51CfNrQFtUHI-fMdB0z1sYX8-j9cSCov6n54u5a4lH9Kl7oqruJUFcc-um_I&amp;_nc_zt=24&amp;_nc_ht=scontent-gru1-2.cdninstagram.com&amp;edm=AP4hL3IEAAAA&amp;_nc_gid=yyDsdnUmqwWqxBFtBQNhug&amp;_nc_tpa=Q5bMBQHCOmXBhU6u4XkcnYjey3-Bd6JRMy5YJZAXgSDZNVYoxLRZMOLOYHg3BZ_f74i4BOCXzxJTARBkqg&amp;oh=00_Af4rYs9usW88xm7O768HjSy789c97kxyA7ZRDgI0Qo9x1g&amp;oe=6A1A6452" data-account-type="business" data-iframe="" data-media-type="reels" data-posted-on="" data-custom-avatar="" target="_blank">
             <span class="sbi-screenreader">
@@ -2873,39 +2873,39 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
     </div>
 
     <a class="sbi_photo sbi_imgLiquid_bgSize sbi_imgLiquid_ready" target="_blank" rel="nofollow noopener" href="https://www.instagram.com/reel/DYyF7zUM0hu/" data-full-res="/wp-content/uploads/sb-instagram-feed-images/707886673_17972026317029324_652105015607676323_nfull.webp" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/707886673_17972026317029324_652105015607676323_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=ri5GXMOvRhAQ7kNvwERnjqk&amp;_nc_oc=AdpGO1eq0RQg3CZrAy4sRnkmV7Oz8ndclwq2iYOVynOxWa4_a1gMGqlT1L0O-FxFyiI&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQH8dMAUxSs5nxYKnsqu_u48OPyHzn7tlf2LCrmmN5mSLMI6LVkkPHTODrD-wUU4l79d98ajEukWrQ&amp;oh=00_AQBZvpvrqbzMLp8qdsKg1QRhuNE1ZAV5NBDOTW-fzYnMoQ&amp;oe=6A4C4C2B&quot;,&quot;150&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/707886673_17972026317029324_652105015607676323_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=ri5GXMOvRhAQ7kNvwERnjqk&amp;_nc_oc=AdpGO1eq0RQg3CZrAy4sRnkmV7Oz8ndclwq2iYOVynOxWa4_a1gMGqlT1L0O-FxFyiI&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQH8dMAUxSs5nxYKnsqu_u48OPyHzn7tlf2LCrmmN5mSLMI6LVkkPHTODrD-wUU4l79d98ajEukWrQ&amp;oh=00_AQBZvpvrqbzMLp8qdsKg1QRhuNE1ZAV5NBDOTW-fzYnMoQ&amp;oe=6A4C4C2B&quot;,&quot;320&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/707886673_17972026317029324_652105015607676323_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=ri5GXMOvRhAQ7kNvwERnjqk&amp;_nc_oc=AdpGO1eq0RQg3CZrAy4sRnkmV7Oz8ndclwq2iYOVynOxWa4_a1gMGqlT1L0O-FxFyiI&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQH8dMAUxSs5nxYKnsqu_u48OPyHzn7tlf2LCrmmN5mSLMI6LVkkPHTODrD-wUU4l79d98ajEukWrQ&amp;oh=00_AQBZvpvrqbzMLp8qdsKg1QRhuNE1ZAV5NBDOTW-fzYnMoQ&amp;oe=6A4C4C2B&quot;,&quot;640&quot;:&quot;https:\/\/scontent-gru2-2.cdninstagram.com\/v\/t51.82787-15\/707886673_17972026317029324_652105015607676323_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=102&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=ri5GXMOvRhAQ7kNvwERnjqk&amp;_nc_oc=AdpGO1eq0RQg3CZrAy4sRnkmV7Oz8ndclwq2iYOVynOxWa4_a1gMGqlT1L0O-FxFyiI&amp;_nc_zt=23&amp;_nc_ht=scontent-gru2-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=wzfAJdRCHBDLvIkYMPdYxw&amp;_nc_tpa=Q5bMBQH8dMAUxSs5nxYKnsqu_u48OPyHzn7tlf2LCrmmN5mSLMI6LVkkPHTODrD-wUU4l79d98ajEukWrQ&amp;oh=00_AQBZvpvrqbzMLp8qdsKg1QRhuNE1ZAV5NBDOTW-fzYnMoQ&amp;oe=6A4C4C2B&quot;}" style="height: 221.875px; background-image: url(&quot;/wp-content/uploads/sb-instagram-feed-images/707886673_17972026317029324_652105015607676323_nlow.webp&quot;); background-size: cover; background-position: center center; background-repeat: no-repeat; padding-bottom: 0px;">
-        <img decoding="async" data-src="/wp-content/uploads/sb-instagram-feed-images/707886673_17972026317029324_652105015607676323_nfull.webp" alt="Agora vocÃª deve estar pensando que deu ruim, nÃ©? 
+        <img decoding="async" data-src="/wp-content/uploads/sb-instagram-feed-images/707886673_17972026317029324_652105015607676323_nfull.webp" alt="Agora você deve estar pensando que deu ruim, né? 
 
-Pois foi exatamente o contrÃ¡rio.
+Pois foi exatamente o contrário.
 
-O cliente ficou impressionado com o cuidado, a atenÃ§Ã£o e a forma como o Danilo acompanhou tudo durante a experiÃªncia na Saona Premium Brasil. 
+O cliente ficou impressionado com o cuidado, a atenção e a forma como o Danilo acompanhou tudo durante a experiência na Saona Premium Brasil. 
 
 Porque no final das contas, passeio bonito muita gente vende.
-Mas atendimento que faz vocÃª se sentir seguro e realmente cuidadoâ€¦ Ã© outra histÃ³ria. 
+Mas atendimento que faz você se sentir seguro e realmente cuidado… é outra história. 
 
-E foi isso que marcou essa famÃ­lia.
+E foi isso que marcou essa família.
 
-Desde o primeiro contato atÃ© o dia do passeio, a confianÃ§a fez toda diferenÃ§a.
-OrganizaÃ§Ã£o, suporte, atenÃ§Ã£o aos detalhes e aquele clima leve que transforma o passeio em memÃ³ria de verdade. 
+Desde o primeiro contato até o dia do passeio, a confiança fez toda diferença.
+Organização, suporte, atenção aos detalhes e aquele clima leve que transforma o passeio em memória de verdade. 
 
-E claroâ€¦ quando a lancha chega naquele mar surreal de Saona, nÃ£o tem como nÃ£o se apaixonar. 
+E claro… quando a lancha chega naquele mar surreal de Saona, não tem como não se apaixonar. 
 
-Lugar paradisÃ­aco.
-ExperiÃªncia imperdÃ­vel.
+Lugar paradisíaco.
+Experiência imperdível.
 E atendimento que encanta.
 
-Saona Premium Brasil Ã© mais que VIPâ€¦
-Ã© a Ãºnica verdadeiramente Premium. 
+Saona Premium Brasil é mais que VIP…
+é a única verdadeiramente Premium. 
 
-E Punta Cana para brasileirosâ€¦
-Ã© com a Punta Cana para Brasileiros. 
+E Punta Cana para brasileiros…
+é com a Punta Cana para Brasileiros. 
 
-Agora fala pra gente: atendimento faz diferenÃ§a pra vocÃª em uma viagem? ðŸ‘€ðŸ‘‡
+Agora fala pra gente: atendimento faz diferença pra você em uma viagem? 👀👇
 
 Chama nossa equipe agora no WhatsApp e garanta sua vaga:
-ðŸ“² +1 (829) 458-2170
-ðŸ‘‰ Siga: @puntacanaparabrasileiros 
+📲 +1 (829) 458-2170
+👉 Siga: @puntacanaparabrasileiros 
 
-As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜€ï¸
+As vagas são limitadas e os passeios costumam esgotar rápido. 🚤☀️
 
 #Brasil #PuntaCana #PuntaCanaParaBrasileiros #SaonaPremiumBrasil #Saona" title="Home 26" src="/assets/wp/707886673_17972026317029324_652105015607676323_nlow.webp" class="lazyload" style="--smush-placeholder-width: 1000px; --smush-placeholder-aspect-ratio: 1000/560; display: none;">
     </a>
@@ -2988,7 +2988,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 				</div>
 				<div class="elementor-element elementor-element-8e2b1dd elementor-widget elementor-widget-text-editor" data-id="8e2b1dd" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<div style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; margin-bottom: 3rem; color: #020817; font-family: Poppins, sans-serif; font-size: medium; border: 0px solid #e2e8f0;" data-lov-id="src/components/FAQSection.tsx:45:8" data-lov-name="div" data-component-path="src/components/FAQSection.tsx" data-component-line="45" data-component-file="FAQSection.tsx" data-component-name="div" data-component-content="%7B%22className%22%3A%22text-center%20mb-12%22%7D"><div class="text-center mb-12" data-lov-id="src/components/FAQSection.tsx:45:8" data-lov-name="div" data-component-path="src/components/FAQSection.tsx" data-component-line="45" data-component-file="FAQSection.tsx" data-component-name="div" data-component-content="%7B%22className%22%3A%22text-center%20mb-12%22%7D"><p class="text-gray-600 max-w-2xl mx-auto" data-lov-id="src/components/FAQSection.tsx:50:10" data-lov-name="p" data-component-path="src/components/FAQSection.tsx" data-component-line="50" data-component-file="FAQSection.tsx" data-component-name="p" data-component-content="%7B%22text%22%3A%22Tire%20suas%20principais%20d%C3%BAvidas%20sobre%20viagens%20para%20Punta%20Cana.%20%5Cn%20%20%20%20%20%20%20%20%20%20%20%20Se%20n%C3%A3o%20encontrar%20o%20que%20procura%2C%20entre%20em%20contato%20com%20nossa%20equipe.%22%2C%22className%22%3A%22text-gray-600%20max-w-2xl%20mx-auto%22%7D">Tire suas principais dÃºvidas sobre viagens para Punta Cana. Se nÃ£o encontrar o que procura, entre em contato com nossa equipe.</p></div></div>								</div>
+									<div style="--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; margin-bottom: 3rem; color: #020817; font-family: Poppins, sans-serif; font-size: medium; border: 0px solid #e2e8f0;" data-lov-id="src/components/FAQSection.tsx:45:8" data-lov-name="div" data-component-path="src/components/FAQSection.tsx" data-component-line="45" data-component-file="FAQSection.tsx" data-component-name="div" data-component-content="%7B%22className%22%3A%22text-center%20mb-12%22%7D"><div class="text-center mb-12" data-lov-id="src/components/FAQSection.tsx:45:8" data-lov-name="div" data-component-path="src/components/FAQSection.tsx" data-component-line="45" data-component-file="FAQSection.tsx" data-component-name="div" data-component-content="%7B%22className%22%3A%22text-center%20mb-12%22%7D"><p class="text-gray-600 max-w-2xl mx-auto" data-lov-id="src/components/FAQSection.tsx:50:10" data-lov-name="p" data-component-path="src/components/FAQSection.tsx" data-component-line="50" data-component-file="FAQSection.tsx" data-component-name="p" data-component-content="%7B%22text%22%3A%22Tire%20suas%20principais%20d%C3%BAvidas%20sobre%20viagens%20para%20Punta%20Cana.%20%5Cn%20%20%20%20%20%20%20%20%20%20%20%20Se%20n%C3%A3o%20encontrar%20o%20que%20procura%2C%20entre%20em%20contato%20com%20nossa%20equipe.%22%2C%22className%22%3A%22text-gray-600%20max-w-2xl%20mx-auto%22%7D">Tire suas principais dúvidas sobre viagens para Punta Cana. Se não encontrar o que procura, entre em contato com nossa equipe.</p></div></div>								</div>
 				</div>
 				</div>
 				</div>
@@ -2998,7 +2998,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 							<div class="e-n-accordion" aria-label="Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys">
 						<details id="e-n-accordion-item-1450" class="e-n-accordion-item">
 				<summary class="e-n-accordion-item-title" data-accordion-index="1" tabindex="0" aria-expanded="false" aria-controls="e-n-accordion-item-1450">
-					<span class="e-n-accordion-item-title-header"><div class="e-n-accordion-item-title-text"> Ã‰ necessÃ¡rio visto para brasileiros viajarem para Punta Cana? </div></span>
+					<span class="e-n-accordion-item-title-header"><div class="e-n-accordion-item-title-text"> É necessário visto para brasileiros viajarem para Punta Cana? </div></span>
 							<span class="e-n-accordion-item-title-icon">
 			<span class="e-opened"><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-up" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg></span>
 			<span class="e-closed"><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span>
@@ -3008,13 +3008,13 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 				<div role="region" aria-labelledby="e-n-accordion-item-1450" class="elementor-element elementor-element-b5fd44c e-con-full e-flex e-con e-child" data-id="b5fd44c" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-1300585 elementor-widget elementor-widget-text-editor" data-id="1300585" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<div class="border border-gray-200 rounded-lg overflow-hidden" data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div id="radix-:rk:" class="overflow-hidden text-sm transition-all data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down" role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div class="px-6 pb-4 pt-2 text-gray-600" data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D">NÃ£o. Brasileiros nÃ£o precisam de visto para entrar na RepÃºblica Dominicana como turistas por atÃ© 30 dias. Basta apresentar o passaporte com validade mÃ­nima de 6 meses e adquirir o cartÃ£o de turista, que pode ser comprado online ou no prÃ³prio aeroporto.</div></div></div>								</div>
+									<div class="border border-gray-200 rounded-lg overflow-hidden" data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div id="radix-:rk:" class="overflow-hidden text-sm transition-all data-[state=closed]:animate-accordion-up data-[state=open]:animate-accordion-down" role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div class="px-6 pb-4 pt-2 text-gray-600" data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D">Não. Brasileiros não precisam de visto para entrar na República Dominicana como turistas por até 30 dias. Basta apresentar o passaporte com validade mínima de 6 meses e adquirir o cartão de turista, que pode ser comprado online ou no próprio aeroporto.</div></div></div>								</div>
 				</div>
 				</div>
 					</details>
 						<details id="e-n-accordion-item-1451" class="e-n-accordion-item">
 				<summary class="e-n-accordion-item-title" data-accordion-index="2" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1451">
-					<span class="e-n-accordion-item-title-header"><div class="e-n-accordion-item-title-text"> Qual a melhor Ã©poca para visitar Punta Cana? </div></span>
+					<span class="e-n-accordion-item-title-header"><div class="e-n-accordion-item-title-text"> Qual a melhor época para visitar Punta Cana? </div></span>
 							<span class="e-n-accordion-item-title-icon">
 			<span class="e-opened"><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-up" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg></span>
 			<span class="e-closed"><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span>
@@ -3024,7 +3024,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 				<div role="region" aria-labelledby="e-n-accordion-item-1451" class="elementor-element elementor-element-d04232e e-con-full e-flex e-con e-child" data-id="d04232e" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-f5cac26 elementor-widget elementor-widget-text-editor" data-id="f5cac26" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<div data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D">O clima em Punta Cana Ã© agradÃ¡vel o ano todo, com temperatura mÃ©dia de 25Â°C a 30Â°C. A temporada de dezembro a abril Ã© considerada a melhor por ter menos chuvas. De maio a novembro Ã© a temporada de chuvas e furacÃµes, mas os preÃ§os sÃ£o mais atrativos e os dias de sol ainda sÃ£o predominantes.</div></div></div>								</div>
+									<div data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D">O clima em Punta Cana é agradável o ano todo, com temperatura média de 25°C a 30°C. A temporada de dezembro a abril é considerada a melhor por ter menos chuvas. De maio a novembro é a temporada de chuvas e furacões, mas os preços são mais atrativos e os dias de sol ainda são predominantes.</div></div></div>								</div>
 				</div>
 				</div>
 					</details>
@@ -3040,13 +3040,13 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 				<div role="region" aria-labelledby="e-n-accordion-item-1452" class="elementor-element elementor-element-4fab463 e-con-full e-flex e-con e-child" data-id="4fab463" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-88a10b4 elementor-widget elementor-widget-text-editor" data-id="88a10b4" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<div data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D">Oferecemos serviÃ§os de transfer, nas modalidades <strong data-start="247" data-end="258">privado</strong> e <strong data-start="261" data-end="278">compartilhado</strong>, para garantir conforto e comodidade em seu deslocamento.<br data-start="336" data-end="339">Um representante de nossa equipe estarÃ¡ presente no aeroporto, devidamente identificado, aguardando com uma placa com o seu nome.<br data-start="468" data-end="471">O tempo estimado de trajeto atÃ© os resorts da regiÃ£o varia entre <strong data-start="536" data-end="555">20 e 40 minutos</strong>, conforme a localizaÃ§Ã£o do hotel.</div></div></div>								</div>
+									<div data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D">Oferecemos serviços de transfer, nas modalidades <strong data-start="247" data-end="258">privado</strong> e <strong data-start="261" data-end="278">compartilhado</strong>, para garantir conforto e comodidade em seu deslocamento.<br data-start="336" data-end="339">Um representante de nossa equipe estará presente no aeroporto, devidamente identificado, aguardando com uma placa com o seu nome.<br data-start="468" data-end="471">O tempo estimado de trajeto até os resorts da região varia entre <strong data-start="536" data-end="555">20 e 40 minutos</strong>, conforme a localização do hotel.</div></div></div>								</div>
 				</div>
 				</div>
 					</details>
 						<details id="e-n-accordion-item-1453" class="e-n-accordion-item">
 				<summary class="e-n-accordion-item-title" data-accordion-index="4" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1453">
-					<span class="e-n-accordion-item-title-header"><div class="e-n-accordion-item-title-text"> VocÃªs oferecem atendimento em portuguÃªs durante toda a viagem? </div></span>
+					<span class="e-n-accordion-item-title-header"><div class="e-n-accordion-item-title-text"> Vocês oferecem atendimento em português durante toda a viagem? </div></span>
 							<span class="e-n-accordion-item-title-icon">
 			<span class="e-opened"><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-up" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z"></path></svg></span>
 			<span class="e-closed"><svg aria-hidden="true" class="e-font-icon-svg e-fas-chevron-down" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span>
@@ -3056,7 +3056,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 				<div role="region" aria-labelledby="e-n-accordion-item-1453" class="elementor-element elementor-element-c0be844 e-con-full e-flex e-con e-child" data-id="c0be844" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-c3cda4d elementor-widget elementor-widget-text-editor" data-id="c3cda4d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<div data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D">Sim! Esse Ã© um dos nossos diferenciais. Temos equipe brasileira em Punta Cana, pronta para atender nossos clientes em portuguÃªs 24h por dia.&nbsp;</div></div></div>								</div>
+									<div data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D">Sim! Esse é um dos nossos diferenciais. Temos equipe brasileira em Punta Cana, pronta para atender nossos clientes em português 24h por dia.&nbsp;</div></div></div>								</div>
 				</div>
 				</div>
 					</details>
@@ -3072,7 +3072,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 				<div role="region" aria-labelledby="e-n-accordion-item-1454" class="elementor-element elementor-element-00eb8c0 e-con-full e-flex e-con e-child" data-id="00eb8c0" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-63499f4 elementor-widget elementor-widget-text-editor" data-id="63499f4" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<div data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D">Nossa polÃ­tica de cancelamento permite reembolso de atÃ© 100% do valor pago caso o cancelamento seja feito com mais de 24 horas de antecedÃªncia.&nbsp;</div></div></div>								</div>
+									<div data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D">Nossa política de cancelamento permite reembolso de até 100% do valor pago caso o cancelamento seja feito com mais de 24 horas de antecedência.&nbsp;</div></div></div>								</div>
 				</div>
 				</div>
 					</details>
@@ -3082,7 +3082,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 				</div>
 				<div class="elementor-element elementor-element-98d149f elementor-widget elementor-widget-text-editor" data-id="98d149f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<div data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D"><p>NÃ£o encontrou o que procurava?</p></div></div></div>								</div>
+									<div data-state="open" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:59:14" data-lov-name="AccordionItem" data-component-path="src/components/FAQSection.tsx" data-component-line="59" data-component-file="FAQSection.tsx" data-component-name="AccordionItem" data-component-content="%7B%22className%22%3A%22border%20border-gray-200%20rounded-lg%20overflow-hidden%22%7D"><div role="region" data-state="open" aria-labelledby="radix-:rj:" data-orientation="vertical" data-lov-id="src/components/FAQSection.tsx:63:16" data-lov-name="AccordionContent" data-component-path="src/components/FAQSection.tsx" data-component-line="63" data-component-file="FAQSection.tsx" data-component-name="AccordionContent" data-component-content="%7B%22className%22%3A%22px-6%20pb-4%20pt-2%20text-gray-600%22%7D"><div data-lov-id="src/components/ui/accordion.tsx:50:4" data-lov-name="div" data-component-path="src/components/ui/accordion.tsx" data-component-line="50" data-component-file="accordion.tsx" data-component-name="div" data-component-content="%7B%7D"><p>Não encontrou o que procurava?</p></div></div></div>								</div>
 				</div>
 				<div class="elementor-element elementor-element-fcf4280 elementor-align-center elementor-widget elementor-widget-button" data-id="fcf4280" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
@@ -3117,11 +3117,11 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 
 									<h3 class="elementor-icon-box-title">
 						<span>
-							ParaÃ­so a sua espera						</span>
+							Paraíso a sua espera						</span>
 					</h3>
 				
 									<p class="elementor-icon-box-description">
-						Ãšltima chance para garantir seu verÃ£o perfeito
+						Última chance para garantir seu verão perfeito
 
 					</p>
 				
@@ -3134,11 +3134,11 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 		<div class="elementor-element elementor-element-e146ec7 e-con-full e-flex e-con e-child" data-id="e146ec7" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-63ca0a85 elementor-widget elementor-widget-heading" data-id="63ca0a85" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<h2 class="elementor-heading-title elementor-size-default">Pronto para viver essa experiÃªncia?</h2>				</div>
+					<h2 class="elementor-heading-title elementor-size-default">Pronto para viver essa experiência?</h2>				</div>
 				</div>
 				<div class="elementor-element elementor-element-35035aaa elementor-widget elementor-widget-text-editor" data-id="35035aaa" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>Agende sua viagem agora e garanta os melhores preÃ§os e condiÃ§Ãµes exclusivas para brasileiros. Parcelamento em atÃ© 12x sem juros e atendimento personalizado em portuguÃªs.</p>								</div>
+									<p>Agende sua viagem agora e garanta os melhores preços e condições exclusivas para brasileiros. Parcelamento em até 12x sem juros e atendimento personalizado em português.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-7b544e84 elementor-widget elementor-widget-wptravelengine-trip-search" data-id="7b544e84" data-element_type="widget" data-e-type="widget" data-widget_type="wptravelengine-trip-search.default">
 				<div class="elementor-widget-container">
@@ -3152,7 +3152,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 							<input type="hidden" class="wpte__input-value" name="trip_types">
 							<div class="wpte__select-options">
 								<ul>
-									<li data-value="adequado-para-criancas" data-label="Adequado para crianÃ§as"><span>Adequado para crianÃ§as</span></li><li data-value="amigo-da-natureza" data-label="Amigo da Natureza"><span>Amigo da Natureza</span></li><li data-value="baladas" data-label="Baladas"><span>Baladas</span></li><li data-value="cultural" data-label="Cultural"><span>Cultural</span></li><li data-value="gastronomia" data-label="Gastronomia"><span>Gastronomia</span></li><li data-value="natureza-e-aventura" data-label="Natureza e aventura"><span>Natureza e aventura</span></li><li data-value="passeio-pela-cidade" data-label="Passeio pela cidade"><span>Passeio pela cidade</span></li><li data-value="praia-e-barco" data-label="Praia e Barco"><span>Praia e Barco</span></li><li data-value="somente-para-adultos" data-label="Somente para adultos"><span>Somente para adultos</span></li><li data-value="viagens-de-fim-de-semana" data-label="Viagens de fim de semana"><span>Viagens de fim de semana</span></li><li data-value="vida-noturna" data-label="Vida noturna"><span>Vida noturna</span></li>								</ul>
+									<li data-value="adequado-para-criancas" data-label="Adequado para crianças"><span>Adequado para crianças</span></li><li data-value="amigo-da-natureza" data-label="Amigo da Natureza"><span>Amigo da Natureza</span></li><li data-value="baladas" data-label="Baladas"><span>Baladas</span></li><li data-value="cultural" data-label="Cultural"><span>Cultural</span></li><li data-value="gastronomia" data-label="Gastronomia"><span>Gastronomia</span></li><li data-value="natureza-e-aventura" data-label="Natureza e aventura"><span>Natureza e aventura</span></li><li data-value="passeio-pela-cidade" data-label="Passeio pela cidade"><span>Passeio pela cidade</span></li><li data-value="praia-e-barco" data-label="Praia e Barco"><span>Praia e Barco</span></li><li data-value="somente-para-adultos" data-label="Somente para adultos"><span>Somente para adultos</span></li><li data-value="viagens-de-fim-de-semana" data-label="Viagens de fim de semana"><span>Viagens de fim de semana</span></li><li data-value="vida-noturna" data-label="Vida noturna"><span>Vida noturna</span></li>								</ul>
 							</div>
 						</div>
 												<div class="wpte-trip__adv-field wpte__select-field">
@@ -3162,7 +3162,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 							<input type="hidden" class="wpte__input-value" name="activities">
 							<div class="wpte__select-options">
 								<ul>
-									<li data-value="avectura" data-label="avectura"><span>avectura</span></li><li data-value="degustacao-de-produtos-locais" data-label="DegustaÃ§Ã£o de produtos locais"><span>DegustaÃ§Ã£o de produtos locais</span></li><li data-value="dirigir-pelas-trilhas-de-macao" data-label="Dirigir pelas trilhas de Macao"><span>Dirigir pelas trilhas de Macao</span></li><li data-value="ilhas" data-label="Ilhas"><span>Ilhas</span></li><li data-value="nado-em-caverna" data-label="Nado em caverna"><span>Nado em caverna</span></li><li data-value="natureza-e-aventura" data-label="Natureza e aventura"><span>Natureza e aventura</span></li><li data-value="praias" data-label="Praias"><span>Praias</span><ul><li data-value="passeio-com-animais-aquaticos" data-label="Passeio com animais aquÃ¡ticos"><span>Passeio com animais aquÃ¡ticos</span></li></ul></li><li data-value="passeio-cultural" data-label="passeio cultural"><span>passeio cultural</span></li><li data-value="passeio-pela-cidade" data-label="Passeio pela cidade"><span>Passeio pela cidade</span></li><li data-value="passeios-de-barco" data-label="Passeios de barco"><span>Passeios de barco</span></li><li data-value="vida-noturna" data-label="Vida Noturna"><span>Vida Noturna</span></li><li data-value="visita-a-vila-taina" data-label="Visita Ã  Vila TaÃ­na"><span>Visita Ã  Vila TaÃ­na</span></li>								</ul>
+									<li data-value="avectura" data-label="avectura"><span>avectura</span></li><li data-value="degustacao-de-produtos-locais" data-label="Degustação de produtos locais"><span>Degustação de produtos locais</span></li><li data-value="dirigir-pelas-trilhas-de-macao" data-label="Dirigir pelas trilhas de Macao"><span>Dirigir pelas trilhas de Macao</span></li><li data-value="ilhas" data-label="Ilhas"><span>Ilhas</span></li><li data-value="nado-em-caverna" data-label="Nado em caverna"><span>Nado em caverna</span></li><li data-value="natureza-e-aventura" data-label="Natureza e aventura"><span>Natureza e aventura</span></li><li data-value="praias" data-label="Praias"><span>Praias</span><ul><li data-value="passeio-com-animais-aquaticos" data-label="Passeio com animais aquáticos"><span>Passeio com animais aquáticos</span></li></ul></li><li data-value="passeio-cultural" data-label="passeio cultural"><span>passeio cultural</span></li><li data-value="passeio-pela-cidade" data-label="Passeio pela cidade"><span>Passeio pela cidade</span></li><li data-value="passeios-de-barco" data-label="Passeios de barco"><span>Passeios de barco</span></li><li data-value="vida-noturna" data-label="Vida Noturna"><span>Vida Noturna</span></li><li data-value="visita-a-vila-taina" data-label="Visita à Vila Taína"><span>Visita à Vila Taína</span></li>								</ul>
 							</div>
 						</div>
 						        <div data-value-format="duration" class="wpte-trip__adv-field wpte__select-field" data-range-slider="#ZZQhd" data-range="0,1" data-min="0" data-max="50" data-suffix="Dias">
@@ -3171,7 +3171,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 						<path d="M7.4375 0.125C5.99123 0.125 4.57743 0.553871 3.3749 1.35738C2.17236 2.16089 1.2351 3.30294 0.681634 4.63913C0.128168 5.97531 -0.0166435 7.44561 0.265511 8.8641C0.547665 10.2826 1.24411 11.5855 2.26678 12.6082C3.28946 13.6309 4.59242 14.3273 6.0109 14.6095C7.42939 14.8916 8.89969 14.7468 10.2359 14.1934C11.5721 13.6399 12.7141 12.7026 13.5176 11.5001C14.3211 10.2976 14.75 8.88377 14.75 7.4375C14.75 6.47721 14.5609 5.52632 14.1934 4.63913C13.8259 3.75193 13.2872 2.94581 12.6082 2.26678C11.9292 1.58775 11.1231 1.04912 10.2359 0.681631C9.34868 0.314143 8.39779 0.125 7.4375 0.125ZM7.4375 13.2875C6.28048 13.2875 5.14944 12.9444 4.18742 12.3016C3.22539 11.6588 2.47558 10.7451 2.03281 9.6762C1.59004 8.60725 1.47419 7.43101 1.69991 6.29622C1.92563 5.16143 2.48279 4.11906 3.30093 3.30092C4.11907 2.48279 5.16144 1.92563 6.29622 1.69991C7.43101 1.47418 8.60725 1.59003 9.6762 2.0328C10.7451 2.47558 11.6588 3.22539 12.3016 4.18741C12.9444 5.14944 13.2875 6.28048 13.2875 7.4375C13.2875 8.98901 12.6712 10.477 11.5741 11.5741C10.477 12.6712 8.98902 13.2875 7.4375 13.2875ZM9.70438 7.89819L8.16875 7.01337V3.78125C8.16875 3.58731 8.09171 3.40131 7.95457 3.26418C7.81744 3.12704 7.63144 3.05 7.4375 3.05C7.24356 3.05 7.05757 3.12704 6.92043 3.26418C6.78329 3.40131 6.70625 3.58731 6.70625 3.78125V7.4375C6.70625 7.4375 6.70625 7.496 6.70625 7.52525C6.71058 7.57563 6.72293 7.625 6.74282 7.6715C6.75787 7.71488 6.77748 7.75655 6.80131 7.79581C6.82132 7.83737 6.84585 7.87661 6.87444 7.91281L6.99144 8.00787L7.05725 8.07369L8.9585 9.17056C9.06995 9.23373 9.19603 9.26651 9.32413 9.26562C9.48604 9.26676 9.64375 9.21412 9.77252 9.11596C9.90129 9.01781 9.99385 8.8797 10.0357 8.72328C10.0775 8.56686 10.0662 8.40098 10.0036 8.25166C9.94101 8.10233 9.83062 7.97801 9.68975 7.89819H9.70438Z" fill="currentColor"></path>
 					</svg>
 							</span>
-		            <input type="text" data-value="" class="wpte__input" placeholder="DuraÃ§Ã£o" readonly="">
+		            <input type="text" data-value="" class="wpte__input" placeholder="Duração" readonly="">
             <input type="hidden" data-value-min="" class="wpte__input-min" name="min-duration" value="0">
             <input type="hidden" data-value-max="" class="wpte__input-max" name="max-duration" value="1">
             <div class="wpte__select-options">
@@ -3185,7 +3185,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 					</svg>
 							</span>
 		
-            <input type="text" class="wpte__input" data-value="" placeholder="PreÃ§o" readonly="">
+            <input type="text" class="wpte__input" data-value="" placeholder="Preço" readonly="">
             <input type="hidden" data-value-min="" class="wpte__input-min" name="min-cost" value="45.00">
             <input type="hidden" data-value-max="" class="wpte__input-max" name="max-cost" value="199.00">
             <div class="wpte__select-options">
@@ -3220,7 +3220,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon">
 				<svg aria-hidden="true" class="e-font-icon-svg e-fas-arrow-right" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path></svg>			</span>
-									<span class="elementor-button-text">Sem compromisso. Tire suas dÃºvidas</span>
+									<span class="elementor-button-text">Sem compromisso. Tire suas dúvidas</span>
 					</span>
 					</a>
 				</div>
@@ -3258,7 +3258,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 		<div class="elementor-element elementor-element-922ebc0 e-con-full e-flex e-con e-child" data-id="922ebc0" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-70b9c7b elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="70b9c7b" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-									<p>A melhor agÃªncia especializada em viagens para Punta Cana com atendimento personalizado para brasileiros.</p>								</div>
+									<p>A melhor agência especializada em viagens para Punta Cana com atendimento personalizado para brasileiros.</p>								</div>
 				</div>
 				<div class="elementor-element elementor-element-d848107 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="d848107" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
@@ -3299,7 +3299,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 								<li class="elementor-icon-list-item">
 											<a href="/experiencias">
 
-											<span class="elementor-icon-list-text">ExperiÃªncias</span>
+											<span class="elementor-icon-list-text">Experiências</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
@@ -3317,7 +3317,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 								<li class="elementor-icon-list-item">
 											<a href="/sobre-nos">
 
-											<span class="elementor-icon-list-text">Sobre NÃ³s</span>
+											<span class="elementor-icon-list-text">Sobre Nós</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
@@ -3371,7 +3371,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 								<li class="elementor-icon-list-item">
 											<a href="/assets/wp/uploads/2025/05/2026-Catalogo-Digital-Punta-Cana-para-Brasileiros.pdf" target="_blank" rel="nofollow">
 
-											<span class="elementor-icon-list-text">Baixe Nosso CatÃ¡logo</span>
+											<span class="elementor-icon-list-text">Baixe Nosso Catálogo</span>
 											</a>
 									</li>
 						</ul>
@@ -3389,25 +3389,25 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 							<li class="elementor-icon-list-item">
 											<a href="/politicas-de-privacidade">
 
-											<span class="elementor-icon-list-text">PolÃ­ticas de Privacidade</span>
+											<span class="elementor-icon-list-text">Políticas de Privacidade</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="/politicas-de-cancelamento">
 
-											<span class="elementor-icon-list-text">PolÃ­ticas de Cancelamento</span>
+											<span class="elementor-icon-list-text">Políticas de Cancelamento</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="/termos-e-condicoes-do-programa-de-afiliados">
 
-											<span class="elementor-icon-list-text">PolÃ­ticas de Afiliados</span>
+											<span class="elementor-icon-list-text">Políticas de Afiliados</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="/termos-e-condicoes">
 
-											<span class="elementor-icon-list-text">Termos e CondiÃ§Ãµes</span>
+											<span class="elementor-icon-list-text">Termos e Condições</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
@@ -3429,7 +3429,7 @@ As vagas sÃ£o limitadas e os passeios costumam esgotar rÃ¡pido. ðŸš¤â˜
 		<div class="elementor-element elementor-element-29dc472 e-con-full e-flex e-con e-child" data-id="29dc472" data-element_type="container" data-e-type="container" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 				<div class="elementor-element elementor-element-94c018e elementor-widget-laptop__width-initial elementor-widget elementor-widget-heading" data-id="94c018e" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-					<span class="elementor-heading-title elementor-size-default">Â© Copyright 2025 | Desenvolvido por LRV Web<a>
+					<span class="elementor-heading-title elementor-size-default">© Copyright 2025 | Desenvolvido por LRV Web<a>
 
 
 
@@ -3464,14 +3464,14 @@ Punta Cana para Brasileiros Oliveira &amp; Ramos SRL RNC: 133287765
 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/travel-monster/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
 		<div id="wptravelengine-trip-booking-modal" data-trip-booking="{&quot;tripID&quot;:null,&quot;nonce&quot;:&quot;90eae87f68&quot;,&quot;wpXHR&quot;:&quot;https:\/\/puntacanaparabrasileiros.com\/wp-admin\/admin-ajax.php&quot;,&quot;cartVersion&quot;:&quot;2.0&quot;,&quot;buttonLabel&quot;:&quot;Verificar Disponibilidade&quot;}"></div>
-		<script id="ckyBannerTemplate" type="text/template"><div class="cky-overlay cky-hide"></div><div class="cky-consent-container cky-hide" tabindex="0"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#F4F4F4">  <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#212121"></p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <p>Utilizamos ferramentas e serviÃ§os de terceiros que utilizam cookies. Essas ferramentas nos ajudam a oferecer uma melhor experiÃªncia de navegaÃ§Ã£o no site. Ao clicar no botÃ£o â€œConcordoâ€ ou continuar a visualizar nosso site, vocÃª concorda com o uso de cookies em nosso site.</p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons">   <button class="cky-btn cky-btn-accept" aria-label="Concordo" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#1863DC;border-color:#1863DC">Concordo</button>  </div></div></div></div></div><div class="cky-modal" tabindex="0"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#F4F4F4"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#212121">Customise Consent Preferences</span> <button class="cky-btn-close" aria-label="Close" data-cky-tag="detail-close"> <img src="/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"> <p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. </p><p>We also use third-party cookies that help us analyse how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. These cookies will only be stored in your browser with your prior consent.</p><p>You can choose to enable or disable some or all of these cookies but disabling some of them may affect your browsing experience.</p> </div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Necessary" data-cky-tag="detail-category-title" style="color:#212121">Necessary</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchnecessary"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Functional" data-cky-tag="detail-category-title" style="color:#212121">Functional</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchfunctional"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analytics" data-cky-tag="detail-category-title" style="color:#212121">Analytics</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchanalytics"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Performance" data-cky-tag="detail-category-title" style="color:#212121">Performance</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchperformance"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Advertisement" data-cky-tag="detail-category-title" style="color:#212121">Advertisement</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchadvertisement"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons">  <button class="cky-btn cky-btn-preferences" aria-label="Save My Preferences" data-cky-tag="detail-save-button" style="color:#1863DC;background-color:transparent;border-color:#1863DC"> Save My Preferences </button> <button class="cky-btn cky-btn-accept" aria-label="Concordo" data-cky-tag="detail-accept-button" style="color:#FFFFFF;background-color:#1863DC;border-color:#1863DC"> Concordo </button> </div></div></div></div></script><!-- Custom Feeds for Instagram JS -->
+		<script id="ckyBannerTemplate" type="text/template"><div class="cky-overlay cky-hide"></div><div class="cky-consent-container cky-hide" tabindex="0"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#F4F4F4">  <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#212121"></p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <p>Utilizamos ferramentas e serviços de terceiros que utilizam cookies. Essas ferramentas nos ajudam a oferecer uma melhor experiência de navegação no site. Ao clicar no botão “Concordo” ou continuar a visualizar nosso site, você concorda com o uso de cookies em nosso site.</p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons">   <button class="cky-btn cky-btn-accept" aria-label="Concordo" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#1863DC;border-color:#1863DC">Concordo</button>  </div></div></div></div></div><div class="cky-modal" tabindex="0"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#F4F4F4"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#212121">Customise Consent Preferences</span> <button class="cky-btn-close" aria-label="Close" data-cky-tag="detail-close"> <img src="/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"> <p>We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.</p><p>The cookies that are categorised as "Necessary" are stored on your browser as they are essential for enabling the basic functionalities of the site. </p><p>We also use third-party cookies that help us analyse how you use this website, store your preferences, and provide the content and advertisements that are relevant to you. These cookies will only be stored in your browser with your prior consent.</p><p>You can choose to enable or disable some or all of these cookies but disabling some of them may affect your browsing experience.</p> </div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Necessary" data-cky-tag="detail-category-title" style="color:#212121">Necessary</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchnecessary"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Necessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Functional" data-cky-tag="detail-category-title" style="color:#212121">Functional</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchfunctional"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Functional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analytics" data-cky-tag="detail-category-title" style="color:#212121">Analytics</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchanalytics"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Performance" data-cky-tag="detail-category-title" style="color:#212121">Performance</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchperformance"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Performance cookies are used to understand and analyse the key performance indexes of the website which helps in delivering a better user experience for the visitors.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Advertisement" data-cky-tag="detail-category-title" style="color:#212121">Advertisement</button><span class="cky-always-active">Always Active</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchadvertisement"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Advertisement cookies are used to provide visitors with customised advertisements based on the pages you visited previously and to analyse the effectiveness of the ad campaigns.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">No cookies to display.</p></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons">  <button class="cky-btn cky-btn-preferences" aria-label="Save My Preferences" data-cky-tag="detail-save-button" style="color:#1863DC;background-color:transparent;border-color:#1863DC"> Save My Preferences </button> <button class="cky-btn cky-btn-accept" aria-label="Concordo" data-cky-tag="detail-accept-button" style="color:#FFFFFF;background-color:#1863DC;border-color:#1863DC"> Concordo </button> </div></div></div></div></script><!-- Custom Feeds for Instagram JS -->
 <script type="text/javascript">
 var sbiajaxurl = "/wp-admin/admin-ajax.php";
 
 </script>
 <div id="wte-sp-notification"></div>
 
-<div class="joinchat joinchat--right joinchat--show" data-settings="{&quot;telephone&quot;:&quot;18294582170&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:3,&quot;whatsapp_web&quot;:false,&quot;qr&quot;:false,&quot;message_views&quot;:2,&quot;message_delay&quot;:5,&quot;message_badge&quot;:true,&quot;message_send&quot;:&quot;OlÃ¡, eu estava no site de Punta Cana para Brasileiros e gostaria de mais informaÃ§Ãµes.&quot;,&quot;message_hash&quot;:&quot;323486a4&quot;}" aria-hidden="false">
+<div class="joinchat joinchat--right joinchat--show" data-settings="{&quot;telephone&quot;:&quot;18294582170&quot;,&quot;mobile_only&quot;:false,&quot;button_delay&quot;:3,&quot;whatsapp_web&quot;:false,&quot;qr&quot;:false,&quot;message_views&quot;:2,&quot;message_delay&quot;:5,&quot;message_badge&quot;:true,&quot;message_send&quot;:&quot;Olá, eu estava no site de Punta Cana para Brasileiros e gostaria de mais informações.&quot;,&quot;message_hash&quot;:&quot;323486a4&quot;}" aria-hidden="false">
 	<div class="joinchat__button" role="button" tabindex="0" aria-label="Posso ajudar? Abrir bate-papo">
 									<div class="joinchat__tooltip" aria-hidden="true"><div>Posso ajudar?</div></div>
 			</div>
@@ -3485,7 +3485,7 @@ var sbiajaxurl = "/wp-admin/admin-ajax.php";
 			</div>
 			<div class="joinchat__scroll">
 				<div class="joinchat__content">
-					<div class="joinchat__chat"><div class="joinchat__bubble">OlÃ¡ <img draggable="false" role="img" class="emoji" alt="ðŸ‘‹" src="/assets/wp/1f44b.svg"><br>Posso ajudar? <img draggable="false" role="img" class="emoji" alt="ðŸ˜" src="/assets/wp/1f601.svg"></div></div>
+					<div class="joinchat__chat"><div class="joinchat__bubble">Olá <img draggable="false" role="img" class="emoji" alt="👋" src="/assets/wp/1f44b.svg"><br>Posso ajudar? <img draggable="false" role="img" class="emoji" alt="😁" src="/assets/wp/1f601.svg"></div></div>
 					<div class="joinchat__open" role="button" tabindex="0">
 													<div class="joinchat__open__text">Abrir bate-papo</div>
 												<svg class="joinchat__open__icon" width="60" height="60" viewBox="0 0 400 400">
@@ -3709,6 +3709,3 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 
 
 </a><span id="elementor-device-mode" class="elementor-screen-only"></span><svg style="display: none;" class="e-font-icon-svg-symbols"></svg><div id="sbi_lightboxOverlay" class="sbi_lightboxOverlay" style="display: none;"></div><div id="sbi_lightbox" class="sbi_lightbox" style="display: none;"><div class="sbi_lb-outerContainer"><div class="sbi_lb-nav"><a class="sbi_lb-prev" href="/#"><p class="sbi-screenreader">Previous Slide</p><span></span></a><a class="sbi_lb-next" href="/#"><p class="sbi-screenreader">Next Slide</p><span></span></a></div><div class="sbi_lb-container-wrapper"><div class="sbi_lb-container" style="overflow: hidden; touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><video class="sbi_video" src="" poster="" controls="" playsinline=""></video><div class="sbi_lb-image-wrap-outer"><div class="sbi_lb-image-wrap"><img class="sbi_lb-image" src="/" alt="Lightbox image placeholder"></div></div><div class="sbi_lb-loader"><svg class="svg-inline--fa  fa-w-16 fa-spin" aria-hidden="true" data-prefix="fa" data-icon="null" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-spin"></i> --></div></div><div class="sbi_lb-dataContainer"><div class="sbi_lb-data"><div class="sbi_lb-details"><span class="sbi_lb-caption"></span><span class="sbi_lb-number"></span><div class="sbi_lightbox_action sbi_share"><a href="JavaScript:void(0);"><svg class="svg-inline--fa fa-share fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="share" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M307 34.8c-11.5 5.1-19 16.6-19 29.2v64H176C78.8 128 0 206.8 0 304C0 417.3 81.5 467.9 100.2 478.1c2.5 1.4 5.3 1.9 8.1 1.9c10.9 0 19.7-8.9 19.7-19.7c0-7.5-4.3-14.4-9.8-19.5C108.8 431.9 96 414.4 96 384c0-53 43-96 96-96h96v64c0 12.6 7.4 24.1 19 29.2s25 3 34.4-5.4l160-144c6.7-6.1 10.6-14.7 10.6-23.8s-3.8-17.7-10.6-23.8l-160-144c-9.4-8.5-22.9-10.6-34.4-5.4z"></path></svg><!-- <i class="fa fa-share"></i> -->Share</a><p class="sbi_lightbox_tooltip sbi_tooltip_social"><a href="/" target="_blank" rel="noopener" id="sbi_facebook_icon"><span class="sbi-screenreader">Facebook</span><svg class="svg-inline--fa fa-facebook-square fa-w-16" aria-hidden="true" data-prefix="fab" data-icon="facebook-square" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fab fa-facebook-square"></i> --></a><a href="/" target="_blank" rel="noopener" id="sbi_twitter_icon"><span class="sbi-screenreader">Twitter</span><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg><!-- <i class="fa fab fa-twitter"></i> --></a><a href="/" target="_blank" rel="noopener" id="sbi_linkedin_icon"><span class="sbi-screenreader">Linkedin</span><svg class="svg-inline--fa fa-linkedin fa-w-14" aria-hidden="true" data-prefix="fab" data-icon="linkedin" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"></path></svg><!-- <i class="fa fab fa-linkedin"></i> --></a><a href="/" id="sbi_pinterest_icon" target="_blank" rel="noopener"><span class="sbi-screenreader">Pinterest</span><svg class="svg-inline--fa fa-pinterest fa-w-16" aria-hidden="true" data-prefix="fab" data-icon="pinterest" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"></path></svg><!-- <i class="fa fab fa-pinterest"></i> --></a><a href="/" id="sbi_email_icon" target="_blank" rel="noopener"><span class="sbi-screenreader">Email</span><svg class="svg-inline--fa fa-envelope fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="envelope" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"></path></svg><!-- <i class="fa fa-envelope"></i> --></a><a class="sbi_share_close"><svg class="svg-inline--fa fa-times fa-w-12" aria-hidden="true" data-fa-processed="" data-prefix="fa" data-icon="times" role="presentation" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path fill="currentColor" d="M323.1 441l53.9-53.9c9.4-9.4 9.4-24.5 0-33.9L279.8 256l97.2-97.2c9.4-9.4 9.4-24.5 0-33.9L323.1 71c-9.4-9.4-24.5-9.4-33.9 0L192 168.2 94.8 71c-9.4-9.4-24.5-9.4-33.9 0L7 124.9c-9.4 9.4-9.4 24.5 0 33.9l97.2 97.2L7 353.2c-9.4 9.4-9.4 24.5 0 33.9L60.9 441c9.4 9.4 24.5 9.4 33.9 0l97.2-97.2 97.2 97.2c9.3 9.3 24.5 9.3 33.9 0z"></path></svg></a></p></div><div class="sbi_lightbox_action sbi_instagram"><a href="https://www.instagram.com/" target="_blank" rel="noopener nofollow"><svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-prefix="fab" data-icon="instagram" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path></svg><!-- <i class="fa fab fa-instagram"></i> -->Instagram</a></div><div id="sbi_mod_link" class="sbi_lightbox_action"><a href="JavaScript:void(0);"><svg class="svg-inline--fa fa-times fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-times"></i> -->Hide photo (admin)</a><p id="sbi_mod_box" class="sbi_lightbox_tooltip">Add ID to the <strong>Hide Specific Photos</strong> setting: <span id="sbi_photo_id"></span></p></div></div><div class="sbi_lb-closeContainer"><a class="sbi_lb-close"><svg class="svg-inline--fa fa-times fa-w-16" aria-hidden="true" data-prefix="fa" data-icon="times" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><g><path fill="currentColor" d="M156.5,447.7l-12.6,29.5c-18.7-9.5-35.9-21.2-51.5-34.9l22.7-22.7C127.6,430.5,141.5,440,156.5,447.7z M40.6,272H8.5 c1.4,21.2,5.4,41.7,11.7,61.1L50,321.2C45.1,305.5,41.8,289,40.6,272z M40.6,240c1.4-18.8,5.2-37,11.1-54.1l-29.5-12.6 C14.7,194.3,10,216.7,8.5,240H40.6z M64.3,156.5c7.8-14.9,17.2-28.8,28.1-41.5L69.7,92.3c-13.7,15.6-25.5,32.8-34.9,51.5 L64.3,156.5z M397,419.6c-13.9,12-29.4,22.3-46.1,30.4l11.9,29.8c20.7-9.9,39.8-22.6,56.9-37.6L397,419.6z M115,92.4 c13.9-12,29.4-22.3,46.1-30.4l-11.9-29.8c-20.7,9.9-39.8,22.6-56.8,37.6L115,92.4z M447.7,355.5c-7.8,14.9-17.2,28.8-28.1,41.5 l22.7,22.7c13.7-15.6,25.5-32.9,34.9-51.5L447.7,355.5z M471.4,272c-1.4,18.8-5.2,37-11.1,54.1l29.5,12.6 c7.5-21.1,12.2-43.5,13.6-66.8H471.4z M321.2,462c-15.7,5-32.2,8.2-49.2,9.4v32.1c21.2-1.4,41.7-5.4,61.1-11.7L321.2,462z M240,471.4c-18.8-1.4-37-5.2-54.1-11.1l-12.6,29.5c21.1,7.5,43.5,12.2,66.8,13.6V471.4z M462,190.8c5,15.7,8.2,32.2,9.4,49.2h32.1 c-1.4-21.2-5.4-41.7-11.7-61.1L462,190.8z M92.4,397c-12-13.9-22.3-29.4-30.4-46.1l-29.8,11.9c9.9,20.7,22.6,39.8,37.6,56.9 L92.4,397z M272,40.6c18.8,1.4,36.9,5.2,54.1,11.1l12.6-29.5C317.7,14.7,295.3,10,272,8.5V40.6z M190.8,50 c15.7-5,32.2-8.2,49.2-9.4V8.5c-21.2,1.4-41.7,5.4-61.1,11.7L190.8,50z M442.3,92.3L419.6,115c12,13.9,22.3,29.4,30.5,46.1 l29.8-11.9C470,128.5,457.3,109.4,442.3,92.3z M397,92.4l22.7-22.7c-15.6-13.7-32.8-25.5-51.5-34.9l-12.6,29.5 C370.4,72.1,384.4,81.5,397,92.4z"></path><circle fill="currentColor" cx="256" cy="364" r="28"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="r" values="28;14;28;28;14;28;"></animate><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;1;1;0;1;"></animate></circle><path fill="currentColor" opacity="1" d="M263.7,312h-16c-6.6,0-12-5.4-12-12c0-71,77.4-63.9,77.4-107.8c0-20-17.8-40.2-57.4-40.2c-29.1,0-44.3,9.6-59.2,28.7 c-3.9,5-11.1,6-16.2,2.4l-13.1-9.2c-5.6-3.9-6.9-11.8-2.6-17.2c21.2-27.2,46.4-44.7,91.2-44.7c52.3,0,97.4,29.8,97.4,80.2 c0,67.6-77.4,63.5-77.4,107.8C275.7,306.6,270.3,312,263.7,312z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="1;0;0;0;0;1;"></animate></path><path fill="currentColor" opacity="0" d="M232.5,134.5l7,168c0.3,6.4,5.6,11.5,12,11.5h9c6.4,0,11.7-5.1,12-11.5l7-168c0.3-6.8-5.2-12.5-12-12.5h-23 C237.7,122,232.2,127.7,232.5,134.5z"><animate attributeType="XML" repeatCount="indefinite" dur="2s" attributeName="opacity" values="0;0;1;1;0;0;"></animate></path></g></svg><!-- <i class="fa fa-times"></i> --></a></div></div></div></div></div></div></body></html>
-
-
-
