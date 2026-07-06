@@ -104,7 +104,39 @@ class TourAdminController extends \Controller
     {
         $this->requireAdmin();
         if (!$this->isPost()) { $this->redirect('admin/passeios'); return; }
-        // Similar ao store, mas com update
+        if (!verify_csrf($this->input('csrf_token'))) { flash('error', 'Token inválido.'); $this->redirect('admin/passeios'); return; }
+
+        $id = (int)($this->input('id', 0));
+        if (!$id) { $this->redirect('admin/passeios'); return; }
+
+        $name = trim($this->input('name', ''));
+        $slug = slugify($name);
+
+        $tourModel = new \TourModel($this->db);
+        $tourModel->update($id, [
+            ':name' => $name,
+            ':slug' => $slug,
+            ':description' => $this->input('description', ''),
+            ':overview' => $this->input('overview', ''),
+            ':highlights' => $this->input('highlights', ''),
+            ':inclusions' => $this->input('inclusions', ''),
+            ':exclusions' => $this->input('exclusions', ''),
+            ':what_to_bring' => $this->input('what_to_bring', ''),
+            ':restrictions' => $this->input('restrictions', ''),
+            ':pregnant_allowed' => $this->input('pregnant_allowed', 1),
+            ':duration_hours' => $this->input('duration_hours', 0),
+            ':duration_days' => $this->input('duration_days', 0),
+            ':price_from' => $this->input('price_from', 0),
+            ':discount_percent' => $this->input('discount_percent', 0),
+            ':category_id' => $this->input('category_id') ?: null,
+            ':activity_type' => $this->input('activity_type', ''),
+            ':featured' => $this->input('featured', 0),
+            ':sort_order' => $this->input('sort_order', 0),
+            ':status' => $this->input('status', 'active'),
+            ':image_url' => $this->input('image_url', ''),
+            ':gallery' => $this->input('gallery', '[]'),
+        ]);
+
         flash('success', 'Passeio atualizado com sucesso!');
         $this->redirect('admin/passeios');
     }

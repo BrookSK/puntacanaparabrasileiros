@@ -8,14 +8,11 @@ class AuthController extends \Controller
 {
     public function login()
     {
-        if ($this->isAdmin()) {
+        if ($this->isLoggedIn() && in_array($_SESSION['user_role'] ?? '', ['superadmin', 'admin', 'support'])) {
             $this->redirect('admin');
             return;
         }
-
-        $this->view('admin.login', [
-            'pageTitle' => 'Login Admin - Punta Cana para Brasileiros',
-        ]);
+        $this->redirect('/login');
     }
 
     public function authenticate()
