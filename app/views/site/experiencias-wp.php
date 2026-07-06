@@ -1381,6 +1381,28 @@ div#nb-4-configurations {
 				<div class="elementor-element elementor-element-323c5fb has-header-decoration elementor-widget elementor-widget-wptravelengine-trips" data-id="323c5fb" data-element_type="widget" data-e-type="widget" data-widget_type="wptravelengine-trips.default">
 				<div class="elementor-widget-container">
 					<div class="wp-block-wptravelengine-trips wpte-gblock-wrapper elementor-addon wpte-elementor-widget">	<div class="category-grid wte-d-flex wpte-trip-list-wrapper						    wte-col-3 columns-tablet-2 columns-mobile-1	">
+	<?php if (!empty($GLOBALS['dynamic_tours'])): foreach ($GLOBALS['dynamic_tours'] as $dtour): ?>
+	<div class="wpte-trip-single wpte-layout-5">
+		<div class="wpte-inner-container">
+			<div class="wpte-trip-image-wrap">
+				<figure class="thumbnail" style="padding-top:68%;position:relative;overflow:hidden;border-radius:4px 4px 0 0;background:#efefef;">
+					<a href="<?= base_url('passeio?slug=' . ($dtour['slug'] ?? '')) ?>">
+						<img src="<?= htmlspecialchars($dtour['image_url'] ?: '/assets/wp/placeholder.png') ?>" alt="<?= htmlspecialchars($dtour['name']) ?>" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;">
+					</a>
+				</figure>
+				<?php if ($dtour['discount_percent'] > 0): ?><div class="discount-text-wrap"><span class="discount-percent"><?= (int)$dtour['discount_percent'] ?>% OFF</span></div><?php endif; ?>
+			</div>
+			<div class="wpte-trip-details-wrap" style="padding:24px;">
+				<div class="wpte-trip-header-wrap"><h2 class="wpte-trip-title" style="font-size:19px;font-weight:500;margin:0 0 16px;"><a href="<?= base_url('passeio?slug=' . ($dtour['slug'] ?? '')) ?>"><?= htmlspecialchars($dtour['name']) ?></a></h2></div>
+				<div class="wpte-trip-meta" style="font-size:16px;"><?php if ($dtour['duration_hours'] > 0): ?><span><span class="wpte-icon-clock"></span> <?= $dtour['duration_hours'] ?> Horas</span><?php endif; ?></div>
+				<div style="display:flex;justify-content:space-between;align-items:center;margin-top:16px;">
+					<?php if ($dtour['discount_percent'] > 0): ?><del style="color:rgba(28,32,17,0.6);">$<?= number_format($dtour['price_from'] / (1 - $dtour['discount_percent']/100), 0) ?></del><?php endif; ?>
+					<span style="font-size:28px;font-weight:500;">$<?= number_format($dtour['price_from'], 0) ?></span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<?php endforeach; endif; ?>
 	<!-- Layout 2 -->
 <div class="wpte-trip-single wpte-layout-5">
 	<div class="wpte-inner-container">

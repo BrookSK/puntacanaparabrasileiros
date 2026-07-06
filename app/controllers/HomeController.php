@@ -3,6 +3,16 @@ class HomeController extends Controller
 {
     public function index()
     {
+        // Buscar passeios em destaque para injetar na home
+        $db = new \Database();
+        $conn = $db->getConnection();
+        $stmt = $conn->query("SELECT * FROM tours WHERE status = 'active' AND featured = 1 ORDER BY sort_order, created_at DESC LIMIT 6");
+        $GLOBALS['featured_tours'] = $stmt->fetchAll();
+        
+        // Todos os passeios ativos para a seção de listagem
+        $stmt = $conn->query("SELECT * FROM tours WHERE status = 'active' ORDER BY sort_order, created_at DESC LIMIT 12");
+        $GLOBALS['all_tours'] = $stmt->fetchAll();
+        
         require_once VIEWS_PATH . '/site/home-wp.php';
     }
 

@@ -6,7 +6,13 @@ class TourController extends Controller
 {
     public function index()
     {
-        // Servir o HTML original do WordPress para a listagem
+        // Buscar passeios do banco para injetar na página
+        $tourModel = new TourModel($this->db);
+        $tours = $tourModel->getAll(1, 50);
+        
+        // Disponibilizar para a view
+        $GLOBALS['dynamic_tours'] = $tours;
+        
         require_once VIEWS_PATH . '/site/experiencias-wp.php';
     }
 
