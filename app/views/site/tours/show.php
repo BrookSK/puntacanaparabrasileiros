@@ -134,7 +134,7 @@
             </div>
             <?php endif; ?>
 
-            <a href="<?= base_url('carrinho/adicionar?item_type=tour&item_id=' . $t['id']) ?>" style="display:block; width:100%; padding:16px; background:#1b6f00; color:#fff; text-align:center; border-radius:8px; font-family:'Poppins',sans-serif; font-size:16px; font-weight:600; text-decoration:none; margin-top:20px; transition:background 0.3s;" onmouseover="this.style.background='#155d00'" onmouseout="this.style.background='#1b6f00'">Verificar Disponibilidade</a>
+            <a href="#" onclick="openBookingModal()" style="display:block; width:100%; padding:16px; background:#1b6f00; color:#fff; text-align:center; border-radius:8px; font-family:'Poppins',sans-serif; font-size:16px; font-weight:600; text-decoration:none; margin-top:20px; transition:background 0.3s;" onmouseover="this.style.background='#155d00'" onmouseout="this.style.background='#1b6f00'">Verificar Disponibilidade</a>
             
             <p style="text-align:center; margin-top:15px; font-size:13px; color:#666;">
                 Precisa de ajuda? <a href="https://api.whatsapp.com/send?phone=18294582170" style="color:#1b6f00; font-weight:500;">Envie-Nos Uma Mensagem</a>
@@ -170,4 +170,138 @@ function showTab(tab) {
     event.target.style.borderBottom = '2px solid #1b6f00';
     event.target.style.color = '#1b6f00';
 }
+</script>
+
+<!-- Booking Modal -->
+<div id="bookingModal" style="display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.6); z-index:99999; display:none; align-items:center; justify-content:center;">
+    <div style="background:#fff; border-radius:16px; max-width:500px; width:90%; max-height:90vh; overflow-y:auto; padding:32px; position:relative; box-shadow:0 20px 60px rgba(0,0,0,0.3);">
+        <button onclick="closeBookingModal()" style="position:absolute; top:16px; right:16px; background:none; border:none; font-size:24px; cursor:pointer; color:#666;">✕</button>
+        
+        <h2 style="font-family:'Poppins',sans-serif; font-size:22px; font-weight:600; margin-bottom:8px;"><?= htmlspecialchars($t['name']) ?></h2>
+        <p style="font-size:14px; color:#6b7280; margin-bottom:24px;">Selecione a data e passageiros</p>
+
+        <!-- Step 1: Date -->
+        <div id="step-date">
+            <label style="display:block; margin-bottom:8px; font-family:'Poppins',sans-serif; font-weight:500; font-size:14px;">📅 Data do Passeio *</label>
+            <input type="date" id="booking-date" min="<?= date('Y-m-d', strtotime('+' . ($t['min_advance_hours'] ?? 24) . ' hours')) ?>" style="width:100%; padding:14px 16px; border:1px solid #e0e0e0; border-radius:8px; font-size:16px; font-family:'Poppins',sans-serif; background:#f9fafb; margin-bottom:20px;">
+            
+            <label style="display:block; margin-bottom:8px; font-family:'Poppins',sans-serif; font-weight:500; font-size:14px;">🕐 Horário</label>
+            <select id="booking-time" style="width:100%; padding:14px 16px; border:1px solid #e0e0e0; border-radius:8px; font-size:16px; font-family:'Poppins',sans-serif; background:#f9fafb; margin-bottom:24px;">
+                <option value="">Selecione o horário</option>
+                <option value="07:00">07:00</option>
+                <option value="08:00">08:00</option>
+                <option value="09:00">09:00</option>
+                <option value="10:00">10:00</option>
+                <option value="11:00">11:00</option>
+                <option value="12:00">12:00</option>
+                <option value="13:00">13:00</option>
+                <option value="14:00">14:00</option>
+                <option value="15:00">15:00</option>
+                <option value="16:00">16:00</option>
+            </select>
+
+            <button onclick="goToStep2()" style="width:100%; padding:14px; background:#3772c0; color:#fff; border:none; border-radius:8px; font-size:16px; font-family:'Poppins',sans-serif; font-weight:500; cursor:pointer;">Continuar →</button>
+        </div>
+
+        <!-- Step 2: Passengers -->
+        <div id="step-passengers" style="display:none;">
+            <div style="margin-bottom:20px;">
+                <div style="display:flex; justify-content:space-between; align-items:center; padding:16px 0; border-bottom:1px solid #f3f4f6;">
+                    <div>
+                        <span style="font-family:'Poppins',sans-serif; font-weight:500;">Adultos</span>
+                        <span style="font-size:12px; color:#6b7280; display:block;">18+ anos</span>
+                    </div>
+                    <div style="display:flex; align-items:center; gap:12px;">
+                        <button onclick="changeQty('adults',-1)" style="width:36px; height:36px; border-radius:50%; border:1px solid #e0e0e0; background:#f9fafb; font-size:18px; cursor:pointer;">−</button>
+                        <span id="qty-adults" style="font-family:'Poppins',sans-serif; font-weight:600; font-size:18px; min-width:24px; text-align:center;">1</span>
+                        <button onclick="changeQty('adults',1)" style="width:36px; height:36px; border-radius:50%; border:1px solid #e0e0e0; background:#f9fafb; font-size:18px; cursor:pointer;">+</button>
+                    </div>
+                </div>
+                <div style="display:flex; justify-content:space-between; align-items:center; padding:16px 0; border-bottom:1px solid #f3f4f6;">
+                    <div>
+                        <span style="font-family:'Poppins',sans-serif; font-weight:500;">Crianças</span>
+                        <span style="font-size:12px; color:#6b7280; display:block;">2-17 anos</span>
+                    </div>
+                    <div style="display:flex; align-items:center; gap:12px;">
+                        <button onclick="changeQty('children',-1)" style="width:36px; height:36px; border-radius:50%; border:1px solid #e0e0e0; background:#f9fafb; font-size:18px; cursor:pointer;">−</button>
+                        <span id="qty-children" style="font-family:'Poppins',sans-serif; font-weight:600; font-size:18px; min-width:24px; text-align:center;">0</span>
+                        <button onclick="changeQty('children',1)" style="width:36px; height:36px; border-radius:50%; border:1px solid #e0e0e0; background:#f9fafb; font-size:18px; cursor:pointer;">+</button>
+                    </div>
+                </div>
+                <div style="display:flex; justify-content:space-between; align-items:center; padding:16px 0;">
+                    <div>
+                        <span style="font-family:'Poppins',sans-serif; font-weight:500;">Bebês</span>
+                        <span style="font-size:12px; color:#6b7280; display:block;">0-1 anos (grátis)</span>
+                    </div>
+                    <div style="display:flex; align-items:center; gap:12px;">
+                        <button onclick="changeQty('babies',-1)" style="width:36px; height:36px; border-radius:50%; border:1px solid #e0e0e0; background:#f9fafb; font-size:18px; cursor:pointer;">−</button>
+                        <span id="qty-babies" style="font-family:'Poppins',sans-serif; font-weight:600; font-size:18px; min-width:24px; text-align:center;">0</span>
+                        <button onclick="changeQty('babies',1)" style="width:36px; height:36px; border-radius:50%; border:1px solid #e0e0e0; background:#f9fafb; font-size:18px; cursor:pointer;">+</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Total -->
+            <div style="background:#f0fdf4; border-radius:8px; padding:16px; margin-bottom:20px; text-align:center;">
+                <span style="font-size:14px; color:#166534;">Total estimado:</span>
+                <span id="booking-total" style="font-family:'Poppins',sans-serif; font-size:24px; font-weight:700; color:#1b6f00; margin-left:8px;">$<?= number_format($t['price_from'], 0) ?></span>
+            </div>
+
+            <div style="display:flex; gap:12px;">
+                <form action="<?= base_url('carrinho/adicionar') ?>" method="POST" style="flex:1;" id="addToCartForm">
+                    <?= csrf_field() ?>
+                    <input type="hidden" name="item_type" value="tour">
+                    <input type="hidden" name="item_id" value="<?= $t['id'] ?>">
+                    <input type="hidden" name="date" id="form-date">
+                    <input type="hidden" name="time_slot" id="form-time">
+                    <input type="hidden" name="adults" id="form-adults" value="1">
+                    <input type="hidden" name="children" id="form-children" value="0">
+                    <input type="hidden" name="babies" id="form-babies" value="0">
+                    <button type="submit" style="width:100%; padding:14px; background:#1b6f00; color:#fff; border:none; border-radius:8px; font-size:15px; font-family:'Poppins',sans-serif; font-weight:500; cursor:pointer;">🛒 Adicionar ao Carrinho</button>
+                </form>
+            </div>
+            <button onclick="goToStep1()" style="width:100%; padding:10px; background:none; border:none; color:#3772c0; font-family:'Poppins',sans-serif; font-size:14px; cursor:pointer; margin-top:10px;">← Voltar</button>
+        </div>
+    </div>
+</div>
+
+<script>
+var bookingQty = { adults: 1, children: 0, babies: 0 };
+var tourPrice = <?= (float)$t['price_from'] ?>;
+
+function openBookingModal() {
+    document.getElementById('bookingModal').style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+}
+function closeBookingModal() {
+    document.getElementById('bookingModal').style.display = 'none';
+    document.body.style.overflow = '';
+}
+function goToStep2() {
+    var date = document.getElementById('booking-date').value;
+    if (!date) { alert('Selecione uma data'); return; }
+    document.getElementById('step-date').style.display = 'none';
+    document.getElementById('step-passengers').style.display = 'block';
+    document.getElementById('form-date').value = date;
+    document.getElementById('form-time').value = document.getElementById('booking-time').value;
+    updateTotal();
+}
+function goToStep1() {
+    document.getElementById('step-date').style.display = 'block';
+    document.getElementById('step-passengers').style.display = 'none';
+}
+function changeQty(type, delta) {
+    bookingQty[type] = Math.max(type === 'adults' ? 1 : 0, bookingQty[type] + delta);
+    document.getElementById('qty-' + type).textContent = bookingQty[type];
+    document.getElementById('form-' + type).value = bookingQty[type];
+    updateTotal();
+}
+function updateTotal() {
+    var total = (bookingQty.adults + bookingQty.children) * tourPrice;
+    document.getElementById('booking-total').textContent = '$' + total.toFixed(0);
+}
+// Close on overlay click
+document.getElementById('bookingModal').addEventListener('click', function(e) {
+    if (e.target === this) closeBookingModal();
+});
 </script>
