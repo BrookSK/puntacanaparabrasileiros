@@ -32,6 +32,7 @@ class Router
             'experiencias' => ['TourController', 'index'],
             'passeios' => ['TourController', 'index'],
             'passeio' => ['TourController', 'show'],
+            'trip' => ['TourController', 'showWp'],
             'transfer' => ['TransferController', 'index'],
             'transfer/buscar' => ['TransferController', 'search'],
             'blog' => ['BlogController', 'index'],

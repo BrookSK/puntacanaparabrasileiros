@@ -20,8 +20,8 @@ class TourController extends Controller
         $tour = $tourModel->findBySlug($slug);
 
         if (!$tour) {
-            http_response_code(404);
-            require_once VIEWS_PATH . '/errors/404.php';
+            // Fallback: show the WP static page
+            require_once VIEWS_PATH . '/site/passeio-detalhe-wp.php';
             return;
         }
 
@@ -46,5 +46,10 @@ class TourController extends Controller
             'documents' => $documents,
             'relatedTours' => $relatedTours,
         ]);
+    }
+
+    public function showWp()
+    {
+        require_once VIEWS_PATH . '/site/passeio-detalhe-wp.php';
     }
 }
