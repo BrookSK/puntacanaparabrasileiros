@@ -1,253 +1,173 @@
-<?php ob_start(); ?>
+<?php $t = $tour; ?>
 
-<section class="py-4">
-    <div class="container">
-        <!-- Breadcrumb -->
-        <nav aria-label="breadcrumb" class="mb-3">
-            <ol class="breadcrumb small">
-                <li class="breadcrumb-item"><a href="<?= base_url() ?>">Home</a></li>
-                <li class="breadcrumb-item"><a href="<?= base_url('experiencias') ?>">Passeios</a></li>
-                <li class="breadcrumb-item active"><?= e($tour['name']) ?></li>
-            </ol>
-        </nav>
+<!-- Banner Image -->
+<?php if (!empty($t['image_url'])): ?>
+<div style="width:100%; height:400px; background: url('<?= htmlspecialchars($t['image_url']) ?>') center/cover no-repeat; border-radius: 0 0 20px 20px; margin-bottom: 40px;"></div>
+<?php endif; ?>
 
-        <div class="row g-4">
-            <!-- Conteúdo Principal -->
-            <div class="col-lg-8">
-                <!-- Imagem -->
-                <div class="position-relative mb-4">
-                    <img src="<?= e($tour['image_url'] ?: asset('img/tour-placeholder.jpg')) ?>" 
-                         class="img-fluid rounded-4 w-100" alt="<?= e($tour['name']) ?>" style="max-height:450px;object-fit:cover;">
-                    <?php if ($tour['discount_percent'] > 0): ?>
-                    <span class="badge bg-danger fs-6 position-absolute top-0 end-0 m-3"><?= (int)$tour['discount_percent'] ?>% Off</span>
-                    <?php endif; ?>
-                </div>
+<div style="display:flex; gap:40px; flex-wrap:wrap; max-width:1290px; margin:0 auto; padding:0 20px;">
+    <!-- Main Content -->
+    <div style="flex:1; min-width:0;">
+        <h1 style="font-family:'Poppins',sans-serif; font-size:36px; font-weight:600; color:#1C2011; margin-bottom:20px;"><?= htmlspecialchars($t['name']) ?></h1>
+        
+        <!-- Meta info -->
+        <div style="display:flex; gap:20px; margin-bottom:30px; font-family:'Poppins',sans-serif; font-size:14px; color:#4B5563;">
+            <?php if ($t['duration_hours'] > 0): ?>
+            <span><span class="wpte-icon-clock"></span> <?= $t['duration_hours'] ?> Horas</span>
+            <?php endif; ?>
+            <?php if (!empty($t['location'])): ?>
+            <span><span class="wpte-icon-map-marker"></span> <?= htmlspecialchars($t['location']) ?></span>
+            <?php endif; ?>
+            <?php if ($t['max_capacity']): ?>
+            <span><span class="wpte-icon-users"></span> Máx. <?= $t['max_capacity'] ?> pessoas</span>
+            <?php endif; ?>
+        </div>
 
-                <h1 class="fw-bold"><?= e($tour['name']) ?></h1>
-                
-                <div class="d-flex flex-wrap gap-3 mb-4">
-                    <?php if ($tour['duration_hours']): ?>
-                    <span class="badge bg-light text-dark"><i class="bi bi-clock"></i> <?= (int)$tour['duration_hours'] ?> Horas</span>
-                    <?php endif; ?>
-                    <span class="badge bg-light text-dark"><i class="bi bi-tag"></i> <?= e($tour['category_name'] ?? '') ?></span>
-                    <?php if (!$tour['pregnant_allowed']): ?>
-                    <span class="badge bg-warning text-dark"><i class="bi bi-exclamation-triangle"></i> Não permitido para gestantes</span>
-                    <?php endif; ?>
-                </div>
+        <!-- Description -->
+        <?php if (!empty($t['description'])): ?>
+        <p style="font-family:'Poppins',sans-serif; font-size:16px; line-height:1.8; color:#4B5563; margin-bottom:30px;"><?= nl2br(htmlspecialchars($t['description'])) ?></p>
+        <?php endif; ?>
 
-                <!-- Visão Geral / Descrição -->
-                <div class="mb-4">
-                    <h4 class="fw-bold">Visão Geral</h4>
-                    <div class="text-muted"><?= nl2br(e($tour['overview'] ?: $tour['description'])) ?></div>
-                </div>
+        <?php if (!$t['pregnant_allowed']): ?>
+        <p style="font-weight:600; color:#dc2626; margin-bottom:20px;">⚠️ Gestantes não são permitidas.</p>
+        <?php endif; ?>
 
-                <!-- Destaques -->
-                <?php if ($tour['highlights']): ?>
-                <div class="mb-4">
-                    <h4 class="fw-bold">Destaques</h4>
-                    <div class="text-muted"><?= nl2br(e($tour['highlights'])) ?></div>
-                </div>
+        <!-- Tabs -->
+        <div style="border-bottom:2px solid #e5e7eb; margin-bottom:30px;">
+            <div style="display:flex; gap:30px;">
+                <button onclick="showTab('overview')" class="tab-btn active" style="padding:12px 0; border:none; background:none; font-family:'Poppins',sans-serif; font-size:16px; font-weight:500; cursor:pointer; border-bottom:2px solid #1b6f00; margin-bottom:-2px; color:#1b6f00;">Visão Geral</button>
+                <?php if (!empty($packages)): ?>
+                <button onclick="showTab('packages')" class="tab-btn" style="padding:12px 0; border:none; background:none; font-family:'Poppins',sans-serif; font-size:16px; font-weight:500; cursor:pointer; color:#4B5563;">Pacotes & Preços</button>
                 <?php endif; ?>
-
-                <!-- O que inclui / O que não inclui -->
-                <div class="row g-4 mb-4">
-                    <?php if ($tour['inclusions']): ?>
-                    <div class="col-md-6">
-                        <h5 class="fw-bold text-success"><i class="bi bi-check-circle"></i> O que inclui</h5>
-                        <div class="text-muted"><?= nl2br(e($tour['inclusions'])) ?></div>
-                    </div>
-                    <?php endif; ?>
-                    <?php if ($tour['exclusions']): ?>
-                    <div class="col-md-6">
-                        <h5 class="fw-bold text-danger"><i class="bi bi-x-circle"></i> O que não inclui</h5>
-                        <div class="text-muted"><?= nl2br(e($tour['exclusions'])) ?></div>
-                    </div>
-                    <?php endif; ?>
-                </div>
-
-                <!-- O que levar -->
-                <?php if ($tour['what_to_bring']): ?>
-                <div class="mb-4">
-                    <h5 class="fw-bold"><i class="bi bi-backpack"></i> O que levar</h5>
-                    <div class="text-muted"><?= nl2br(e($tour['what_to_bring'])) ?></div>
-                </div>
-                <?php endif; ?>
-
-                <!-- Restrições -->
-                <?php if ($tour['restrictions']): ?>
-                <div class="mb-4">
-                    <h5 class="fw-bold"><i class="bi bi-exclamation-triangle"></i> Restrições</h5>
-                    <div class="text-muted"><?= nl2br(e($tour['restrictions'])) ?></div>
-                </div>
-                <?php endif; ?>
-
-                <!-- Documentos Obrigatórios -->
-                <?php if (!empty($documents)): ?>
-                <div class="mb-4">
-                    <h5 class="fw-bold"><i class="bi bi-file-earmark-text"></i> Documentos Obrigatórios</h5>
-                    <ul class="list-group list-group-flush">
-                        <?php foreach ($documents as $doc): ?>
-                        <li class="list-group-item px-0">
-                            <strong><?= e($doc['name']) ?></strong>
-                            <?php if ($doc['required']): ?><span class="badge bg-danger small">Obrigatório</span><?php endif; ?>
-                            <?php if ($doc['description']): ?><p class="small text-muted mb-0"><?= e($doc['description']) ?></p><?php endif; ?>
-                            <small class="text-muted">Enviar: <?= $doc['submission_time'] === 'checkout' ? 'No checkout' : ($doc['submission_time'] === 'before_tour' ? 'Antes do passeio' : 'No local') ?></small>
-                        </li>
-                        <?php endforeach; ?>
-                    </ul>
-                </div>
-                <?php endif; ?>
-
-                <!-- FAQ -->
                 <?php if (!empty($faqs)): ?>
-                <div class="mb-4">
-                    <h4 class="fw-bold">Perguntas Frequentes</h4>
-                    <div class="accordion" id="tourFaq">
-                        <?php foreach ($faqs as $i => $faq): ?>
-                        <div class="accordion-item border-0 mb-2">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#faq<?= $i ?>">
-                                    <?= e($faq['question']) ?>
-                                </button>
-                            </h2>
-                            <div id="faq<?= $i ?>" class="accordion-collapse collapse" data-bs-parent="#tourFaq">
-                                <div class="accordion-body text-muted"><?= e($faq['answer']) ?></div>
-                            </div>
-                        </div>
-                        <?php endforeach; ?>
-                    </div>
-                </div>
+                <button onclick="showTab('faqs')" class="tab-btn" style="padding:12px 0; border:none; background:none; font-family:'Poppins',sans-serif; font-size:16px; font-weight:500; cursor:pointer; color:#4B5563;">FAQs</button>
                 <?php endif; ?>
-
-                <!-- Avaliações -->
-                <?php if (!empty($reviews)): ?>
-                <div class="mb-4">
-                    <h4 class="fw-bold">Avaliações</h4>
-                    <?php foreach ($reviews as $review): ?>
-                    <div class="card border-0 bg-light mb-2 p-3">
-                        <div class="d-flex justify-content-between">
-                            <strong><?= e($review['user_name'] ?? 'Anônimo') ?></strong>
-                            <div class="text-warning">
-                                <?php for ($s = 0; $s < $review['rating']; $s++): ?><i class="bi bi-star-fill"></i><?php endfor; ?>
-                            </div>
-                        </div>
-                        <p class="text-muted small mb-0 mt-1"><?= e($review['comment']) ?></p>
-                        <small class="text-muted"><?= format_date($review['created_at']) ?></small>
-                    </div>
-                    <?php endforeach; ?>
-                </div>
-                <?php endif; ?>
-
-                <!-- Formulário de Consulta -->
-                <div class="card border-0 shadow-sm p-4 mb-4">
-                    <h5 class="fw-bold">Envie sua consulta</h5>
-                    <p class="text-muted small">Você pode enviar sua consulta através do formulário abaixo.</p>
-                    <form action="<?= base_url('contato/enviar') ?>" method="POST">
-                        <?= csrf_field() ?>
-                        <input type="hidden" name="subject" value="Consulta: <?= e($tour['name']) ?>">
-                        <div class="row g-2">
-                            <div class="col-md-6"><input type="text" name="name" class="form-control" placeholder="Nome" required></div>
-                            <div class="col-md-6"><input type="email" name="email" class="form-control" placeholder="Email" required></div>
-                            <div class="col-12"><textarea name="message" class="form-control" rows="3" placeholder="Mensagem" required></textarea></div>
-                            <div class="col-12"><button type="submit" class="btn btn-primary">Enviar Consulta</button></div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-
-            <!-- Sidebar - Reserva -->
-            <div class="col-lg-4">
-                <div class="card border-0 shadow sticky-top" style="top: 100px;">
-                    <div class="card-body p-4">
-                        <div class="text-center mb-3">
-                            <span class="fs-4 fw-bold text-primary"><?= format_money($tour['price_from']) ?></span>
-                            <span class="text-muted small">/ por pessoa</span>
-                        </div>
-
-                        <form action="<?= base_url('carrinho/adicionar') ?>" method="POST">
-                            <?= csrf_field() ?>
-                            <input type="hidden" name="item_type" value="tour">
-                            <input type="hidden" name="item_id" value="<?= $tour['id'] ?>">
-
-                            <!-- Pacote -->
-                            <?php if (!empty($packages)): ?>
-                            <div class="mb-3">
-                                <label class="form-label fw-semibold">Pacote</label>
-                                <select name="package_id" class="form-select" id="packageSelect">
-                                    <?php foreach ($packages as $pkg): ?>
-                                    <option value="<?= $pkg['id'] ?>"><?= e($pkg['name']) ?></option>
-                                    <?php endforeach; ?>
-                                </select>
-                            </div>
-                            <?php endif; ?>
-
-                            <!-- Data -->
-                            <div class="mb-3">
-                                <label class="form-label fw-semibold">Data</label>
-                                <input type="date" name="date" class="form-control" required min="<?= date('Y-m-d', strtotime('+1 day')) ?>">
-                            </div>
-
-                            <!-- Passageiros -->
-                            <?php if (!empty($packages)): ?>
-                                <?php foreach ($packages as $pkg): ?>
-                                    <?php if (!empty($pkg['age_groups'])): ?>
-                                    <div class="package-ages" data-package="<?= $pkg['id'] ?>">
-                                        <?php foreach ($pkg['age_groups'] as $ag): ?>
-                                        <div class="d-flex justify-content-between align-items-center mb-2 p-2 bg-light rounded">
-                                            <div>
-                                                <strong class="small"><?= e($ag['label']) ?></strong>
-                                                <br><small class="text-muted"><?= $ag['min_age'] ?>-<?= $ag['max_age'] ?> anos | <?= format_money($ag['price']) ?></small>
-                                            </div>
-                                            <input type="number" name="qty_age_<?= $ag['id'] ?>" class="form-control form-control-sm" style="width:70px" value="0" min="0">
-                                        </div>
-                                        <?php endforeach; ?>
-                                    </div>
-                                    <?php endif; ?>
-                                <?php endforeach; ?>
-                            <?php else: ?>
-                            <div class="mb-3">
-                                <label class="form-label fw-semibold">Adultos</label>
-                                <input type="number" name="adults" class="form-control" value="1" min="1">
-                            </div>
-                            <div class="mb-3">
-                                <label class="form-label fw-semibold">Crianças</label>
-                                <input type="number" name="children" class="form-control" value="0" min="0">
-                            </div>
-                            <?php endif; ?>
-
-                            <button type="submit" class="btn btn-primary w-100 btn-lg mt-3">
-                                <i class="bi bi-cart-plus"></i> Adicionar ao Carrinho
-                            </button>
-                            <button type="submit" formaction="<?= base_url('checkout') ?>" class="btn btn-outline-primary w-100 mt-2">
-                                Ir para Checkout
-                            </button>
-                        </form>
-                    </div>
-                </div>
             </div>
         </div>
 
-        <!-- Passeios Relacionados -->
-        <?php if (!empty($relatedTours)): ?>
-        <div class="mt-5">
-            <h3 class="fw-bold mb-4">Passeios Relacionados</h3>
-            <div class="row g-4">
-                <?php foreach ($relatedTours as $related): ?>
-                <div class="col-md-3">
-                    <div class="card tour-card h-100 border-0 shadow-sm">
-                        <img src="<?= e($related['image_url'] ?: asset('img/tour-placeholder.jpg')) ?>" class="card-img-top" style="height:150px;object-fit:cover;">
-                        <div class="card-body">
-                            <h6 class="fw-bold"><a href="<?= base_url('passeio/' . $related['slug']) ?>" class="text-decoration-none text-dark"><?= e($related['name']) ?></a></h6>
-                            <span class="fw-bold text-primary"><?= format_money($related['price_from']) ?></span>
-                        </div>
-                    </div>
-                </div>
-                <?php endforeach; ?>
+        <!-- Tab: Overview -->
+        <div id="tab-overview" class="tab-content">
+            <?php if (!empty($t['overview'])): ?>
+            <h2 style="font-family:'Poppins',sans-serif; font-size:24px; font-weight:600; margin-bottom:20px;">Visão Geral</h2>
+            <div style="font-family:'Poppins',sans-serif; font-size:16px; line-height:1.8; color:#374151;"><?= nl2br(htmlspecialchars($t['overview'])) ?></div>
+            <?php endif; ?>
+
+            <?php if (!empty($t['highlights'])): ?>
+            <h3 style="font-family:'Poppins',sans-serif; font-size:20px; font-weight:600; margin:30px 0 15px;">Destaques</h3>
+            <ul style="font-family:'Poppins',sans-serif; font-size:15px; line-height:2; color:#374151; padding-left:20px;">
+                <?php foreach (explode("\n", $t['highlights']) as $h): if (trim($h)): ?>
+                <li><?= htmlspecialchars(trim($h)) ?></li>
+                <?php endif; endforeach; ?>
+            </ul>
+            <?php endif; ?>
+
+            <?php if (!empty($t['inclusions'])): ?>
+            <h3 style="font-family:'Poppins',sans-serif; font-size:20px; font-weight:600; margin:30px 0 15px; color:#1b6f00;">✓ O que Inclui</h3>
+            <ul style="font-family:'Poppins',sans-serif; font-size:15px; line-height:2; color:#374151; padding-left:20px; list-style:none;">
+                <?php foreach (explode("\n", $t['inclusions']) as $item): if (trim($item)): ?>
+                <li>✅ <?= htmlspecialchars(trim($item)) ?></li>
+                <?php endif; endforeach; ?>
+            </ul>
+            <?php endif; ?>
+
+            <?php if (!empty($t['exclusions'])): ?>
+            <h3 style="font-family:'Poppins',sans-serif; font-size:20px; font-weight:600; margin:30px 0 15px; color:#dc2626;">✗ O que Não Inclui</h3>
+            <ul style="font-family:'Poppins',sans-serif; font-size:15px; line-height:2; color:#374151; padding-left:20px; list-style:none;">
+                <?php foreach (explode("\n", $t['exclusions']) as $item): if (trim($item)): ?>
+                <li>❌ <?= htmlspecialchars(trim($item)) ?></li>
+                <?php endif; endforeach; ?>
+            </ul>
+            <?php endif; ?>
+        </div>
+
+        <!-- Tab: Packages -->
+        <div id="tab-packages" class="tab-content" style="display:none;">
+            <?php if (!empty($packages)): foreach ($packages as $pkg): ?>
+            <div style="border:1px solid #e5e7eb; border-radius:12px; padding:24px; margin-bottom:20px;">
+                <h3 style="font-family:'Poppins',sans-serif; font-size:20px; font-weight:600; margin-bottom:10px;"><?= htmlspecialchars($pkg['name']) ?></h3>
+                <?php if (!empty($pkg['description'])): ?>
+                <p style="color:#4B5563; margin-bottom:15px;"><?= htmlspecialchars($pkg['description']) ?></p>
+                <?php endif; ?>
+                <?php if (!empty($pkg['age_groups'])): ?>
+                <table style="width:100%; font-family:'Poppins',sans-serif; font-size:14px;">
+                    <tr style="background:#f9fafb;"><th style="padding:10px; text-align:left;">Faixa Etária</th><th style="padding:10px;">Idade</th><th style="padding:10px; text-align:right;">Preço</th></tr>
+                    <?php foreach ($pkg['age_groups'] as $ag): ?>
+                    <tr style="border-bottom:1px solid #f3f4f6;"><td style="padding:10px;"><?= htmlspecialchars($ag['label']) ?></td><td style="padding:10px; text-align:center;"><?= $ag['min_age'] ?>-<?= $ag['max_age'] ?> anos</td><td style="padding:10px; text-align:right; font-weight:600; color:#1b6f00;">$<?= number_format($ag['price'], 2) ?></td></tr>
+                    <?php endforeach; ?>
+                </table>
+                <?php endif; ?>
             </div>
+            <?php endforeach; endif; ?>
+        </div>
+
+        <!-- Tab: FAQs -->
+        <div id="tab-faqs" class="tab-content" style="display:none;">
+            <?php if (!empty($faqs)): foreach ($faqs as $faq): ?>
+            <details style="border:1px solid #e5e7eb; border-radius:8px; padding:16px; margin-bottom:12px;">
+                <summary style="font-family:'Poppins',sans-serif; font-weight:500; cursor:pointer;"><?= htmlspecialchars($faq['question']) ?></summary>
+                <p style="margin-top:12px; color:#4B5563; font-size:15px; line-height:1.6;"><?= htmlspecialchars($faq['answer']) ?></p>
+            </details>
+            <?php endforeach; endif; ?>
+        </div>
+    </div>
+
+    <!-- Sidebar -->
+    <div style="width:350px; flex-shrink:0;">
+        <div style="position:sticky; top:20px; background:#fff; border:1px solid #e5e7eb; border-radius:16px; padding:30px; box-shadow:0 4px 20px rgba(0,0,0,0.08);">
+            <div style="text-align:center; margin-bottom:20px;">
+                <?php if ($t['discount_percent'] > 0): ?>
+                <span style="background:#ffd700; color:#1b6f00; padding:4px 12px; border-radius:15px; font-size:12px; font-weight:600;"><?= (int)$t['discount_percent'] ?>% OFF</span>
+                <?php endif; ?>
+                <div style="margin-top:15px;">
+                    <?php if ($t['discount_percent'] > 0): ?>
+                    <del style="color:#999; font-size:16px;">$<?= number_format($t['price_from'] / (1 - $t['discount_percent']/100), 0) ?></del>
+                    <?php endif; ?>
+                    <span style="font-family:'Poppins',sans-serif; font-size:36px; font-weight:700; color:#1b6f00;">$<?= number_format($t['price_from'], 0) ?></span>
+                    <span style="font-size:14px; color:#666;"> / pessoa</span>
+                </div>
+            </div>
+
+            <?php if ($t['duration_hours'] > 0): ?>
+            <div style="display:flex; align-items:center; gap:10px; padding:12px 0; border-top:1px solid #f3f4f6;">
+                <span class="wpte-icon-clock" style="color:#3772c0;"></span>
+                <span style="font-family:'Poppins',sans-serif; font-size:14px;"><?= $t['duration_hours'] ?> Horas</span>
+            </div>
+            <?php endif; ?>
+
+            <a href="<?= base_url('carrinho/adicionar?item_type=tour&item_id=' . $t['id']) ?>" style="display:block; width:100%; padding:16px; background:#1b6f00; color:#fff; text-align:center; border-radius:8px; font-family:'Poppins',sans-serif; font-size:16px; font-weight:600; text-decoration:none; margin-top:20px; transition:background 0.3s;" onmouseover="this.style.background='#155d00'" onmouseout="this.style.background='#1b6f00'">Verificar Disponibilidade</a>
+            
+            <p style="text-align:center; margin-top:15px; font-size:13px; color:#666;">
+                Precisa de ajuda? <a href="https://api.whatsapp.com/send?phone=18294582170" style="color:#1b6f00; font-weight:500;">Envie-Nos Uma Mensagem</a>
+            </p>
+        </div>
+
+        <!-- Related Tours -->
+        <?php if (!empty($relatedTours)): ?>
+        <div style="margin-top:30px;">
+            <h3 style="font-family:'Poppins',sans-serif; font-size:18px; font-weight:600; margin-bottom:15px;">Passeios Relacionados</h3>
+            <?php foreach ($relatedTours as $rel): ?>
+            <a href="<?= base_url('passeio?slug=' . $rel['slug']) ?>" style="display:flex; gap:12px; padding:12px 0; border-bottom:1px solid #f3f4f6; text-decoration:none; color:inherit;">
+                <?php if (!empty($rel['image_url'])): ?>
+                <img src="<?= htmlspecialchars($rel['image_url']) ?>" style="width:70px; height:50px; object-fit:cover; border-radius:6px;">
+                <?php endif; ?>
+                <div>
+                    <p style="font-family:'Poppins',sans-serif; font-size:14px; font-weight:500; color:#1C2011; margin:0;"><?= htmlspecialchars($rel['name']) ?></p>
+                    <span style="font-size:14px; font-weight:600; color:#1b6f00;">$<?= number_format($rel['price_from'], 0) ?></span>
+                </div>
+            </a>
+            <?php endforeach; ?>
         </div>
         <?php endif; ?>
     </div>
-</section>
+</div>
 
-<?php $content = ob_get_clean(); ?>
-<?php include VIEWS_PATH . '/layouts/site.php'; ?>
+<!-- Tab switching script -->
+<script>
+function showTab(tab) {
+    document.querySelectorAll('.tab-content').forEach(el => el.style.display = 'none');
+    document.querySelectorAll('.tab-btn').forEach(el => { el.style.borderBottom = 'none'; el.style.color = '#4B5563'; });
+    document.getElementById('tab-' + tab).style.display = 'block';
+    event.target.style.borderBottom = '2px solid #1b6f00';
+    event.target.style.color = '#1b6f00';
+}
+</script>

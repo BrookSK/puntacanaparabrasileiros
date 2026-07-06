@@ -31,14 +31,24 @@ class TourController extends Controller
             return;
         }
 
-        // Disponibilizar dados para a view estática
-        $GLOBALS['current_tour'] = $tour;
-        $GLOBALS['tour_packages'] = $tourModel->getPackages($tour['id']);
-        $GLOBALS['tour_faqs'] = $tourModel->getFaq($tour['id']);
-        $GLOBALS['tour_reviews'] = $tourModel->getReviews($tour['id']);
+        // Buscar dados relacionados
+        $packages = $tourModel->getPackages($tour['id']);
+        $faqs = $tourModel->getFaq($tour['id']);
+        $reviews = $tourModel->getReviews($tour['id']);
+        $relatedTours = $tourModel->getRelated($tour['id'], $tour['category_id']);
 
-        // Usar o layout WP da single page
-        require_once VIEWS_PATH . '/site/passeio-detalhe-wp.php';
+        foreach ($packages as &$package) {
+            $package['age_groups'] = $tourModel->getAgeGroups($package['id']);
+        }
+
+        $this->wpView('site/tours/show', [
+            'pageTitle' => $tour['name'] . ' - Punta Cana para Brasileiros',
+            'tour' => $tour,
+            'packages' => $packages,
+            'faqs' => $faqs,
+            'reviews' => $reviews,
+            'relatedTours' => $relatedTours,
+        ]);
     }
 
     public function showWp()
